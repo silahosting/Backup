@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-21T17:34:02.090Z",
+  "backedUpAt": "2026-05-21T23:36:47.450Z",
   "users": [
     {
       "id": "cafd3e93-a94e-4554-9bd5-a5de899eb779",
@@ -110,6 +110,15 @@
       "created_at": "2026-05-19T04:56:46.865+00:00"
     },
     {
+      "id": "6625b006-53a5-4dd1-aafc-8adbbdc7b4f3",
+      "username": "Bodag Wetan",
+      "email": "bodagwetan@gmail.com",
+      "password": "oauth_1779403310884_13x37kphgc5j",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-21T22:41:51.886+00:00"
+    },
+    {
       "id": "251b9684-130e-4ad4-8a8b-0bc1d51d4f7d",
       "username": "Rija Rifai",
       "email": "rizabujel57@gmail.com",
@@ -144,6 +153,15 @@
       "role": "user",
       "balance": 5000,
       "created_at": "2026-05-19T11:25:59.086+00:00"
+    },
+    {
+      "id": "96180367-dcaf-43ab-932b-6fb466616669",
+      "username": "KANEKES",
+      "email": "kanekes26@gmail.com",
+      "password": "oauth_1779406499442_np3l0izy0r",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-21T23:35:00.396+00:00"
     },
     {
       "id": "630d6a01-3b29-493b-a1fb-aa166a52b327",
