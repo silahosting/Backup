@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-22T17:30:52.416Z",
+  "backedUpAt": "2026-05-22T17:31:20.334Z",
   "users": [
     {
       "id": "cafd3e93-a94e-4554-9bd5-a5de899eb779",
@@ -218,15 +218,6 @@
       "created_at": "2026-05-22T13:21:22.918+00:00"
     },
     {
-      "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
-      "username": "Sandi",
-      "email": "payshope52@gmail.com",
-      "password": "qwe12345",
-      "role": "user",
-      "balance": 1265,
-      "created_at": "2026-05-20T13:41:58.639+00:00"
-    },
-    {
       "id": "caed60b8-46eb-4c07-805d-acd91848714b",
       "username": "Salsa dila juwita",
       "email": "salsanovember11@gmail.com",
@@ -234,6 +225,15 @@
       "role": "user",
       "balance": 7438,
       "created_at": "2026-05-19T15:17:30.159+00:00"
+    },
+    {
+      "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
+      "username": "Sandi",
+      "email": "payshope52@gmail.com",
+      "password": "qwe12345",
+      "role": "user",
+      "balance": 115,
+      "created_at": "2026-05-20T13:41:58.639+00:00"
     },
     {
       "id": "78a4b347-d8d4-4caa-84ab-e305169c4dd0",
@@ -3342,6 +3342,22 @@
       "expired_at": null,
       "created_at": "2026-05-22T17:24:11.267+00:00",
       "updated_at": "2026-05-22T17:27:20.782+00:00"
+    },
+    {
+      "id": "9xfbkxgzlmph74mzp",
+      "user_id": "payshope52@gmail.com",
+      "user_email": "payshope52@gmail.com",
+      "type": "purchase",
+      "amount": 1150,
+      "fee": 1000,
+      "total": 1150,
+      "status": "pending",
+      "deposit_id": "RO0011142830",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-22T17:31:07.237+00:00",
+      "updated_at": "2026-05-22T17:31:07.237+00:00"
     }
   ],
   "notifications": [],
