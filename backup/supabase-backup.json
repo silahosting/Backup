@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-22T19:31:20.811Z",
+  "backedUpAt": "2026-05-22T19:35:52.363Z",
   "users": [
     {
       "id": "cafd3e93-a94e-4554-9bd5-a5de899eb779",
@@ -3408,13 +3408,13 @@
       "amount": 1150,
       "fee": 1000,
       "total": 1150,
-      "status": "pending",
+      "status": "expired",
       "deposit_id": "RO0011147458",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-22T19:19:43.732+00:00",
-      "updated_at": "2026-05-22T19:19:43.732+00:00"
+      "updated_at": "2026-05-22T19:35:20.794+00:00"
     },
     {
       "id": "gddvgdkepmph8gfuw",
