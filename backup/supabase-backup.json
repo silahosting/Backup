@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-22T01:31:47.851Z",
+  "backedUpAt": "2026-05-22T01:36:47.727Z",
   "users": [
     {
       "id": "cafd3e93-a94e-4554-9bd5-a5de899eb779",
@@ -2524,22 +2524,6 @@
       "updated_at": "2026-05-21T03:29:59.885+00:00"
     },
     {
-      "id": "3y0as6dwqmpexno0f",
-      "user_id": "bakmurmantap@gmail.com",
-      "user_email": "bakmurmantap@gmail.com",
-      "type": "purchase",
-      "amount": 1227,
-      "fee": 1000,
-      "total": 1227,
-      "status": "pending",
-      "deposit_id": "smscode_1269247",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-21T03:30:26.511+00:00",
-      "updated_at": "2026-05-21T03:30:26.511+00:00"
-    },
-    {
       "id": "8gwr5sz6vmpf0sccu",
       "user_id": "bakmurmantap@gmail.com",
       "user_email": "bakmurmantap@gmail.com",
@@ -2730,6 +2714,22 @@
       "expired_at": null,
       "created_at": "2026-05-21T05:15:15.228+00:00",
       "updated_at": "2026-05-21T05:24:38.996+00:00"
+    },
+    {
+      "id": "3y0as6dwqmpexno0f",
+      "user_id": "bakmurmantap@gmail.com",
+      "user_email": "bakmurmantap@gmail.com",
+      "type": "purchase",
+      "amount": 1227,
+      "fee": 1000,
+      "total": 1227,
+      "status": "expired",
+      "deposit_id": "smscode_1269247",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-21T03:30:26.511+00:00",
+      "updated_at": "2026-05-22T01:34:21.84+00:00"
     },
     {
       "id": "c0k4gjrdxmpf4x1z8",
