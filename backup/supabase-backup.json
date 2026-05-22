@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-22T17:16:20.176Z",
+  "backedUpAt": "2026-05-22T17:20:52.394Z",
   "users": [
     {
       "id": "cafd3e93-a94e-4554-9bd5-a5de899eb779",
@@ -3294,6 +3294,22 @@
       "expired_at": null,
       "created_at": "2026-05-22T09:19:25.313+00:00",
       "updated_at": "2026-05-22T15:38:12.359+00:00"
+    },
+    {
+      "id": "m9sffakeumph6o6yf",
+      "user_id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
+      "user_email": "payshope52@gmail.com",
+      "type": "deposit",
+      "amount": 1500,
+      "fee": 519,
+      "total": 2019,
+      "status": "pending",
+      "deposit_id": "TRX-1779470298074-IZWOR",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540420195802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A0163043BC4&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540420195802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163043BC4",
+      "expired_at": "2026-05-22T17:33:18.075+00:00",
+      "created_at": "2026-05-22T17:18:19.959+00:00",
+      "updated_at": "2026-05-22T17:18:19.959+00:00"
     }
   ],
   "notifications": [],
