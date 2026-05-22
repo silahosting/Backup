@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-22T05:45:50.498Z",
+  "backedUpAt": "2026-05-22T05:50:50.424Z",
   "users": [
     {
       "id": "cafd3e93-a94e-4554-9bd5-a5de899eb779",
@@ -2931,6 +2931,22 @@
       "expired_at": null,
       "created_at": "2026-05-21T07:29:22.003+00:00",
       "updated_at": "2026-05-21T07:38:33.935+00:00"
+    },
+    {
+      "id": "uyjmcxslhmpghxz18",
+      "user_id": "ASRGroup17@admin.com",
+      "user_email": "ASRGroup17@admin.com",
+      "type": "deposit",
+      "amount": 10000,
+      "fee": 567,
+      "total": 10567,
+      "status": "cancel",
+      "deposit_id": "TRX-1779428763594-G1PEI",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105675802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A016304D440&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105675802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A016304D440",
+      "expired_at": "2026-05-22T06:01:03.595+00:00",
+      "created_at": "2026-05-22T05:46:05.852+00:00",
+      "updated_at": "2026-05-22T05:46:16.776+00:00"
     },
     {
       "id": "t6c6srq3hmpf6pb8y",
