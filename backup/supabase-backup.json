@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-22T21:41:20.451Z",
+  "backedUpAt": "2026-05-22T21:45:52.420Z",
   "users": [
     {
       "id": "cafd3e93-a94e-4554-9bd5-a5de899eb779",
@@ -3401,6 +3401,22 @@
       "updated_at": "2026-05-22T19:18:22.003+00:00"
     },
     {
+      "id": "z2qtdfc0kmphg5xd9",
+      "user_id": "fahrihosting3@gmail.com",
+      "user_email": "fahrihosting3@gmail.com",
+      "type": "purchase",
+      "amount": 1150,
+      "fee": 1000,
+      "total": 1150,
+      "status": "pending",
+      "deposit_id": "RO0011153631",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-22T21:44:03.885+00:00",
+      "updated_at": "2026-05-22T21:44:03.885+00:00"
+    },
+    {
       "id": "gddvgdkepmph8gfuw",
       "user_id": "fahrihosting3@gmail.com",
       "user_email": "fahrihosting3@gmail.com",
@@ -3607,6 +3623,22 @@
       "expired_at": null,
       "created_at": "2026-05-22T21:35:05.716+00:00",
       "updated_at": "2026-05-22T21:35:05.716+00:00"
+    },
+    {
+      "id": "1vn18w1clmphg3qe4",
+      "user_id": "jetzofficial.id@gmail.com",
+      "user_email": "jetzofficial.id@gmail.com",
+      "type": "deposit",
+      "amount": 10000,
+      "fee": 554,
+      "total": 10554,
+      "status": "cancel",
+      "deposit_id": "TRX-1779486139448-IA76I",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105545802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A016304EA81&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105545802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A016304EA81",
+      "expired_at": "2026-05-22T21:57:19.448+00:00",
+      "created_at": "2026-05-22T21:42:21.532+00:00",
+      "updated_at": "2026-05-22T21:42:27.795+00:00"
     }
   ],
   "notifications": [],
