@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-22T18:26:20.387Z",
+  "backedUpAt": "2026-05-22T18:30:52.708Z",
   "users": [
     {
       "id": "cafd3e93-a94e-4554-9bd5-a5de899eb779",
@@ -243,6 +243,15 @@
       "role": "user",
       "balance": 1938,
       "created_at": "2026-05-19T09:16:51.732+00:00"
+    },
+    {
+      "id": "ec13dac4-ebd6-4475-b918-454cec71982a",
+      "username": "Fafan",
+      "email": "fafanpuja@gmail.com",
+      "password": "oauth_1779474449584_4tap0n6edb7",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-22T18:27:30.554+00:00"
     },
     {
       "id": "99c8c6c6-66f6-4340-bce9-74a4aac06b4c",
@@ -3374,6 +3383,22 @@
       "expired_at": null,
       "created_at": "2026-05-22T18:08:17.48+00:00",
       "updated_at": "2026-05-22T18:08:17.48+00:00"
+    },
+    {
+      "id": "nhvzwzn9qmph980gb",
+      "user_id": "ec13dac4-ebd6-4475-b918-454cec71982a",
+      "user_email": "fafanpuja@gmail.com",
+      "type": "deposit",
+      "amount": 2000,
+      "fee": 555,
+      "total": 2555,
+      "status": "pending",
+      "deposit_id": "TRX-1779474581684-1CJ4Q",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540425555802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A016304D52B&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540425555802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A016304D52B",
+      "expired_at": "2026-05-22T18:44:41.685+00:00",
+      "created_at": "2026-05-22T18:29:43.883+00:00",
+      "updated_at": "2026-05-22T18:29:43.883+00:00"
     }
   ],
   "notifications": [],
