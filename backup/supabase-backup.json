@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-23T07:36:22.370Z",
+  "backedUpAt": "2026-05-23T07:40:54.437Z",
   "users": [
     {
       "id": "cafd3e93-a94e-4554-9bd5-a5de899eb779",
@@ -268,7 +268,7 @@
       "email": "dengabos99@gmail.com",
       "password": "oauth_1779521328057_cafcncku2nf",
       "role": "user",
-      "balance": 8863,
+      "balance": 7726,
       "created_at": "2026-05-23T07:28:48.524+00:00"
     }
   ],
@@ -3554,6 +3554,22 @@
       "updated_at": "2026-05-22T21:04:32.687+00:00"
     },
     {
+      "id": "em50ryoaempi15phb",
+      "user_id": "dengabos99@gmail.com",
+      "user_email": "dengabos99@gmail.com",
+      "type": "purchase",
+      "amount": 1137,
+      "fee": 1000,
+      "total": 1137,
+      "status": "completed",
+      "deposit_id": "smscode_1359510",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-23T07:31:45.599+00:00",
+      "updated_at": "2026-05-23T07:40:09.983+00:00"
+    },
+    {
       "id": "1vn18w1clmphg3qe4",
       "user_id": "jetzofficial.id@gmail.com",
       "user_email": "jetzofficial.id@gmail.com",
@@ -3618,20 +3634,20 @@
       "updated_at": "2026-05-22T22:27:51.833+00:00"
     },
     {
-      "id": "em50ryoaempi15phb",
+      "id": "yfq15gh0ympi1gxwg",
       "user_id": "dengabos99@gmail.com",
       "user_email": "dengabos99@gmail.com",
       "type": "purchase",
       "amount": 1137,
       "fee": 1000,
       "total": 1137,
-      "status": "success",
-      "deposit_id": "smscode_1359510",
+      "status": "pending",
+      "deposit_id": "smscode_1360018",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
-      "created_at": "2026-05-23T07:31:45.599+00:00",
-      "updated_at": "2026-05-23T07:33:52.746+00:00"
+      "created_at": "2026-05-23T07:40:29.728+00:00",
+      "updated_at": "2026-05-23T07:40:29.728+00:00"
     },
     {
       "id": "yzl5pvcddmph9cfyg",
