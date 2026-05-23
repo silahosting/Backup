@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-23T00:46:20.608Z",
+  "backedUpAt": "2026-05-23T00:50:53.095Z",
   "users": [
     {
       "id": "cafd3e93-a94e-4554-9bd5-a5de899eb779",
@@ -250,7 +250,7 @@
       "email": "payshope52@gmail.com",
       "password": "qwe12345",
       "role": "user",
-      "balance": 1265,
+      "balance": 109,
       "created_at": "2026-05-20T13:41:58.639+00:00"
     },
     {
@@ -3671,6 +3671,22 @@
       "expired_at": null,
       "created_at": "2026-05-22T23:19:01.689+00:00",
       "updated_at": "2026-05-22T23:44:30.25+00:00"
+    },
+    {
+      "id": "7vsptpflsmphmqjc7",
+      "user_id": "payshope52@gmail.com",
+      "user_email": "payshope52@gmail.com",
+      "type": "purchase",
+      "amount": 1156,
+      "fee": 1000,
+      "total": 1156,
+      "status": "pending",
+      "deposit_id": "smscode_1345773",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-23T00:48:03.175+00:00",
+      "updated_at": "2026-05-23T00:48:03.175+00:00"
     }
   ],
   "notifications": [],
