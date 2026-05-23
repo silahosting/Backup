@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-23T09:06:22.650Z",
+  "backedUpAt": "2026-05-23T09:10:54.608Z",
   "users": [
     {
       "id": "cafd3e93-a94e-4554-9bd5-a5de899eb779",
@@ -279,6 +279,15 @@
       "role": "user",
       "balance": 3262,
       "created_at": "2026-05-23T08:21:36.4+00:00"
+    },
+    {
+      "id": "906b8222-d3bf-47de-8164-ee07f914864c",
+      "username": "Asep",
+      "email": "nadine.lestari7@gmail.com",
+      "password": "Otpgratis2016",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-23T09:09:36.519+00:00"
     }
   ],
   "transactions": [
@@ -3848,7 +3857,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-23T08:49:25.65+00:00",
-      "updated_at": "2026-05-23T08:57:34.69+00:00"
+      "updated_at": "2026-05-23T09:10:42.112+00:00"
     }
   ],
   "notifications": [],
