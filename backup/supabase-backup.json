@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-23T11:36:22.942Z",
+  "backedUpAt": "2026-05-23T11:40:54.735Z",
   "users": [
     {
       "id": "cafd3e93-a94e-4554-9bd5-a5de899eb779",
@@ -288,6 +288,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-23T09:09:36.519+00:00"
+    },
+    {
+      "id": "d6084055-25fa-41ab-86a4-11c88ecad805",
+      "username": "KAAA HOSTING",
+      "email": "kaaahosting@gmail.com",
+      "password": "oauth_1779536385825_x46n1mqyzja",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-23T11:39:46.779+00:00"
     }
   ],
   "transactions": [
