@@ -1,15 +1,6 @@
 {
-  "backedUpAt": "2026-05-24T01:36:24.898Z",
+  "backedUpAt": "2026-05-24T01:40:56.738Z",
   "users": [
-    {
-      "id": "fb7e729e-7742-46d8-940d-01914570aa4f",
-      "username": "den gabos",
-      "email": "dengabos99@gmail.com",
-      "password": "oauth_1779521328057_cafcncku2nf",
-      "role": "user",
-      "balance": 5531,
-      "created_at": "2026-05-23T07:28:48.524+00:00"
-    },
     {
       "id": "cafd3e93-a94e-4554-9bd5-a5de899eb779",
       "username": "fahri",
@@ -72,6 +63,15 @@
       "role": "user",
       "balance": 26,
       "created_at": "2026-05-20T05:33:53.922+00:00"
+    },
+    {
+      "id": "fb7e729e-7742-46d8-940d-01914570aa4f",
+      "username": "den gabos",
+      "email": "dengabos99@gmail.com",
+      "password": "oauth_1779521328057_cafcncku2nf",
+      "role": "user",
+      "balance": 5453,
+      "created_at": "2026-05-23T07:28:48.524+00:00"
     },
     {
       "id": "7c1fc19b-68eb-451b-aaf6-8915338f42b8",
@@ -3821,6 +3821,22 @@
       "updated_at": "2026-05-23T08:23:14.975+00:00"
     },
     {
+      "id": "05j2xq992mpj397jc",
+      "user_id": "dengabos99@gmail.com",
+      "user_email": "dengabos99@gmail.com",
+      "type": "purchase",
+      "amount": 1078,
+      "fee": 1000,
+      "total": 1078,
+      "status": "expired",
+      "deposit_id": "smscode_1396223",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-24T01:18:14.376+00:00",
+      "updated_at": "2026-05-24T01:39:52.711+00:00"
+    },
+    {
       "id": "tdktl6du2mpi30u5p",
       "user_id": "ozangaib@gmail.com",
       "user_email": "ozangaib@gmail.com",
@@ -4093,22 +4109,6 @@
       "updated_at": "2026-05-24T01:17:51.951+00:00"
     },
     {
-      "id": "05j2xq992mpj397jc",
-      "user_id": "dengabos99@gmail.com",
-      "user_email": "dengabos99@gmail.com",
-      "type": "purchase",
-      "amount": 1078,
-      "fee": 1000,
-      "total": 1078,
-      "status": "pending",
-      "deposit_id": "smscode_1396223",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-24T01:18:14.376+00:00",
-      "updated_at": "2026-05-24T01:18:14.376+00:00"
-    },
-    {
       "id": "suc9dkqxdmpj1ga66",
       "user_id": "dengabos99@gmail.com",
       "user_email": "dengabos99@gmail.com",
@@ -4139,6 +4139,22 @@
       "expired_at": null,
       "created_at": "2026-05-24T01:17:10.373+00:00",
       "updated_at": "2026-05-24T01:26:02.079+00:00"
+    },
+    {
+      "id": "egyyneny0mpj3zbb3",
+      "user_id": "dengabos99@gmail.com",
+      "user_email": "dengabos99@gmail.com",
+      "type": "purchase",
+      "amount": 1156,
+      "fee": 1000,
+      "total": 1156,
+      "status": "pending",
+      "deposit_id": "smscode_1396550",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-24T01:38:32.319+00:00",
+      "updated_at": "2026-05-24T01:38:32.319+00:00"
     }
   ],
   "notifications": [],
