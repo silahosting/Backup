@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-24T19:46:26.848Z",
+  "backedUpAt": "2026-05-24T19:50:58.995Z",
   "users": [
     {
       "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
@@ -577,22 +577,6 @@
       "updated_at": "2026-05-19T04:31:18.649+00:00"
     },
     {
-      "id": "rrx30kc0hmpjkpin5",
-      "user_id": "fahrihosting3@gmail.com",
-      "user_email": "fahrihosting3@gmail.com",
-      "type": "purchase",
-      "amount": 1150,
-      "fee": 1000,
-      "total": 1150,
-      "status": "expired",
-      "deposit_id": "RO0011362492",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-24T09:26:48.737+00:00",
-      "updated_at": "2026-05-24T09:57:15.324+00:00"
-    },
-    {
       "id": "y4pza7kiempcbv5y3",
       "user_id": "bakmurmantap@gmail.com",
       "user_email": "bakmurmantap@gmail.com",
@@ -639,6 +623,22 @@
       "expired_at": null,
       "created_at": "2026-05-19T11:54:33.777+00:00",
       "updated_at": "2026-05-19T15:28:02.534+00:00"
+    },
+    {
+      "id": "rrx30kc0hmpjkpin5",
+      "user_id": "fahrihosting3@gmail.com",
+      "user_email": "fahrihosting3@gmail.com",
+      "type": "purchase",
+      "amount": 1150,
+      "fee": 1000,
+      "total": 1150,
+      "status": "success",
+      "deposit_id": "RO0011362492",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-24T09:26:48.737+00:00",
+      "updated_at": "2026-05-24T19:48:53.549+00:00"
     },
     {
       "id": "zy0rk2649mpcekgm1",
