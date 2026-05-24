@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-24T10:36:25.940Z",
+  "backedUpAt": "2026-05-24T10:40:57.411Z",
   "users": [
     {
       "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
@@ -4534,6 +4534,54 @@
       "expired_at": null,
       "created_at": "2026-05-24T10:06:42.744+00:00",
       "updated_at": "2026-05-24T10:06:42.744+00:00"
+    },
+    {
+      "id": "1etnlhet8mpjn7mfk",
+      "user_id": "jetzofficial.id@gmail.com",
+      "user_email": "jetzofficial.id@gmail.com",
+      "type": "deposit",
+      "amount": 10000,
+      "fee": 541,
+      "total": 10541,
+      "status": "cancel",
+      "deposit_id": "TRX-1779619010794-TZ10Y",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105415802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A0163046F7B&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105415802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163046F7B",
+      "expired_at": "2026-05-24T10:51:50.794+00:00",
+      "created_at": "2026-05-24T10:36:52.688+00:00",
+      "updated_at": "2026-05-24T10:36:59.291+00:00"
+    },
+    {
+      "id": "uf0uz8t9impjn88yc",
+      "user_id": "jetzofficial.id@gmail.com",
+      "user_email": "jetzofficial.id@gmail.com",
+      "type": "deposit",
+      "amount": 10000,
+      "fee": 598,
+      "total": 10598,
+      "status": "cancel",
+      "deposit_id": "TRX-1779619040021-K658C",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105985802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A0163041185&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105985802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163041185",
+      "expired_at": "2026-05-24T10:52:20.021+00:00",
+      "created_at": "2026-05-24T10:37:21.876+00:00",
+      "updated_at": "2026-05-24T10:37:31.094+00:00"
+    },
+    {
+      "id": "s7quc9wglmpjn9crx",
+      "user_id": "jetzofficial.id@gmail.com",
+      "user_email": "jetzofficial.id@gmail.com",
+      "type": "deposit",
+      "amount": 10000,
+      "fee": 538,
+      "total": 10538,
+      "status": "cancel",
+      "deposit_id": "TRX-1779619091632-GUI59",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105385802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A016304679A&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105385802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A016304679A",
+      "expired_at": "2026-05-24T10:53:11.632+00:00",
+      "created_at": "2026-05-24T10:38:13.485+00:00",
+      "updated_at": "2026-05-24T10:38:21.229+00:00"
     }
   ],
   "notifications": [],
