@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-24T03:01:25.103Z",
+  "backedUpAt": "2026-05-24T03:05:56.939Z",
   "users": [
     {
       "id": "cafd3e93-a94e-4554-9bd5-a5de899eb779",
@@ -259,7 +259,7 @@
       "email": "andhimazahran@gmail.com",
       "password": "oauth_1779591284162_lzkgqn4rtve",
       "role": "user",
-      "balance": 8922,
+      "balance": 7036,
       "created_at": "2026-05-24T02:54:44.687+00:00"
     },
     {
@@ -3855,6 +3855,22 @@
       "updated_at": "2026-05-24T02:56:14.557+00:00"
     },
     {
+      "id": "fu1ex0u1ompj6v7sw",
+      "user_id": "andhimazahran@gmail.com",
+      "user_email": "andhimazahran@gmail.com",
+      "type": "purchase",
+      "amount": 1078,
+      "fee": 1000,
+      "total": 1078,
+      "status": "cancel",
+      "deposit_id": "smscode_1399083",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-24T02:59:20+00:00",
+      "updated_at": "2026-05-24T03:03:12.055+00:00"
+    },
+    {
       "id": "tdktl6du2mpi30u5p",
       "user_id": "ozangaib@gmail.com",
       "user_email": "ozangaib@gmail.com",
@@ -3983,38 +3999,6 @@
       "updated_at": "2026-05-23T19:59:48.288+00:00"
     },
     {
-      "id": "fu1ex0u1ompj6v7sw",
-      "user_id": "andhimazahran@gmail.com",
-      "user_email": "andhimazahran@gmail.com",
-      "type": "purchase",
-      "amount": 1078,
-      "fee": 1000,
-      "total": 1078,
-      "status": "pending",
-      "deposit_id": "smscode_1399083",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-24T02:59:20+00:00",
-      "updated_at": "2026-05-24T02:59:20+00:00"
-    },
-    {
-      "id": "br7hz2cb6mpj6ru6m",
-      "user_id": "andhimazahran@gmail.com",
-      "user_email": "andhimazahran@gmail.com",
-      "type": "purchase",
-      "amount": 2782,
-      "fee": 1000,
-      "total": 2782,
-      "status": "cancel",
-      "deposit_id": "smscode_1399010",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-24T02:56:42.382+00:00",
-      "updated_at": "2026-05-24T03:00:22.788+00:00"
-    },
-    {
       "id": "42jymxqhkmpiqwfvd",
       "user_id": "fahrihosting3@gmail.com",
       "user_email": "fahrihosting3@gmail.com",
@@ -4127,6 +4111,22 @@
       "updated_at": "2026-05-24T01:45:01.2+00:00"
     },
     {
+      "id": "a23suzm9vmpj6yn6r",
+      "user_id": "andhimazahran@gmail.com",
+      "user_email": "andhimazahran@gmail.com",
+      "type": "purchase",
+      "amount": 2964,
+      "fee": 1000,
+      "total": 2964,
+      "status": "success",
+      "deposit_id": "smscode_1399175",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-24T03:01:59.906+00:00",
+      "updated_at": "2026-05-24T03:05:02.224+00:00"
+    },
+    {
       "id": "cmo06e4b7mpil2jv0",
       "user_id": "fahrihosting3@gmail.com",
       "user_email": "fahrihosting3@gmail.com",
@@ -4157,6 +4157,22 @@
       "expired_at": null,
       "created_at": "2026-05-24T00:32:55.416+00:00",
       "updated_at": "2026-05-24T01:17:51.951+00:00"
+    },
+    {
+      "id": "br7hz2cb6mpj6ru6m",
+      "user_id": "andhimazahran@gmail.com",
+      "user_email": "andhimazahran@gmail.com",
+      "type": "purchase",
+      "amount": 2782,
+      "fee": 1000,
+      "total": 2782,
+      "status": "cancel",
+      "deposit_id": "smscode_1399010",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-24T02:56:42.382+00:00",
+      "updated_at": "2026-05-24T03:05:32.409+00:00"
     },
     {
       "id": "suc9dkqxdmpj1ga66",
