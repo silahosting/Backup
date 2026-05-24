@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-24T20:11:27.116Z",
+  "backedUpAt": "2026-05-24T20:15:58.841Z",
   "users": [
     {
       "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
@@ -4863,6 +4863,54 @@
       "expired_at": "2026-05-24T20:23:12.77+00:00",
       "created_at": "2026-05-24T20:08:14.712+00:00",
       "updated_at": "2026-05-24T20:08:23.845+00:00"
+    },
+    {
+      "id": "9ozx5fohfmpk7scqj",
+      "user_id": "fahrihosting3@gmail.com",
+      "user_email": "fahrihosting3@gmail.com",
+      "type": "deposit",
+      "amount": 10000,
+      "fee": 532,
+      "total": 10532,
+      "status": "cancel",
+      "deposit_id": "TRX-1779653570224-62BNS",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105325802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A0163049703&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105325802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163049703",
+      "expired_at": "2026-05-24T20:27:50.224+00:00",
+      "created_at": "2026-05-24T20:12:52.219+00:00",
+      "updated_at": "2026-05-24T20:12:58.015+00:00"
+    },
+    {
+      "id": "pxkb24qf7mpk7sp8d",
+      "user_id": "fahrihosting3@gmail.com",
+      "user_email": "fahrihosting3@gmail.com",
+      "type": "deposit",
+      "amount": 10000,
+      "fee": 591,
+      "total": 10591,
+      "status": "cancel",
+      "deposit_id": "TRX-1779653586479-TGJWU",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105915802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A0163044137&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105915802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163044137",
+      "expired_at": "2026-05-24T20:28:06.479+00:00",
+      "created_at": "2026-05-24T20:13:08.413+00:00",
+      "updated_at": "2026-05-24T20:13:12.723+00:00"
+    },
+    {
+      "id": "7kttie6pwmpk7udzm",
+      "user_id": "fahrihosting3@gmail.com",
+      "user_email": "fahrihosting3@gmail.com",
+      "type": "purchase",
+      "amount": 1200,
+      "fee": 1000,
+      "total": 1200,
+      "status": "pending",
+      "deposit_id": "RO0011410027",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-24T20:14:27.154+00:00",
+      "updated_at": "2026-05-24T20:14:27.154+00:00"
     }
   ],
   "notifications": [],
