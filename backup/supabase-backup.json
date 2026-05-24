@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-24T19:26:26.765Z",
+  "backedUpAt": "2026-05-24T19:30:58.686Z",
   "users": [
     {
       "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
@@ -270,6 +270,15 @@
       "role": "user",
       "balance": 1938,
       "created_at": "2026-05-19T09:16:51.732+00:00"
+    },
+    {
+      "id": "cf229c96-b06e-4cdd-a8bf-2759d2e27ba1",
+      "username": "A&M STORE",
+      "email": "abipebriana61@gmail.com",
+      "password": "abi242802",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-24T19:30:29.531+00:00"
     },
     {
       "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
