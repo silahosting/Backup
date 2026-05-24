@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-24T18:56:27.659Z",
+  "backedUpAt": "2026-05-24T19:00:59.801Z",
   "users": [
     {
       "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
@@ -4783,13 +4783,13 @@
       "amount": 2933,
       "fee": 1000,
       "total": 2933,
-      "status": "completed",
+      "status": "success",
       "deposit_id": "smscode_1433007",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-24T18:37:49.029+00:00",
-      "updated_at": "2026-05-24T18:49:09.755+00:00"
+      "updated_at": "2026-05-24T19:00:22.389+00:00"
     },
     {
       "id": "szs2hpc5ympk3z3yo",
