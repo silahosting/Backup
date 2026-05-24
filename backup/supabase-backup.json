@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-24T07:16:25.726Z",
+  "backedUpAt": "2026-05-24T07:20:57.356Z",
   "users": [
     {
       "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
@@ -11,13 +11,13 @@
       "created_at": "2026-05-24T02:54:44.687+00:00"
     },
     {
-      "id": "caed60b8-46eb-4c07-805d-acd91848714b",
-      "username": "Salsa dila juwita",
-      "email": "salsanovember11@gmail.com",
-      "password": "salsadila28",
+      "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
+      "username": "anggreini",
+      "email": "rafirizal515@gmail.com",
+      "password": "Gojek@123",
       "role": "user",
-      "balance": 4342,
-      "created_at": "2026-05-19T15:17:30.159+00:00"
+      "balance": 0,
+      "created_at": "2026-05-24T07:16:57.244+00:00"
     },
     {
       "id": "cafd3e93-a94e-4554-9bd5-a5de899eb779",
@@ -81,6 +81,15 @@
       "role": "user",
       "balance": 26,
       "created_at": "2026-05-20T05:33:53.922+00:00"
+    },
+    {
+      "id": "caed60b8-46eb-4c07-805d-acd91848714b",
+      "username": "Salsa dila juwita",
+      "email": "salsanovember11@gmail.com",
+      "password": "salsadila28",
+      "role": "user",
+      "balance": 7438,
+      "created_at": "2026-05-19T15:17:30.159+00:00"
     },
     {
       "id": "fb7e729e-7742-46d8-940d-01914570aa4f",
@@ -4383,22 +4392,6 @@
       "updated_at": "2026-05-24T06:38:31.917+00:00"
     },
     {
-      "id": "k88olwwivmpjfcvd9",
-      "user_id": "salsanovember11@gmail.com",
-      "user_email": "salsanovember11@gmail.com",
-      "type": "purchase",
-      "amount": 3096,
-      "fee": 1000,
-      "total": 3096,
-      "status": "pending",
-      "deposit_id": "smscode_1407889",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-24T06:57:00.621+00:00",
-      "updated_at": "2026-05-24T06:57:00.621+00:00"
-    },
-    {
       "id": "acddevmyfmpjfq1n7",
       "user_id": "fahrihosting3@gmail.com",
       "user_email": "fahrihosting3@gmail.com",
@@ -4429,6 +4422,22 @@
       "expired_at": null,
       "created_at": "2026-05-24T07:12:26.948+00:00",
       "updated_at": "2026-05-24T07:12:26.948+00:00"
+    },
+    {
+      "id": "k88olwwivmpjfcvd9",
+      "user_id": "salsanovember11@gmail.com",
+      "user_email": "salsanovember11@gmail.com",
+      "type": "purchase",
+      "amount": 3096,
+      "fee": 1000,
+      "total": 3096,
+      "status": "expired",
+      "deposit_id": "smscode_1407889",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-24T06:57:00.621+00:00",
+      "updated_at": "2026-05-24T07:18:55.127+00:00"
     }
   ],
   "notifications": [],
