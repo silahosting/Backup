@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-24T18:06:27.425Z",
+  "backedUpAt": "2026-05-24T18:10:59.428Z",
   "users": [
     {
       "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
@@ -4616,6 +4616,22 @@
       "updated_at": "2026-05-24T17:38:37.223+00:00"
     },
     {
+      "id": "ylstqj3ecmpk2u699",
+      "user_id": "hafidzrivaldi@gmail.com",
+      "user_email": "hafidzrivaldi@gmail.com",
+      "type": "purchase",
+      "amount": 3085,
+      "fee": 1000,
+      "total": 3085,
+      "status": "cancel",
+      "deposit_id": "smscode_1431274",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-24T17:54:19.053+00:00",
+      "updated_at": "2026-05-24T18:10:22.888+00:00"
+    },
+    {
       "id": "44mz468d3mpk2wfc3",
       "user_id": "fahrihosting3@gmail.com",
       "user_email": "fahrihosting3@gmail.com",
@@ -4630,22 +4646,6 @@
       "expired_at": null,
       "created_at": "2026-05-24T17:56:04.131+00:00",
       "updated_at": "2026-05-24T17:56:04.131+00:00"
-    },
-    {
-      "id": "ho2yu4r7bmpk2nwfo",
-      "user_id": "hafidzrivaldi@gmail.com",
-      "user_email": "hafidzrivaldi@gmail.com",
-      "type": "purchase",
-      "amount": 2986,
-      "fee": 1000,
-      "total": 2986,
-      "status": "success",
-      "deposit_id": "smscode_1431185",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-24T17:49:26.388+00:00",
-      "updated_at": "2026-05-24T18:00:03.362+00:00"
     },
     {
       "id": "b97x57bfmmpk32bhy",
@@ -4687,13 +4687,13 @@
       "amount": 2986,
       "fee": 1000,
       "total": 2986,
-      "status": "completed",
+      "status": "success",
       "deposit_id": "smscode_1431093",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-24T17:46:02.505+00:00",
-      "updated_at": "2026-05-24T18:03:51.898+00:00"
+      "updated_at": "2026-05-24T18:08:22.626+00:00"
     },
     {
       "id": "aer9zv0vempk38005",
@@ -4703,29 +4703,45 @@
       "amount": 3085,
       "fee": 1000,
       "total": 3085,
-      "status": "pending",
+      "status": "cancel",
       "deposit_id": "smscode_1431645",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-24T18:05:04.133+00:00",
-      "updated_at": "2026-05-24T18:05:04.133+00:00"
+      "updated_at": "2026-05-24T18:09:02.612+00:00"
     },
     {
-      "id": "ylstqj3ecmpk2u699",
+      "id": "ho2yu4r7bmpk2nwfo",
+      "user_id": "hafidzrivaldi@gmail.com",
+      "user_email": "hafidzrivaldi@gmail.com",
+      "type": "purchase",
+      "amount": 2986,
+      "fee": 1000,
+      "total": 2986,
+      "status": "success",
+      "deposit_id": "smscode_1431185",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-24T17:49:26.388+00:00",
+      "updated_at": "2026-05-24T18:10:11.907+00:00"
+    },
+    {
+      "id": "ubhg0dqoampk3avuu",
       "user_id": "hafidzrivaldi@gmail.com",
       "user_email": "hafidzrivaldi@gmail.com",
       "type": "purchase",
       "amount": 3085,
       "fee": 1000,
       "total": 3085,
-      "status": "cancel",
-      "deposit_id": "smscode_1431274",
+      "status": "pending",
+      "deposit_id": "smscode_1431718",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
-      "created_at": "2026-05-24T17:54:19.053+00:00",
-      "updated_at": "2026-05-24T18:05:12.098+00:00"
+      "created_at": "2026-05-24T18:07:18.726+00:00",
+      "updated_at": "2026-05-24T18:07:18.726+00:00"
     }
   ],
   "notifications": [],
