@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-24T17:41:27.340Z",
+  "backedUpAt": "2026-05-24T17:45:59.366Z",
   "users": [
     {
       "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
@@ -4623,13 +4623,13 @@
       "amount": 2933,
       "fee": 1000,
       "total": 2933,
-      "status": "pending",
+      "status": "cancel",
       "deposit_id": "smscode_1430933",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-24T17:39:07.317+00:00",
-      "updated_at": "2026-05-24T17:39:07.317+00:00"
+      "updated_at": "2026-05-24T17:45:55.624+00:00"
     }
   ],
   "notifications": [],
