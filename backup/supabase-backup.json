@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-24T18:36:27.631Z",
+  "backedUpAt": "2026-05-24T18:40:59.727Z",
   "users": [
     {
       "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
@@ -4744,22 +4744,6 @@
       "updated_at": "2026-05-24T18:36:02.198+00:00"
     },
     {
-      "id": "88douwd9umpk4c86x",
-      "user_id": "hafidzrivaldi@gmail.com",
-      "user_email": "hafidzrivaldi@gmail.com",
-      "type": "purchase",
-      "amount": 2933,
-      "fee": 1000,
-      "total": 2933,
-      "status": "pending",
-      "deposit_id": "smscode_1432941",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-24T18:36:20.984+00:00",
-      "updated_at": "2026-05-24T18:36:20.984+00:00"
-    },
-    {
       "id": "rha1rmjnumpk2jj49",
       "user_id": "hafidzrivaldi@gmail.com",
       "user_email": "hafidzrivaldi@gmail.com",
@@ -4776,6 +4760,22 @@
       "updated_at": "2026-05-24T18:14:40.645+00:00"
     },
     {
+      "id": "3piv3vk19mpk4e44l",
+      "user_id": "hafidzrivaldi@gmail.com",
+      "user_email": "hafidzrivaldi@gmail.com",
+      "type": "purchase",
+      "amount": 2933,
+      "fee": 1000,
+      "total": 2933,
+      "status": "success",
+      "deposit_id": "smscode_1433007",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-24T18:37:49.029+00:00",
+      "updated_at": "2026-05-24T18:40:23.24+00:00"
+    },
+    {
       "id": "13xqvz8p4mpk3tq72",
       "user_id": "hafidzrivaldi@gmail.com",
       "user_email": "hafidzrivaldi@gmail.com",
@@ -4790,6 +4790,22 @@
       "expired_at": null,
       "created_at": "2026-05-24T18:21:57.854+00:00",
       "updated_at": "2026-05-24T18:21:57.854+00:00"
+    },
+    {
+      "id": "88douwd9umpk4c86x",
+      "user_id": "hafidzrivaldi@gmail.com",
+      "user_email": "hafidzrivaldi@gmail.com",
+      "type": "purchase",
+      "amount": 2933,
+      "fee": 1000,
+      "total": 2933,
+      "status": "cancel",
+      "deposit_id": "smscode_1432941",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-24T18:36:20.984+00:00",
+      "updated_at": "2026-05-24T18:40:26.228+00:00"
     }
   ],
   "notifications": [],
