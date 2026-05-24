@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-24T02:16:25.020Z",
+  "backedUpAt": "2026-05-24T02:20:56.845Z",
   "users": [
     {
       "id": "cafd3e93-a94e-4554-9bd5-a5de899eb779",
@@ -72,6 +72,15 @@
       "role": "user",
       "balance": 5453,
       "created_at": "2026-05-23T07:28:48.524+00:00"
+    },
+    {
+      "id": "1ddb61f1-fc16-453c-94f6-fa2c4b50d742",
+      "username": "Andi ",
+      "email": "aandysaipul32@gmail.com",
+      "password": "123456789",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-24T02:20:20.195+00:00"
     },
     {
       "id": "7c1fc19b-68eb-451b-aaf6-8915338f42b8",
