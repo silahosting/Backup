@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-25T11:59:35.989Z",
+  "backedUpAt": "2026-05-25T12:04:36.082Z",
   "users": [
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -349,7 +349,7 @@
       "email": "lubisricis04@gmail.com",
       "password": "oauth_1779703353803_fla4ijw20qn",
       "role": "user",
-      "balance": 6399,
+      "balance": 3699,
       "created_at": "2026-05-25T10:02:34.349+00:00"
     }
   ],
@@ -689,6 +689,22 @@
       "expired_at": null,
       "created_at": "2026-05-21T05:22:58.66+00:00",
       "updated_at": "2026-05-21T05:55:15.327+00:00"
+    },
+    {
+      "id": "op9awgk3lmpl4zy5w",
+      "user_id": "lubisricis04@gmail.com",
+      "user_email": "lubisricis04@gmail.com",
+      "type": "purchase",
+      "amount": 3088,
+      "fee": 1000,
+      "total": 3088,
+      "status": "success",
+      "deposit_id": "smscode_1469371",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-25T11:42:33.908+00:00",
+      "updated_at": "2026-05-25T12:04:21.763+00:00"
     },
     {
       "id": "2yv0uqx43mpkygd1l",
@@ -5843,22 +5859,6 @@
       "updated_at": "2026-05-25T11:35:11.941+00:00"
     },
     {
-      "id": "3tzjjgjh7mpl4rtby",
-      "user_id": "lubisricis04@gmail.com",
-      "user_email": "lubisricis04@gmail.com",
-      "type": "purchase",
-      "amount": 1550,
-      "fee": 1000,
-      "total": 1550,
-      "status": "pending",
-      "deposit_id": "RO0011493214",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-25T11:36:14.398+00:00",
-      "updated_at": "2026-05-25T11:36:14.398+00:00"
-    },
-    {
       "id": "t8lmc86sempl4vtk1",
       "user_id": "payshope52@gmail.com",
       "user_email": "payshope52@gmail.com",
@@ -5875,22 +5875,6 @@
       "updated_at": "2026-05-25T11:39:21.313+00:00"
     },
     {
-      "id": "sn8pqjv2fmpl4wilp",
-      "user_id": "lubisricis04@gmail.com",
-      "user_email": "lubisricis04@gmail.com",
-      "type": "purchase",
-      "amount": 1550,
-      "fee": 1000,
-      "total": 1550,
-      "status": "pending",
-      "deposit_id": "RO0011493665",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-25T11:39:53.773+00:00",
-      "updated_at": "2026-05-25T11:39:53.773+00:00"
-    },
-    {
       "id": "03is1fkfdmpl542p9",
       "user_id": "lubisricis04@gmail.com",
       "user_email": "lubisricis04@gmail.com",
@@ -5898,29 +5882,13 @@
       "amount": 3000,
       "fee": 1000,
       "total": 3000,
-      "status": "pending",
+      "status": "expired",
       "deposit_id": "RO0011494458",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-25T11:45:46.413+00:00",
-      "updated_at": "2026-05-25T11:45:46.413+00:00"
-    },
-    {
-      "id": "op9awgk3lmpl4zy5w",
-      "user_id": "lubisricis04@gmail.com",
-      "user_email": "lubisricis04@gmail.com",
-      "type": "purchase",
-      "amount": 3088,
-      "fee": 1000,
-      "total": 3088,
-      "status": "success",
-      "deposit_id": "smscode_1469371",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-25T11:42:33.908+00:00",
-      "updated_at": "2026-05-25T11:50:12.034+00:00"
+      "updated_at": "2026-05-25T12:03:25.437+00:00"
     },
     {
       "id": "lg76x0bkhmpl58qu3",
@@ -5937,6 +5905,54 @@
       "expired_at": null,
       "created_at": "2026-05-25T11:49:24.315+00:00",
       "updated_at": "2026-05-25T11:57:12.174+00:00"
+    },
+    {
+      "id": "sn8pqjv2fmpl4wilp",
+      "user_id": "lubisricis04@gmail.com",
+      "user_email": "lubisricis04@gmail.com",
+      "type": "purchase",
+      "amount": 1550,
+      "fee": 1000,
+      "total": 1550,
+      "status": "expired",
+      "deposit_id": "RO0011493665",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-25T11:39:53.773+00:00",
+      "updated_at": "2026-05-25T12:03:26.095+00:00"
+    },
+    {
+      "id": "3tzjjgjh7mpl4rtby",
+      "user_id": "lubisricis04@gmail.com",
+      "user_email": "lubisricis04@gmail.com",
+      "type": "purchase",
+      "amount": 1550,
+      "fee": 1000,
+      "total": 1550,
+      "status": "expired",
+      "deposit_id": "RO0011493214",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-25T11:36:14.398+00:00",
+      "updated_at": "2026-05-25T12:03:26.757+00:00"
+    },
+    {
+      "id": "x1gkthf5qmpl5rk7d",
+      "user_id": "lubisricis04@gmail.com",
+      "user_email": "lubisricis04@gmail.com",
+      "type": "purchase",
+      "amount": 2700,
+      "fee": 1000,
+      "total": 2700,
+      "status": "pending",
+      "deposit_id": "RO0011497426",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-25T12:04:02.185+00:00",
+      "updated_at": "2026-05-25T12:04:02.185+00:00"
     }
   ],
   "notifications": [],
