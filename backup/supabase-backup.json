@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-25T14:49:37.349Z",
+  "backedUpAt": "2026-05-25T14:54:37.515Z",
   "users": [
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -295,7 +295,7 @@
       "email": "ozangaib@gmail.com",
       "password": "oauth_1779524495904_nsbr2vsct1j",
       "role": "user",
-      "balance": 5400,
+      "balance": 4321,
       "created_at": "2026-05-23T08:21:36.4+00:00"
     },
     {
@@ -6026,6 +6026,22 @@
       "expired_at": null,
       "created_at": "2026-05-25T11:33:52.705+00:00",
       "updated_at": "2026-05-25T12:53:17.365+00:00"
+    },
+    {
+      "id": "txfhfh68qmplbtmq6",
+      "user_id": "ozangaib@gmail.com",
+      "user_email": "ozangaib@gmail.com",
+      "type": "purchase",
+      "amount": 1079,
+      "fee": 1000,
+      "total": 1079,
+      "status": "pending",
+      "deposit_id": "smscode_1475541",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-25T14:53:36.462+00:00",
+      "updated_at": "2026-05-25T14:53:36.462+00:00"
     }
   ],
   "notifications": [],
