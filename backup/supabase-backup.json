@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-25T23:39:38.311Z",
+  "backedUpAt": "2026-05-25T23:44:38.495Z",
   "users": [
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -351,6 +351,15 @@
       "role": "user",
       "balance": 72,
       "created_at": "2026-05-20T13:41:58.639+00:00"
+    },
+    {
+      "id": "e902c0de-3a26-428b-8c39-95153b6951cc",
+      "username": "Aiku Arisawa",
+      "email": "areklibast@gmail.com",
+      "password": "oauth_1779752403102_gojnn5f2pw",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-25T23:40:03.982+00:00"
     },
     {
       "id": "d6084055-25fa-41ab-86a4-11c88ecad805",
