@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-25T10:01:29.294Z",
+  "backedUpAt": "2026-05-25T10:06:01.233Z",
   "users": [
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -333,6 +333,15 @@
       "role": "user",
       "balance": 309,
       "created_at": "2026-05-20T13:41:58.639+00:00"
+    },
+    {
+      "id": "ec662b69-52cf-4853-b497-0eb345f26772",
+      "username": "Ricis Lubis",
+      "email": "lubisricis04@gmail.com",
+      "password": "oauth_1779703353803_fla4ijw20qn",
+      "role": "user",
+      "balance": 7500,
+      "created_at": "2026-05-25T10:02:34.349+00:00"
     },
     {
       "id": "d6084055-25fa-41ab-86a4-11c88ecad805",
@@ -5450,22 +5459,6 @@
       "updated_at": "2026-05-25T09:39:27.179+00:00"
     },
     {
-      "id": "2copig36zmpl0pbua",
-      "user_id": "payshope52@gmail.com",
-      "user_email": "payshope52@gmail.com",
-      "type": "purchase",
-      "amount": 1300,
-      "fee": 1000,
-      "total": 1300,
-      "status": "pending",
-      "deposit_id": "RO0011477228",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-25T09:42:19.954+00:00",
-      "updated_at": "2026-05-25T09:42:19.954+00:00"
-    },
-    {
       "id": "6jjyfmt1mmpl0t5iq",
       "user_id": "arifbws@gmail.com",
       "user_email": "arifbws@gmail.com",
@@ -5528,6 +5521,54 @@
       "expired_at": null,
       "created_at": "2026-05-25T09:52:34.596+00:00",
       "updated_at": "2026-05-25T09:52:34.596+00:00"
+    },
+    {
+      "id": "vul72h6ommpl1fvk5",
+      "user_id": "ec662b69-52cf-4853-b497-0eb345f26772",
+      "user_email": "lubisricis04@gmail.com",
+      "type": "deposit",
+      "amount": 10000,
+      "fee": 512,
+      "total": 10512,
+      "status": "success",
+      "deposit_id": "TRX-1779703376817-E237G",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105125802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A0163047C4F&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105125802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163047C4F",
+      "expired_at": "2026-05-25T10:17:56.817+00:00",
+      "created_at": "2026-05-25T10:02:58.565+00:00",
+      "updated_at": "2026-05-25T10:03:25.236+00:00"
+    },
+    {
+      "id": "2copig36zmpl0pbua",
+      "user_id": "payshope52@gmail.com",
+      "user_email": "payshope52@gmail.com",
+      "type": "purchase",
+      "amount": 1300,
+      "fee": 1000,
+      "total": 1300,
+      "status": "expired",
+      "deposit_id": "RO0011477228",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-25T09:42:19.954+00:00",
+      "updated_at": "2026-05-25T10:03:58.347+00:00"
+    },
+    {
+      "id": "cqfnpdgu5mpl1hpng",
+      "user_id": "lubisricis04@gmail.com",
+      "user_email": "lubisricis04@gmail.com",
+      "type": "purchase",
+      "amount": 2500,
+      "fee": 1000,
+      "total": 2500,
+      "status": "pending",
+      "deposit_id": "RO0011479679",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-25T10:04:24.22+00:00",
+      "updated_at": "2026-05-25T10:04:24.22+00:00"
     }
   ],
   "notifications": [],
