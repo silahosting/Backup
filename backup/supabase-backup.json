@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-25T04:21:28.217Z",
+  "backedUpAt": "2026-05-25T04:25:59.632Z",
   "users": [
     {
       "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
@@ -317,15 +317,6 @@
       "created_at": "2026-05-21T02:48:34.884+00:00"
     },
     {
-      "id": "ec13dac4-ebd6-4475-b918-454cec71982a",
-      "username": "Fafan",
-      "email": "fafanpuja@gmail.com",
-      "password": "oauth_1779474449584_4tap0n6edb7",
-      "role": "user",
-      "balance": 1713,
-      "created_at": "2026-05-22T18:27:30.554+00:00"
-    },
-    {
       "id": "31ba1643-163c-47ea-a6d8-3ea3d659623f",
       "username": "Rahmad Hidayat",
       "email": "rahmathidayat00292@gmail.com",
@@ -333,6 +324,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-25T00:14:42.465+00:00"
+    },
+    {
+      "id": "ec13dac4-ebd6-4475-b918-454cec71982a",
+      "username": "Fafan",
+      "email": "fafanpuja@gmail.com",
+      "password": "oauth_1779474449584_4tap0n6edb7",
+      "role": "user",
+      "balance": 6113,
+      "created_at": "2026-05-22T18:27:30.554+00:00"
     },
     {
       "id": "d6084055-25fa-41ab-86a4-11c88ecad805",
@@ -5032,6 +5032,22 @@
       "expired_at": null,
       "created_at": "2026-05-25T00:13:06.947+00:00",
       "updated_at": "2026-05-25T00:13:06.947+00:00"
+    },
+    {
+      "id": "z2dvv03wrmpkp97kx",
+      "user_id": "ec13dac4-ebd6-4475-b918-454cec71982a",
+      "user_email": "fafanpuja@gmail.com",
+      "type": "deposit",
+      "amount": 4400,
+      "fee": 593,
+      "total": 4993,
+      "status": "success",
+      "deposit_id": "TRX-1779682909929-OKPIX",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540449935802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A0163041028&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540449935802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163041028",
+      "expired_at": "2026-05-25T04:36:49.929+00:00",
+      "created_at": "2026-05-25T04:21:52.161+00:00",
+      "updated_at": "2026-05-25T04:23:28.966+00:00"
     }
   ],
   "notifications": [],
