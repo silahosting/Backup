@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-25T09:36:29.221Z",
+  "backedUpAt": "2026-05-25T09:41:00.995Z",
   "users": [
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -290,15 +290,6 @@
       "created_at": "2026-05-23T09:09:36.519+00:00"
     },
     {
-      "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
-      "username": "Sandi",
-      "email": "payshope52@gmail.com",
-      "password": "qwe12345",
-      "role": "user",
-      "balance": 109,
-      "created_at": "2026-05-20T13:41:58.639+00:00"
-    },
-    {
       "id": "99c8c6c6-66f6-4340-bce9-74a4aac06b4c",
       "username": "karyanto",
       "email": "karyanto6@gmail.com",
@@ -324,6 +315,15 @@
       "role": "user",
       "balance": 4227,
       "created_at": "2026-05-24T02:54:44.687+00:00"
+    },
+    {
+      "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
+      "username": "Sandi",
+      "email": "payshope52@gmail.com",
+      "password": "qwe12345",
+      "role": "user",
+      "balance": 1509,
+      "created_at": "2026-05-20T13:41:58.639+00:00"
     },
     {
       "id": "ec13dac4-ebd6-4475-b918-454cec71982a",
@@ -5418,6 +5418,22 @@
       "updated_at": "2026-05-25T08:56:53.129+00:00"
     },
     {
+      "id": "76l0s985dmpl0j8ru",
+      "user_id": "ryanramdann@gmail.com",
+      "user_email": "ryanramdann@gmail.com",
+      "type": "purchase",
+      "amount": 3050,
+      "fee": 1000,
+      "total": 3050,
+      "status": "pending",
+      "deposit_id": "RO0011476778",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-25T09:37:36.042+00:00",
+      "updated_at": "2026-05-25T09:37:36.042+00:00"
+    },
+    {
       "id": "9roevp81dmpl0fths",
       "user_id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
       "user_email": "payshope52@gmail.com",
@@ -5425,13 +5441,13 @@
       "amount": 1400,
       "fee": 512,
       "total": 1912,
-      "status": "pending",
+      "status": "success",
       "deposit_id": "TRX-1779701693974-Z07UF",
       "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540419125802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A01630445E2&ecc=M",
       "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540419125802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A01630445E2",
       "expired_at": "2026-05-25T09:49:53.974+00:00",
       "created_at": "2026-05-25T09:34:56.272+00:00",
-      "updated_at": "2026-05-25T09:34:56.272+00:00"
+      "updated_at": "2026-05-25T09:39:27.179+00:00"
     }
   ],
   "notifications": [],
