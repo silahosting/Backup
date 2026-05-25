@@ -1,15 +1,6 @@
 {
-  "backedUpAt": "2026-05-25T04:46:28.162Z",
+  "backedUpAt": "2026-05-25T04:50:59.786Z",
   "users": [
-    {
-      "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
-      "username": "Andhima Abdul Ghaaniy",
-      "email": "andhimazahran@gmail.com",
-      "password": "oauth_1779591284162_lzkgqn4rtve",
-      "role": "user",
-      "balance": 4306,
-      "created_at": "2026-05-24T02:54:44.687+00:00"
-    },
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
       "username": "anggreini",
@@ -333,6 +324,15 @@
       "role": "user",
       "balance": 1146,
       "created_at": "2026-05-22T18:27:30.554+00:00"
+    },
+    {
+      "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
+      "username": "Andhima Abdul Ghaaniy",
+      "email": "andhimazahran@gmail.com",
+      "password": "oauth_1779591284162_lzkgqn4rtve",
+      "role": "user",
+      "balance": 1576,
+      "created_at": "2026-05-24T02:54:44.687+00:00"
     },
     {
       "id": "d6084055-25fa-41ab-86a4-11c88ecad805",
@@ -4442,22 +4442,6 @@
       "updated_at": "2026-05-24T06:11:52.754+00:00"
     },
     {
-      "id": "vlfuu4lytmpjdqo3k",
-      "user_id": "andhimazahran@gmail.com",
-      "user_email": "andhimazahran@gmail.com",
-      "type": "purchase",
-      "amount": 3138,
-      "fee": 1000,
-      "total": 3138,
-      "status": "success",
-      "deposit_id": "smscode_1406095",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-24T06:11:45.151+00:00",
-      "updated_at": "2026-05-24T06:38:31.917+00:00"
-    },
-    {
       "id": "k88olwwivmpjfcvd9",
       "user_id": "salsanovember11@gmail.com",
       "user_email": "salsanovember11@gmail.com",
@@ -4922,22 +4906,6 @@
       "updated_at": "2026-05-24T21:18:48.036+00:00"
     },
     {
-      "id": "7ojch6y23mpkpj1kl",
-      "user_id": "fafanpuja@gmail.com",
-      "user_email": "fafanpuja@gmail.com",
-      "type": "purchase",
-      "amount": 1879,
-      "fee": 1000,
-      "total": 1879,
-      "status": "success",
-      "deposit_id": "smscode_1452021",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-25T04:29:30.933+00:00",
-      "updated_at": "2026-05-25T04:37:31.415+00:00"
-    },
-    {
       "id": "t55s3qanrmpkb18rp",
       "user_id": "fahrihosting3@gmail.com",
       "user_email": "fahrihosting3@gmail.com",
@@ -4970,20 +4938,20 @@
       "updated_at": "2026-05-24T22:13:05.907+00:00"
     },
     {
-      "id": "etd8ywa2ampkq2xl3",
-      "user_id": "fafanpuja@gmail.com",
-      "user_email": "fafanpuja@gmail.com",
+      "id": "vlfuu4lytmpjdqo3k",
+      "user_id": "andhimazahran@gmail.com",
+      "user_email": "andhimazahran@gmail.com",
       "type": "purchase",
-      "amount": 3088,
+      "amount": 3138,
       "fee": 1000,
-      "total": 3088,
-      "status": "pending",
-      "deposit_id": "smscode_1452821",
+      "total": 3138,
+      "status": "success",
+      "deposit_id": "smscode_1406095",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
-      "created_at": "2026-05-25T04:44:58.886+00:00",
-      "updated_at": "2026-05-25T04:44:58.886+00:00"
+      "created_at": "2026-05-24T06:11:45.151+00:00",
+      "updated_at": "2026-05-25T04:49:41.37+00:00"
     },
     {
       "id": "9ne2h48h8mpkc9b0y",
@@ -5080,6 +5048,54 @@
       "expired_at": "2026-05-25T04:36:49.929+00:00",
       "created_at": "2026-05-25T04:21:52.161+00:00",
       "updated_at": "2026-05-25T04:23:28.966+00:00"
+    },
+    {
+      "id": "47v6iiamtmpkq9goy",
+      "user_id": "andhimazahran@gmail.com",
+      "user_email": "andhimazahran@gmail.com",
+      "type": "purchase",
+      "amount": 2730,
+      "fee": 1000,
+      "total": 2730,
+      "status": "pending",
+      "deposit_id": "smscode_1453069",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-25T04:50:03.586+00:00",
+      "updated_at": "2026-05-25T04:50:03.586+00:00"
+    },
+    {
+      "id": "7ojch6y23mpkpj1kl",
+      "user_id": "fafanpuja@gmail.com",
+      "user_email": "fafanpuja@gmail.com",
+      "type": "purchase",
+      "amount": 1879,
+      "fee": 1000,
+      "total": 1879,
+      "status": "success",
+      "deposit_id": "smscode_1452021",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-25T04:29:30.933+00:00",
+      "updated_at": "2026-05-25T04:50:11.982+00:00"
+    },
+    {
+      "id": "etd8ywa2ampkq2xl3",
+      "user_id": "fafanpuja@gmail.com",
+      "user_email": "fafanpuja@gmail.com",
+      "type": "purchase",
+      "amount": 3088,
+      "fee": 1000,
+      "total": 3088,
+      "status": "success",
+      "deposit_id": "smscode_1452821",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-25T04:44:58.886+00:00",
+      "updated_at": "2026-05-25T04:50:32.28+00:00"
     }
   ],
   "notifications": [],
