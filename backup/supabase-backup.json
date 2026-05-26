@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-26T09:09:39.991Z",
+  "backedUpAt": "2026-05-26T09:14:39.913Z",
   "users": [
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -72,6 +72,15 @@
       "role": "user",
       "balance": 26,
       "created_at": "2026-05-20T05:33:53.922+00:00"
+    },
+    {
+      "id": "c94189dc-f697-4bcf-a616-217f5a774abe",
+      "username": "SRI WAHYUNI ",
+      "email": "sriw4335@gmail.com",
+      "password": "Sriwhy123",
+      "role": "user",
+      "balance": 32977,
+      "created_at": "2026-05-26T05:37:50.4+00:00"
     },
     {
       "id": "fb7e729e-7742-46d8-940d-01914570aa4f",
@@ -387,15 +396,6 @@
       "role": "user",
       "balance": 3650,
       "created_at": "2026-05-26T00:04:41.23+00:00"
-    },
-    {
-      "id": "c94189dc-f697-4bcf-a616-217f5a774abe",
-      "username": "SRI WAHYUNI ",
-      "email": "sriw4335@gmail.com",
-      "password": "Sriwhy123",
-      "role": "user",
-      "balance": 32924,
-      "created_at": "2026-05-26T05:37:50.4+00:00"
     }
   ],
   "transactions": [
@@ -6944,22 +6944,6 @@
       "updated_at": "2026-05-26T08:53:39.833+00:00"
     },
     {
-      "id": "1ngk65q4ampmeg1ee",
-      "user_id": "sriw4335@gmail.com",
-      "user_email": "sriw4335@gmail.com",
-      "type": "purchase",
-      "amount": 2400,
-      "fee": 500,
-      "total": 2400,
-      "status": "pending",
-      "deposit_id": "RO0011596426",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-26T08:54:47.318+00:00",
-      "updated_at": "2026-05-26T08:54:47.318+00:00"
-    },
-    {
       "id": "v5f5i1mlzmpmes5yx",
       "user_id": "sriw4335@gmail.com",
       "user_email": "sriw4335@gmail.com",
@@ -7072,20 +7056,52 @@
       "updated_at": "2026-05-26T08:27:47.962+00:00"
     },
     {
-      "id": "dq4iy7o5mmpmeulu4",
+      "id": "1ngk65q4ampmeg1ee",
       "user_id": "sriw4335@gmail.com",
       "user_email": "sriw4335@gmail.com",
       "type": "purchase",
-      "amount": 2276,
+      "amount": 2400,
       "fee": 500,
-      "total": 2276,
-      "status": "success",
-      "deposit_id": "smscode_1503269",
+      "total": 2400,
+      "status": "expired",
+      "deposit_id": "RO0011596426",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
-      "created_at": "2026-05-26T09:06:06.988+00:00",
-      "updated_at": "2026-05-26T09:08:32.752+00:00"
+      "created_at": "2026-05-26T08:54:47.318+00:00",
+      "updated_at": "2026-05-26T09:10:26.074+00:00"
+    },
+    {
+      "id": "bgaid1y0empmf1r4g",
+      "user_id": "sriw4335@gmail.com",
+      "user_email": "sriw4335@gmail.com",
+      "type": "purchase",
+      "amount": 2400,
+      "fee": 500,
+      "total": 2400,
+      "status": "pending",
+      "deposit_id": "RO0011597721",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T09:11:40.432+00:00",
+      "updated_at": "2026-05-26T09:11:40.432+00:00"
+    },
+    {
+      "id": "cs8y7koiampmf3h8p",
+      "user_id": "sriw4335@gmail.com",
+      "user_email": "sriw4335@gmail.com",
+      "type": "purchase",
+      "amount": 2347,
+      "fee": 500,
+      "total": 2347,
+      "status": "pending",
+      "deposit_id": "smscode_1503486",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T09:13:00.937+00:00",
+      "updated_at": "2026-05-26T09:13:00.937+00:00"
     },
     {
       "id": "guyn7s4pkmpmddaia",
@@ -7102,6 +7118,22 @@
       "expired_at": null,
       "created_at": "2026-05-26T08:24:39.538+00:00",
       "updated_at": "2026-05-26T08:41:18.441+00:00"
+    },
+    {
+      "id": "dq4iy7o5mmpmeulu4",
+      "user_id": "sriw4335@gmail.com",
+      "user_email": "sriw4335@gmail.com",
+      "type": "purchase",
+      "amount": 2276,
+      "fee": 500,
+      "total": 2276,
+      "status": "success",
+      "deposit_id": "smscode_1503269",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T09:06:06.988+00:00",
+      "updated_at": "2026-05-26T09:13:42.115+00:00"
     }
   ],
   "notifications": [],
