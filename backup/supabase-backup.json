@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-26T12:24:40.514Z",
+  "backedUpAt": "2026-05-26T12:29:40.501Z",
   "users": [
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -299,15 +299,6 @@
       "created_at": "2026-05-23T09:09:36.519+00:00"
     },
     {
-      "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
-      "username": "Fauzan Galib",
-      "email": "ozangaib@gmail.com",
-      "password": "oauth_1779524495904_nsbr2vsct1j",
-      "role": "user",
-      "balance": 5400,
-      "created_at": "2026-05-23T08:21:36.4+00:00"
-    },
-    {
       "id": "99c8c6c6-66f6-4340-bce9-74a4aac06b4c",
       "username": "karyanto",
       "email": "karyanto6@gmail.com",
@@ -396,6 +387,15 @@
       "role": "user",
       "balance": 24940,
       "created_at": "2026-05-26T05:37:50.4+00:00"
+    },
+    {
+      "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
+      "username": "Fauzan Galib",
+      "email": "ozangaib@gmail.com",
+      "password": "oauth_1779524495904_nsbr2vsct1j",
+      "role": "user",
+      "balance": 2598,
+      "created_at": "2026-05-23T08:21:36.4+00:00"
     }
   ],
   "transactions": [
@@ -7294,6 +7294,22 @@
       "expired_at": null,
       "created_at": "2026-05-26T08:26:27.394+00:00",
       "updated_at": "2026-05-26T11:11:38.999+00:00"
+    },
+    {
+      "id": "ntrlcd517mpmlz082",
+      "user_id": "ozangaib@gmail.com",
+      "user_email": "ozangaib@gmail.com",
+      "type": "purchase",
+      "amount": 2802,
+      "fee": 500,
+      "total": 2802,
+      "status": "pending",
+      "deposit_id": "smscode_1510199",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T12:25:29.57+00:00",
+      "updated_at": "2026-05-26T12:25:29.57+00:00"
     }
   ],
   "notifications": [],
