@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-26T07:19:39.492Z",
+  "backedUpAt": "2026-05-26T07:24:39.473Z",
   "users": [
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -6848,22 +6848,6 @@
       "updated_at": "2026-05-26T07:08:05.248+00:00"
     },
     {
-      "id": "r95zx7v7ampmaggju",
-      "user_id": "arifbws@gmail.com",
-      "user_email": "arifbws@gmail.com",
-      "type": "purchase",
-      "amount": 3006,
-      "fee": 1000,
-      "total": 3006,
-      "status": "success",
-      "deposit_id": "smscode_1498692",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-26T07:03:08.49+00:00",
-      "updated_at": "2026-05-26T07:13:54.487+00:00"
-    },
-    {
       "id": "4u5sgl7pqmpmasszm",
       "user_id": "arifbws@gmail.com",
       "user_email": "arifbws@gmail.com",
@@ -6877,7 +6861,39 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-26T07:12:44.482+00:00",
-      "updated_at": "2026-05-26T07:16:33.42+00:00"
+      "updated_at": "2026-05-26T07:21:42.132+00:00"
+    },
+    {
+      "id": "3ckip5e6gmpmb4h8m",
+      "user_id": "arifbws@gmail.com",
+      "user_email": "arifbws@gmail.com",
+      "type": "purchase",
+      "amount": 2548,
+      "fee": 500,
+      "total": 2548,
+      "status": "pending",
+      "deposit_id": "smscode_1499362",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T07:21:49.126+00:00",
+      "updated_at": "2026-05-26T07:21:49.126+00:00"
+    },
+    {
+      "id": "r95zx7v7ampmaggju",
+      "user_id": "arifbws@gmail.com",
+      "user_email": "arifbws@gmail.com",
+      "type": "purchase",
+      "amount": 3006,
+      "fee": 1000,
+      "total": 3006,
+      "status": "success",
+      "deposit_id": "smscode_1498692",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T07:03:08.49+00:00",
+      "updated_at": "2026-05-26T07:24:12.692+00:00"
     }
   ],
   "notifications": [],
