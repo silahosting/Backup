@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-26T16:31:33.111Z",
+  "backedUpAt": "2026-05-26T16:34:40.896Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -394,7 +394,7 @@
       "email": "ratu83323@gmail.com",
       "password": "Doaduludek",
       "role": "user",
-      "balance": 2000,
+      "balance": 1226,
       "created_at": "2026-05-26T16:27:32.771+00:00"
     },
     {
@@ -7527,6 +7527,22 @@
       "expired_at": "2026-05-26T16:43:29.581+00:00",
       "created_at": "2026-05-26T16:28:31.659+00:00",
       "updated_at": "2026-05-26T16:29:59.146+00:00"
+    },
+    {
+      "id": "3o2wj2x1fmpmusdsn",
+      "user_id": "ratu83323@gmail.com",
+      "user_email": "ratu83323@gmail.com",
+      "type": "purchase",
+      "amount": 774,
+      "fee": 500,
+      "total": 774,
+      "status": "success",
+      "deposit_id": "smscode_1518255",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T16:32:17.111+00:00",
+      "updated_at": "2026-05-26T16:34:33.233+00:00"
     }
   ],
   "notifications": [],
