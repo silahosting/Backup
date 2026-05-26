@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-26T07:04:39.430Z",
+  "backedUpAt": "2026-05-26T07:09:39.549Z",
   "users": [
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -6800,22 +6800,6 @@
       "updated_at": "2026-05-26T06:59:57.175+00:00"
     },
     {
-      "id": "toqwb7tejmpma6ntk",
-      "user_id": "arifbws@gmail.com",
-      "user_email": "arifbws@gmail.com",
-      "type": "purchase",
-      "amount": 2776,
-      "fee": 1000,
-      "total": 2776,
-      "status": "cancel",
-      "deposit_id": "smscode_1498432",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-26T06:55:31.352+00:00",
-      "updated_at": "2026-05-26T07:00:02.185+00:00"
-    },
-    {
       "id": "xjl83xxafmpmadrxi",
       "user_id": "arifbws@gmail.com",
       "user_email": "arifbws@gmail.com",
@@ -6832,6 +6816,22 @@
       "updated_at": "2026-05-26T07:01:03.27+00:00"
     },
     {
+      "id": "toqwb7tejmpma6ntk",
+      "user_id": "arifbws@gmail.com",
+      "user_email": "arifbws@gmail.com",
+      "type": "purchase",
+      "amount": 2776,
+      "fee": 1000,
+      "total": 2776,
+      "status": "cancel",
+      "deposit_id": "smscode_1498432",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T06:55:31.352+00:00",
+      "updated_at": "2026-05-26T07:05:11.919+00:00"
+    },
+    {
       "id": "t31fmj21qmpma8y7k",
       "user_id": "arifbws@gmail.com",
       "user_email": "arifbws@gmail.com",
@@ -6845,7 +6845,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-26T06:57:18.128+00:00",
-      "updated_at": "2026-05-26T07:02:51.822+00:00"
+      "updated_at": "2026-05-26T07:08:05.248+00:00"
     },
     {
       "id": "r95zx7v7ampmaggju",
@@ -6855,13 +6855,13 @@
       "amount": 3006,
       "fee": 1000,
       "total": 3006,
-      "status": "pending",
+      "status": "success",
       "deposit_id": "smscode_1498692",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-26T07:03:08.49+00:00",
-      "updated_at": "2026-05-26T07:03:08.49+00:00"
+      "updated_at": "2026-05-26T07:08:43.013+00:00"
     }
   ],
   "notifications": [],
