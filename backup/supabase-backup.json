@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-26T03:19:38.601Z",
+  "backedUpAt": "2026-05-26T03:24:39.036Z",
   "users": [
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -6327,22 +6327,6 @@
       "updated_at": "2026-05-26T02:58:12.026+00:00"
     },
     {
-      "id": "xjgxqj5rkmpm1wmcn",
-      "user_id": "arifbws@gmail.com",
-      "user_email": "arifbws@gmail.com",
-      "type": "purchase",
-      "amount": 3300,
-      "fee": 1000,
-      "total": 3300,
-      "status": "pending",
-      "deposit_id": "RO0011562686",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-26T03:03:45.958+00:00",
-      "updated_at": "2026-05-26T03:03:45.958+00:00"
-    },
-    {
       "id": "nchvif7ggmpm1xpv1",
       "user_id": "arifbws@gmail.com",
       "user_email": "arifbws@gmail.com",
@@ -6373,6 +6357,22 @@
       "expired_at": null,
       "created_at": "2026-05-26T02:49:16.792+00:00",
       "updated_at": "2026-05-26T03:05:29.778+00:00"
+    },
+    {
+      "id": "xjgxqj5rkmpm1wmcn",
+      "user_id": "arifbws@gmail.com",
+      "user_email": "arifbws@gmail.com",
+      "type": "purchase",
+      "amount": 3300,
+      "fee": 1000,
+      "total": 3300,
+      "status": "expired",
+      "deposit_id": "RO0011562686",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T03:03:45.958+00:00",
+      "updated_at": "2026-05-26T03:24:23.032+00:00"
     }
   ],
   "notifications": [],
