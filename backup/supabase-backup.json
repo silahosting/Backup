@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-26T09:14:39.913Z",
+  "backedUpAt": "2026-05-26T09:19:39.958Z",
   "users": [
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -72,15 +72,6 @@
       "role": "user",
       "balance": 26,
       "created_at": "2026-05-20T05:33:53.922+00:00"
-    },
-    {
-      "id": "c94189dc-f697-4bcf-a616-217f5a774abe",
-      "username": "SRI WAHYUNI ",
-      "email": "sriw4335@gmail.com",
-      "password": "Sriwhy123",
-      "role": "user",
-      "balance": 32977,
-      "created_at": "2026-05-26T05:37:50.4+00:00"
     },
     {
       "id": "fb7e729e-7742-46d8-940d-01914570aa4f",
@@ -342,6 +333,15 @@
       "role": "user",
       "balance": 4227,
       "created_at": "2026-05-24T02:54:44.687+00:00"
+    },
+    {
+      "id": "c94189dc-f697-4bcf-a616-217f5a774abe",
+      "username": "SRI WAHYUNI ",
+      "email": "sriw4335@gmail.com",
+      "password": "Sriwhy123",
+      "role": "user",
+      "balance": 10648,
+      "created_at": "2026-05-26T05:37:50.4+00:00"
     },
     {
       "id": "ec13dac4-ebd6-4475-b918-454cec71982a",
@@ -6896,6 +6896,22 @@
       "updated_at": "2026-05-26T07:05:11.919+00:00"
     },
     {
+      "id": "cs8y7koiampmf3h8p",
+      "user_id": "sriw4335@gmail.com",
+      "user_email": "sriw4335@gmail.com",
+      "type": "purchase",
+      "amount": 2347,
+      "fee": 500,
+      "total": 2347,
+      "status": "cancel",
+      "deposit_id": "smscode_1503486",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T09:13:00.937+00:00",
+      "updated_at": "2026-05-26T09:18:02.517+00:00"
+    },
+    {
       "id": "t31fmj21qmpma8y7k",
       "user_id": "arifbws@gmail.com",
       "user_email": "arifbws@gmail.com",
@@ -7088,22 +7104,6 @@
       "updated_at": "2026-05-26T09:11:40.432+00:00"
     },
     {
-      "id": "cs8y7koiampmf3h8p",
-      "user_id": "sriw4335@gmail.com",
-      "user_email": "sriw4335@gmail.com",
-      "type": "purchase",
-      "amount": 2347,
-      "fee": 500,
-      "total": 2347,
-      "status": "pending",
-      "deposit_id": "smscode_1503486",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-26T09:13:00.937+00:00",
-      "updated_at": "2026-05-26T09:13:00.937+00:00"
-    },
-    {
       "id": "guyn7s4pkmpmddaia",
       "user_id": "arifbws@gmail.com",
       "user_email": "arifbws@gmail.com",
@@ -7120,6 +7120,22 @@
       "updated_at": "2026-05-26T08:41:18.441+00:00"
     },
     {
+      "id": "43e1lqyfkmpmf5ymk",
+      "user_id": "sriw4335@gmail.com",
+      "user_email": "sriw4335@gmail.com",
+      "type": "purchase",
+      "amount": 2400,
+      "fee": 500,
+      "total": 2400,
+      "status": "pending",
+      "deposit_id": "RO0011598079",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T09:14:56.78+00:00",
+      "updated_at": "2026-05-26T09:14:56.78+00:00"
+    },
+    {
       "id": "dq4iy7o5mmpmeulu4",
       "user_id": "sriw4335@gmail.com",
       "user_email": "sriw4335@gmail.com",
@@ -7127,13 +7143,29 @@
       "amount": 2276,
       "fee": 500,
       "total": 2276,
-      "status": "success",
+      "status": "completed",
       "deposit_id": "smscode_1503269",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-26T09:06:06.988+00:00",
-      "updated_at": "2026-05-26T09:13:42.115+00:00"
+      "updated_at": "2026-05-26T09:16:31.576+00:00"
+    },
+    {
+      "id": "5s94g5izqmpmf8hzd",
+      "user_id": "sriw4335@gmail.com",
+      "user_email": "sriw4335@gmail.com",
+      "type": "purchase",
+      "amount": 2276,
+      "fee": 500,
+      "total": 2276,
+      "status": "pending",
+      "deposit_id": "smscode_1503638",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T09:16:55.177+00:00",
+      "updated_at": "2026-05-26T09:16:55.177+00:00"
     }
   ],
   "notifications": [],
