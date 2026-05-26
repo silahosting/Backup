@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-26T17:24:40.956Z",
+  "backedUpAt": "2026-05-26T17:26:33.377Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -7478,7 +7478,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-26T17:03:49.077+00:00",
-      "updated_at": "2026-05-26T17:13:55.082+00:00"
+      "updated_at": "2026-05-26T17:26:24.537+00:00"
     },
     {
       "id": "tf95jzlelmpmojypv",
