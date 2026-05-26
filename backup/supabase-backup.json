@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-26T23:09:37.396Z",
+  "backedUpAt": "2026-05-26T23:11:33.789Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -81,15 +81,6 @@
       "role": "user",
       "balance": 26,
       "created_at": "2026-05-20T05:33:53.922+00:00"
-    },
-    {
-      "id": "694700f1-d85d-44c8-81a2-43d06d2d23e8",
-      "username": "MEMBER AIRASIA",
-      "email": "airasia.member1@gmail.com",
-      "password": "oauth_1779835678929_520w1rsu23",
-      "role": "user",
-      "balance": 6577,
-      "created_at": "2026-05-26T22:47:59.44+00:00"
     },
     {
       "id": "fb7e729e-7742-46d8-940d-01914570aa4f",
@@ -324,6 +315,15 @@
       "role": "user",
       "balance": 7200,
       "created_at": "2026-05-23T09:09:36.519+00:00"
+    },
+    {
+      "id": "694700f1-d85d-44c8-81a2-43d06d2d23e8",
+      "username": "MEMBER AIRASIA",
+      "email": "airasia.member1@gmail.com",
+      "password": "oauth_1779835678929_520w1rsu23",
+      "role": "user",
+      "balance": 7767,
+      "created_at": "2026-05-26T22:47:59.44+00:00"
     },
     {
       "id": "99c8c6c6-66f6-4340-bce9-74a4aac06b4c",
@@ -7492,6 +7492,22 @@
       "updated_at": "2026-05-26T17:03:56.991+00:00"
     },
     {
+      "id": "oi3znizrkmpn8vg0f",
+      "user_id": "airasia.member1@gmail.com",
+      "user_email": "airasia.member1@gmail.com",
+      "type": "purchase",
+      "amount": 2373,
+      "fee": 500,
+      "total": 2373,
+      "status": "cancel",
+      "deposit_id": "smscode_1526056",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T23:06:34.575+00:00",
+      "updated_at": "2026-05-26T23:11:23.457+00:00"
+    },
+    {
       "id": "wd0jzdbslmpmvwxna",
       "user_id": "ratu83323@gmail.com",
       "user_email": "ratu83323@gmail.com",
@@ -7668,22 +7684,6 @@
       "updated_at": "2026-05-26T23:04:47.105+00:00"
     },
     {
-      "id": "2dw9r6xs7mpn82kdp",
-      "user_id": "sgvxuffg@gmail.com",
-      "user_email": "sgvxuffg@gmail.com",
-      "type": "purchase",
-      "amount": 618,
-      "fee": 500,
-      "total": 618,
-      "status": "expired",
-      "deposit_id": "smscode_1525703",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-26T22:44:07.213+00:00",
-      "updated_at": "2026-05-26T23:05:53.815+00:00"
-    },
-    {
       "id": "a3g5g63g1mpn3vr8o",
       "user_id": "sgvxuffg@gmail.com",
       "user_email": "sgvxuffg@gmail.com",
@@ -7700,20 +7700,36 @@
       "updated_at": "2026-05-26T21:10:53.93+00:00"
     },
     {
-      "id": "oi3znizrkmpn8vg0f",
+      "id": "dawimzdpvmpn8zvwy",
       "user_id": "airasia.member1@gmail.com",
       "user_email": "airasia.member1@gmail.com",
       "type": "purchase",
-      "amount": 2373,
+      "amount": 1183,
       "fee": 500,
-      "total": 2373,
+      "total": 1183,
       "status": "pending",
-      "deposit_id": "smscode_1526056",
+      "deposit_id": "smscode_1526137",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
-      "created_at": "2026-05-26T23:06:34.575+00:00",
-      "updated_at": "2026-05-26T23:06:34.575+00:00"
+      "created_at": "2026-05-26T23:10:01.81+00:00",
+      "updated_at": "2026-05-26T23:10:01.81+00:00"
+    },
+    {
+      "id": "2dw9r6xs7mpn82kdp",
+      "user_id": "sgvxuffg@gmail.com",
+      "user_email": "sgvxuffg@gmail.com",
+      "type": "purchase",
+      "amount": 618,
+      "fee": 500,
+      "total": 618,
+      "status": "expired",
+      "deposit_id": "smscode_1525703",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T22:44:07.213+00:00",
+      "updated_at": "2026-05-26T23:11:02.692+00:00"
     },
     {
       "id": "dmjovi4s0mpn4jpj3",
