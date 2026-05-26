@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-26T22:09:37.373Z",
+  "backedUpAt": "2026-05-26T22:11:33.490Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -306,6 +306,15 @@
       "role": "user",
       "balance": 421,
       "created_at": "2026-05-26T20:37:37.803+00:00"
+    },
+    {
+      "id": "c7dac824-a449-44d9-9a79-5a76c8a9f75d",
+      "username": "test mazon2",
+      "email": "testmazon2@gmail.com",
+      "password": "oauth_1779833438214_04dj9yyzdh53",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-26T22:10:38.749+00:00"
     },
     {
       "id": "906b8222-d3bf-47de-8164-ee07f914864c",
