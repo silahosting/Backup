@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-26T00:04:38.374Z",
+  "backedUpAt": "2026-05-26T00:09:38.586Z",
   "users": [
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -360,6 +360,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-25T23:40:03.982+00:00"
+    },
+    {
+      "id": "306764e6-19ad-4c85-8de5-29a5b1601e3e",
+      "username": "abdul aziz",
+      "email": "meniahhajani@gmail.com",
+      "password": "abdula87",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-26T00:04:41.23+00:00"
     },
     {
       "id": "d6084055-25fa-41ab-86a4-11c88ecad805",
@@ -6115,6 +6124,22 @@
       "expired_at": null,
       "created_at": "2026-05-25T11:33:52.705+00:00",
       "updated_at": "2026-05-25T12:53:17.365+00:00"
+    },
+    {
+      "id": "lci83cgidmplvmjoq",
+      "user_id": "306764e6-19ad-4c85-8de5-29a5b1601e3e",
+      "user_email": "meniahhajani@gmail.com",
+      "type": "deposit",
+      "amount": 5000,
+      "fee": 585,
+      "total": 5585,
+      "status": "pending",
+      "deposit_id": "TRX-1779754076257-SLQR4",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540455855802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A01630416E7&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540455855802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A01630416E7",
+      "expired_at": "2026-05-26T00:22:56.257+00:00",
+      "created_at": "2026-05-26T00:07:58.25+00:00",
+      "updated_at": "2026-05-26T00:07:58.25+00:00"
     }
   ],
   "notifications": [],
