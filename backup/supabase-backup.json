@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-26T16:29:41.046Z",
+  "backedUpAt": "2026-05-26T16:31:33.111Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -394,7 +394,7 @@
       "email": "ratu83323@gmail.com",
       "password": "Doaduludek",
       "role": "user",
-      "balance": 0,
+      "balance": 2000,
       "created_at": "2026-05-26T16:27:32.771+00:00"
     },
     {
@@ -7526,7 +7526,7 @@
       "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540415815802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163040CA2",
       "expired_at": "2026-05-26T16:43:29.581+00:00",
       "created_at": "2026-05-26T16:28:31.659+00:00",
-      "updated_at": "2026-05-26T16:29:31.21+00:00"
+      "updated_at": "2026-05-26T16:29:59.146+00:00"
     }
   ],
   "notifications": [],
