@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-26T08:49:39.884Z",
+  "backedUpAt": "2026-05-26T08:54:39.829Z",
   "users": [
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -394,7 +394,7 @@
       "email": "sriw4335@gmail.com",
       "password": "Sriwhy123",
       "role": "user",
-      "balance": 0,
+      "balance": 40000,
       "created_at": "2026-05-26T05:37:50.4+00:00"
     }
   ],
@@ -6926,6 +6926,22 @@
       "expired_at": null,
       "created_at": "2026-05-26T08:04:47.15+00:00",
       "updated_at": "2026-05-26T08:22:08.62+00:00"
+    },
+    {
+      "id": "wdbuxa2t8mpmec2wt",
+      "user_id": "c94189dc-f697-4bcf-a616-217f5a774abe",
+      "user_email": "sriw4335@gmail.com",
+      "type": "deposit",
+      "amount": 20000,
+      "fee": 533,
+      "total": 20533,
+      "status": "success",
+      "deposit_id": "TRX-1779785500725-WRBCJ",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405205335802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A0163046B5B&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405205335802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163046B5B",
+      "expired_at": "2026-05-26T09:06:40.726+00:00",
+      "created_at": "2026-05-26T08:51:42.653+00:00",
+      "updated_at": "2026-05-26T08:53:39.833+00:00"
     },
     {
       "id": "4u5sgl7pqmpmasszm",
