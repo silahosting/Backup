@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-26T03:34:38.896Z",
+  "backedUpAt": "2026-05-26T03:39:38.651Z",
   "users": [
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -6167,22 +6167,6 @@
       "updated_at": "2026-05-26T03:29:09.676+00:00"
     },
     {
-      "id": "ramwwt1zdmpm2u85y",
-      "user_id": "yanzzzpelor123@gmail.com",
-      "user_email": "yanzzzpelor123@gmail.com",
-      "type": "purchase",
-      "amount": 1079,
-      "fee": 1000,
-      "total": 1079,
-      "status": "pending",
-      "deposit_id": "smscode_1491681",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-26T03:29:53.878+00:00",
-      "updated_at": "2026-05-26T03:29:53.878+00:00"
-    },
-    {
       "id": "ibx2x1u1fmplxytle",
       "user_id": "hanztampan356@gmail.com",
       "user_email": "hanztampan356@gmail.com",
@@ -6197,6 +6181,22 @@
       "expired_at": null,
       "created_at": "2026-05-26T01:13:30.194+00:00",
       "updated_at": "2026-05-26T01:22:23.153+00:00"
+    },
+    {
+      "id": "ramwwt1zdmpm2u85y",
+      "user_id": "yanzzzpelor123@gmail.com",
+      "user_email": "yanzzzpelor123@gmail.com",
+      "type": "purchase",
+      "amount": 1079,
+      "fee": 1000,
+      "total": 1079,
+      "status": "cancel",
+      "deposit_id": "smscode_1491681",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T03:29:53.878+00:00",
+      "updated_at": "2026-05-26T03:39:31.956+00:00"
     },
     {
       "id": "8t0aac2qkmplzzvzq",
