@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-26T06:19:39.227Z",
+  "backedUpAt": "2026-05-26T06:24:39.224Z",
   "users": [
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -6624,22 +6624,6 @@
       "updated_at": "2026-05-26T06:01:36.541+00:00"
     },
     {
-      "id": "cua61fpjhmpm8mqun",
-      "user_id": "arifbws@gmail.com",
-      "user_email": "arifbws@gmail.com",
-      "type": "purchase",
-      "amount": 3006,
-      "fee": 1000,
-      "total": 3006,
-      "status": "pending",
-      "deposit_id": "smscode_1496790",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-26T06:12:02.543+00:00",
-      "updated_at": "2026-05-26T06:12:02.543+00:00"
-    },
-    {
       "id": "j45ifc1n6mpm8kkpc",
       "user_id": "arifbws@gmail.com",
       "user_email": "arifbws@gmail.com",
@@ -6653,7 +6637,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-26T06:10:21.264+00:00",
-      "updated_at": "2026-05-26T06:14:35.536+00:00"
+      "updated_at": "2026-05-26T06:19:42.901+00:00"
     },
     {
       "id": "2mle27k9nmpm8qus1",
@@ -6672,20 +6656,20 @@
       "updated_at": "2026-05-26T06:15:14.257+00:00"
     },
     {
-      "id": "erbrao0wempm8siji",
+      "id": "cua61fpjhmpm8mqun",
       "user_id": "arifbws@gmail.com",
       "user_email": "arifbws@gmail.com",
       "type": "purchase",
-      "amount": 2839,
+      "amount": 3006,
       "fee": 1000,
-      "total": 2839,
-      "status": "success",
-      "deposit_id": "smscode_1496952",
+      "total": 3006,
+      "status": "cancel",
+      "deposit_id": "smscode_1496790",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
-      "created_at": "2026-05-26T06:16:31.71+00:00",
-      "updated_at": "2026-05-26T06:19:02.792+00:00"
+      "created_at": "2026-05-26T06:12:02.543+00:00",
+      "updated_at": "2026-05-26T06:23:42.712+00:00"
     },
     {
       "id": "qmnyfejiqmpm8ic9x",
@@ -6702,6 +6686,54 @@
       "expired_at": null,
       "created_at": "2026-05-26T06:08:37.029+00:00",
       "updated_at": "2026-05-26T06:19:31.537+00:00"
+    },
+    {
+      "id": "e6petrk3impm926cx",
+      "user_id": "arifbws@gmail.com",
+      "user_email": "arifbws@gmail.com",
+      "type": "purchase",
+      "amount": 2944,
+      "fee": 1000,
+      "total": 2944,
+      "status": "pending",
+      "deposit_id": "smscode_1497250",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T06:24:02.481+00:00",
+      "updated_at": "2026-05-26T06:24:02.481+00:00"
+    },
+    {
+      "id": "erbrao0wempm8siji",
+      "user_id": "arifbws@gmail.com",
+      "user_email": "arifbws@gmail.com",
+      "type": "purchase",
+      "amount": 2839,
+      "fee": 1000,
+      "total": 2839,
+      "status": "success",
+      "deposit_id": "smscode_1496952",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T06:16:31.71+00:00",
+      "updated_at": "2026-05-26T06:24:11.784+00:00"
+    },
+    {
+      "id": "97v3xwu6tmpm92o9f",
+      "user_id": "arifbws@gmail.com",
+      "user_email": "arifbws@gmail.com",
+      "type": "purchase",
+      "amount": 2944,
+      "fee": 1000,
+      "total": 2944,
+      "status": "pending",
+      "deposit_id": "smscode_1497250",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-26T06:24:25.683+00:00",
+      "updated_at": "2026-05-26T06:24:25.683+00:00"
     }
   ],
   "notifications": [],
