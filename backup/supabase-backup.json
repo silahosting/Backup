@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-26T21:01:33.234Z",
+  "backedUpAt": "2026-05-26T21:04:36.996Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -9,15 +9,6 @@
       "role": "user",
       "balance": 5400,
       "created_at": "2026-05-23T08:21:36.4+00:00"
-    },
-    {
-      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
-      "username": "Alien",
-      "email": "sgvxuffg@gmail.com",
-      "password": "fahrihosting3",
-      "role": "user",
-      "balance": 382,
-      "created_at": "2026-05-26T20:37:37.803+00:00"
     },
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -90,6 +81,15 @@
       "role": "user",
       "balance": 26,
       "created_at": "2026-05-20T05:33:53.922+00:00"
+    },
+    {
+      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
+      "username": "Alien",
+      "email": "sgvxuffg@gmail.com",
+      "password": "fahrihosting3",
+      "role": "user",
+      "balance": 1000,
+      "created_at": "2026-05-26T20:37:37.803+00:00"
     },
     {
       "id": "fb7e729e-7742-46d8-940d-01914570aa4f",
@@ -7545,13 +7545,13 @@
       "amount": 618,
       "fee": 500,
       "total": 618,
-      "status": "pending",
+      "status": "cancel",
       "deposit_id": "smscode_1523908",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-26T20:46:51.048+00:00",
-      "updated_at": "2026-05-26T20:46:51.048+00:00"
+      "updated_at": "2026-05-26T21:04:31.986+00:00"
     },
     {
       "id": "94iptunqqmpmpp3e5",
