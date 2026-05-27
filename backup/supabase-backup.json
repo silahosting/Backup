@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T01:58:50.794Z",
+  "backedUpAt": "2026-05-27T01:59:38.114Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -389,15 +389,6 @@
       "created_at": "2026-05-23T11:39:46.779+00:00"
     },
     {
-      "id": "c7dac824-a449-44d9-9a79-5a76c8a9f75d",
-      "username": "test mazon2",
-      "email": "testmazon2@gmail.com",
-      "password": "oauth_1779833438214_04dj9yyzdh53",
-      "role": "user",
-      "balance": 7878,
-      "created_at": "2026-05-26T22:10:38.749+00:00"
-    },
-    {
       "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
       "username": "Sandi",
       "email": "payshope52@gmail.com",
@@ -414,6 +405,15 @@
       "role": "user",
       "balance": 2750,
       "created_at": "2026-05-26T00:04:41.23+00:00"
+    },
+    {
+      "id": "c7dac824-a449-44d9-9a79-5a76c8a9f75d",
+      "username": "test mazon2",
+      "email": "testmazon2@gmail.com",
+      "password": "oauth_1779833438214_04dj9yyzdh53",
+      "role": "user",
+      "balance": 6028,
+      "created_at": "2026-05-26T22:10:38.749+00:00"
     },
     {
       "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
@@ -7931,6 +7931,22 @@
       "expired_at": null,
       "created_at": "2026-05-27T01:24:37.043+00:00",
       "updated_at": "2026-05-27T01:51:57.748+00:00"
+    },
+    {
+      "id": "fi9kvz5s3mpnf18uh",
+      "user_id": "testmazon2@gmail.com",
+      "user_email": "testmazon2@gmail.com",
+      "type": "purchase",
+      "amount": 1850,
+      "fee": 500,
+      "total": 1850,
+      "status": "pending",
+      "deposit_id": "RO0011692469",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T01:59:02.921+00:00",
+      "updated_at": "2026-05-27T01:59:02.921+00:00"
     },
     {
       "id": "t1lv0njq3mpnet5jc",
