@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T01:53:50.758Z",
+  "backedUpAt": "2026-05-27T01:54:38.112Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -367,7 +367,7 @@
       "email": "testmazon2@gmail.com",
       "password": "oauth_1779833438214_04dj9yyzdh53",
       "role": "user",
-      "balance": 5736,
+      "balance": 7282,
       "created_at": "2026-05-26T22:10:38.749+00:00"
     },
     {
@@ -7885,22 +7885,6 @@
       "updated_at": "2026-05-27T01:52:45.384+00:00"
     },
     {
-      "id": "0404391m7mpneryw0",
-      "user_id": "testmazon2@gmail.com",
-      "user_email": "testmazon2@gmail.com",
-      "type": "purchase",
-      "amount": 1546,
-      "fee": 500,
-      "total": 1546,
-      "status": "pending",
-      "deposit_id": "smscode_1529509",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-27T01:51:50.112+00:00",
-      "updated_at": "2026-05-27T01:51:50.112+00:00"
-    },
-    {
       "id": "xrznh6g32mpndzzhr",
       "user_id": "testmazon2@gmail.com",
       "user_email": "testmazon2@gmail.com",
@@ -7978,7 +7962,23 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-27T01:51:14.776+00:00",
-      "updated_at": "2026-05-27T01:53:40.075+00:00"
+      "updated_at": "2026-05-27T01:53:56.282+00:00"
+    },
+    {
+      "id": "0404391m7mpneryw0",
+      "user_id": "testmazon2@gmail.com",
+      "user_email": "testmazon2@gmail.com",
+      "type": "purchase",
+      "amount": 1546,
+      "fee": 500,
+      "total": 1546,
+      "status": "cancel",
+      "deposit_id": "smscode_1529509",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T01:51:50.112+00:00",
+      "updated_at": "2026-05-27T01:54:32.414+00:00"
     },
     {
       "id": "tg3k8k9tgmpneolyc",
@@ -7994,7 +7994,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-27T01:49:13.38+00:00",
-      "updated_at": "2026-05-27T01:53:35.167+00:00"
+      "updated_at": "2026-05-27T01:53:53.386+00:00"
     }
   ],
   "notifications": [],
