@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T02:21:34.189Z",
+  "backedUpAt": "2026-05-27T02:23:50.893Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -9,6 +9,15 @@
       "role": "user",
       "balance": 5400,
       "created_at": "2026-05-23T08:21:36.4+00:00"
+    },
+    {
+      "id": "cea9a512-9af6-463c-b4a6-b87604096ba5",
+      "username": "Kira Ken",
+      "email": "kiraken220@gmail.com",
+      "password": "oauth_1779848556696_co4ipexlbct",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-27T02:22:37.371+00:00"
     },
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
