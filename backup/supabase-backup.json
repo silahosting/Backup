@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T14:31:36.464Z",
+  "backedUpAt": "2026-05-27T14:33:53.052Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -335,15 +335,6 @@
       "created_at": "2026-05-21T02:48:34.884+00:00"
     },
     {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
-      "role": "user",
-      "balance": 9816,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
-    },
-    {
       "id": "31ba1643-163c-47ea-a6d8-3ea3d659623f",
       "username": "Rahmad Hidayat",
       "email": "rahmathidayat00292@gmail.com",
@@ -423,6 +414,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-23T11:39:46.779+00:00"
+    },
+    {
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
+      "role": "user",
+      "balance": 9814,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
       "id": "fdc2b3b4-7efd-40c8-a274-2a9aa0893a51",
@@ -11434,13 +11434,13 @@
       "amount": 1817,
       "fee": 1000,
       "total": 1817,
-      "status": "pending",
+      "status": "cancel",
       "deposit_id": "smscode_1552427",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-27T14:29:49.453+00:00",
-      "updated_at": "2026-05-27T14:29:49.453+00:00"
+      "updated_at": "2026-05-27T14:33:51.833+00:00"
     }
   ],
   "notifications": [],
