@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T01:41:34.164Z",
+  "backedUpAt": "2026-05-27T01:43:50.746Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -362,15 +362,6 @@
       "created_at": "2026-05-27T00:41:07.8+00:00"
     },
     {
-      "id": "c7dac824-a449-44d9-9a79-5a76c8a9f75d",
-      "username": "test mazon2",
-      "email": "testmazon2@gmail.com",
-      "password": "oauth_1779833438214_04dj9yyzdh53",
-      "role": "user",
-      "balance": 374,
-      "created_at": "2026-05-26T22:10:38.749+00:00"
-    },
-    {
       "id": "e902c0de-3a26-428b-8c39-95153b6951cc",
       "username": "Aiku Arisawa",
       "email": "areklibast@gmail.com",
@@ -396,6 +387,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-23T11:39:46.779+00:00"
+    },
+    {
+      "id": "c7dac824-a449-44d9-9a79-5a76c8a9f75d",
+      "username": "test mazon2",
+      "email": "testmazon2@gmail.com",
+      "password": "oauth_1779833438214_04dj9yyzdh53",
+      "role": "user",
+      "balance": 8828,
+      "created_at": "2026-05-26T22:10:38.749+00:00"
     },
     {
       "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
@@ -7821,6 +7821,54 @@
       "updated_at": "2026-05-27T01:12:40.769+00:00"
     },
     {
+      "id": "gsis1w5gpmpne69tb",
+      "user_id": "testmazon2@gmail.com",
+      "user_email": "testmazon2@gmail.com",
+      "type": "purchase",
+      "amount": 1542,
+      "fee": 500,
+      "total": 1542,
+      "status": "success",
+      "deposit_id": "smscode_1529184",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T01:34:57.839+00:00",
+      "updated_at": "2026-05-27T01:42:35.685+00:00"
+    },
+    {
+      "id": "hwk29ffo7mpnefn89",
+      "user_id": "c7dac824-a449-44d9-9a79-5a76c8a9f75d",
+      "user_email": "testmazon2@gmail.com",
+      "type": "deposit",
+      "amount": 10000,
+      "fee": 526,
+      "total": 10526,
+      "status": "success",
+      "deposit_id": "TRX-1779846133247-9TPGS",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105265802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A01630472E0&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105265802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A01630472E0",
+      "expired_at": "2026-05-27T01:57:13.247+00:00",
+      "created_at": "2026-05-27T01:42:15.129+00:00",
+      "updated_at": "2026-05-27T01:42:56.774+00:00"
+    },
+    {
+      "id": "00jcepuhzmpndgk3d",
+      "user_id": "testmazon2@gmail.com",
+      "user_email": "testmazon2@gmail.com",
+      "type": "purchase",
+      "amount": 1542,
+      "fee": 500,
+      "total": 1542,
+      "status": "success",
+      "deposit_id": "smscode_1528811",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T01:14:58.105+00:00",
+      "updated_at": "2026-05-27T01:43:04.933+00:00"
+    },
+    {
       "id": "j1hya3cjcmpndfr7a",
       "user_id": "testmazon2@gmail.com",
       "user_email": "testmazon2@gmail.com",
@@ -7837,36 +7885,20 @@
       "updated_at": "2026-05-27T01:26:42.618+00:00"
     },
     {
-      "id": "00jcepuhzmpndgk3d",
+      "id": "vi6wv19himpneh7nw",
       "user_id": "testmazon2@gmail.com",
       "user_email": "testmazon2@gmail.com",
       "type": "purchase",
-      "amount": 1542,
+      "amount": 1546,
       "fee": 500,
-      "total": 1542,
-      "status": "success",
-      "deposit_id": "smscode_1528811",
+      "total": 1546,
+      "status": "pending",
+      "deposit_id": "smscode_1529363",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
-      "created_at": "2026-05-27T01:14:58.105+00:00",
-      "updated_at": "2026-05-27T01:37:22.03+00:00"
-    },
-    {
-      "id": "gsis1w5gpmpne69tb",
-      "user_id": "testmazon2@gmail.com",
-      "user_email": "testmazon2@gmail.com",
-      "type": "purchase",
-      "amount": 1542,
-      "fee": 500,
-      "total": 1542,
-      "status": "success",
-      "deposit_id": "smscode_1529184",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-27T01:34:57.839+00:00",
-      "updated_at": "2026-05-27T01:37:25.197+00:00"
+      "created_at": "2026-05-27T01:43:28.268+00:00",
+      "updated_at": "2026-05-27T01:43:28.268+00:00"
     },
     {
       "id": "xrznh6g32mpndzzhr",
