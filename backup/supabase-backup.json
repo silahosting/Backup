@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T09:36:35.559Z",
+  "backedUpAt": "2026-05-27T09:38:52.458Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -441,6 +441,15 @@
       "role": "user",
       "balance": 2750,
       "created_at": "2026-05-26T00:04:41.23+00:00"
+    },
+    {
+      "id": "c13d9e26-f5ad-4d8d-afae-1b0034c52c58",
+      "username": "jibril",
+      "email": "muhamadjbrl18@gmail.com",
+      "password": "jibril123",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-27T09:38:18.678+00:00"
     },
     {
       "id": "ec662b69-52cf-4853-b497-0eb345f26772",
