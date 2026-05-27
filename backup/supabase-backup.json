@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T12:41:36.124Z",
+  "backedUpAt": "2026-05-27T12:43:52.843Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -326,15 +326,6 @@
       "created_at": "2026-05-21T02:48:34.884+00:00"
     },
     {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
-      "role": "user",
-      "balance": 22617,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
-    },
-    {
       "id": "31ba1643-163c-47ea-a6d8-3ea3d659623f",
       "username": "Rahmad Hidayat",
       "email": "rahmathidayat00292@gmail.com",
@@ -468,6 +459,15 @@
       "role": "user",
       "balance": 5327,
       "created_at": "2026-05-25T10:02:34.349+00:00"
+    },
+    {
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
+      "role": "user",
+      "balance": 18411,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
       "id": "c94189dc-f697-4bcf-a616-217f5a774abe",
@@ -10026,6 +10026,22 @@
       "updated_at": "2026-05-27T12:12:03.752+00:00"
     },
     {
+      "id": "mwo9iusedmpo21aag",
+      "user_id": "testmazon3@gmail.com",
+      "user_email": "testmazon3@gmail.com",
+      "type": "purchase",
+      "amount": 2103,
+      "fee": 1000,
+      "total": 2103,
+      "status": "pending",
+      "deposit_id": "smscode_1549166",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T12:42:55.96+00:00",
+      "updated_at": "2026-05-27T12:42:55.96+00:00"
+    },
+    {
       "id": "lj0s1vzjrmpo19z5s",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -10106,6 +10122,22 @@
       "updated_at": "2026-05-27T12:34:23.837+00:00"
     },
     {
+      "id": "5pwxikqsompo1e4vl",
+      "user_id": "testmazon3@gmail.com",
+      "user_email": "testmazon3@gmail.com",
+      "type": "purchase",
+      "amount": 2300,
+      "fee": 1000,
+      "total": 2300,
+      "status": "expired",
+      "deposit_id": "RO0011828911",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T12:24:55.857+00:00",
+      "updated_at": "2026-05-27T12:43:21.098+00:00"
+    },
+    {
       "id": "dl7dq0jrpmpo1btnt",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -10122,20 +10154,20 @@
       "updated_at": "2026-05-27T12:33:22.848+00:00"
     },
     {
-      "id": "5pwxikqsompo1e4vl",
+      "id": "q07jw9vcompo1o8tt",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
       "type": "purchase",
-      "amount": 2300,
+      "amount": 2046,
       "fee": 1000,
-      "total": 2300,
-      "status": "pending",
-      "deposit_id": "RO0011828911",
+      "total": 2046,
+      "status": "cancel",
+      "deposit_id": "smscode_1548807",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
-      "created_at": "2026-05-27T12:24:55.857+00:00",
-      "updated_at": "2026-05-27T12:24:55.857+00:00"
+      "created_at": "2026-05-27T12:32:47.537+00:00",
+      "updated_at": "2026-05-27T12:43:36.937+00:00"
     },
     {
       "id": "krd3s429tmpo1ja41",
@@ -10328,22 +10360,6 @@
       "expired_at": null,
       "created_at": "2026-05-27T12:27:57.121+00:00",
       "updated_at": "2026-05-27T12:37:03.456+00:00"
-    },
-    {
-      "id": "q07jw9vcompo1o8tt",
-      "user_id": "testmazon3@gmail.com",
-      "user_email": "testmazon3@gmail.com",
-      "type": "purchase",
-      "amount": 2046,
-      "fee": 1000,
-      "total": 2046,
-      "status": "cancel",
-      "deposit_id": "smscode_1548807",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-27T12:32:47.537+00:00",
-      "updated_at": "2026-05-27T12:38:23.096+00:00"
     },
     {
       "id": "i0o25godhmpo1lcuk",
