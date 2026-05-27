@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T09:24:39.465Z",
+  "backedUpAt": "2026-05-27T09:26:35.568Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -414,6 +414,15 @@
       "role": "user",
       "balance": 4967,
       "created_at": "2026-05-27T02:24:54.057+00:00"
+    },
+    {
+      "id": "fdc2b3b4-7efd-40c8-a274-2a9aa0893a51",
+      "username": "pirman kw",
+      "email": "pirmankw38@gmail.com",
+      "password": "oauth_1779873881650_hv0a37daj4a",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-27T09:24:42.286+00:00"
     },
     {
       "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
