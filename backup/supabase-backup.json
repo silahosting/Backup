@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T02:14:38.192Z",
+  "backedUpAt": "2026-05-27T02:16:34.200Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -389,15 +389,6 @@
       "created_at": "2026-05-23T11:39:46.779+00:00"
     },
     {
-      "id": "c7dac824-a449-44d9-9a79-5a76c8a9f75d",
-      "username": "test mazon2",
-      "email": "testmazon2@gmail.com",
-      "password": "oauth_1779833438214_04dj9yyzdh53",
-      "role": "user",
-      "balance": 1428,
-      "created_at": "2026-05-26T22:10:38.749+00:00"
-    },
-    {
       "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
       "username": "Sandi",
       "email": "payshope52@gmail.com",
@@ -414,6 +405,15 @@
       "role": "user",
       "balance": 2750,
       "created_at": "2026-05-26T00:04:41.23+00:00"
+    },
+    {
+      "id": "c7dac824-a449-44d9-9a79-5a76c8a9f75d",
+      "username": "test mazon2",
+      "email": "testmazon2@gmail.com",
+      "password": "oauth_1779833438214_04dj9yyzdh53",
+      "role": "user",
+      "balance": 3278,
+      "created_at": "2026-05-26T22:10:38.749+00:00"
     },
     {
       "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
