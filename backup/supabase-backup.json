@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T12:16:36.063Z",
+  "backedUpAt": "2026-05-27T12:18:52.826Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -263,6 +263,15 @@
       "created_at": "2026-05-22T13:21:22.918+00:00"
     },
     {
+      "id": "edc98d8e-4f15-4607-9bab-126ed8ed7ed3",
+      "username": "OFI HOME",
+      "email": "ofihome.co@gmail.com",
+      "password": "oauth_1779882046695_kh510ab7qd",
+      "role": "user",
+      "balance": 2921,
+      "created_at": "2026-05-27T11:40:47.323+00:00"
+    },
+    {
       "id": "940a94ac-9209-4a0a-b7c2-c0975e90add5",
       "username": "adi iswanto",
       "email": "putr4pandawa92@gmail.com",
@@ -324,15 +333,6 @@
       "role": "user",
       "balance": 333,
       "created_at": "2026-05-21T02:48:34.884+00:00"
-    },
-    {
-      "id": "edc98d8e-4f15-4607-9bab-126ed8ed7ed3",
-      "username": "OFI HOME",
-      "email": "ofihome.co@gmail.com",
-      "password": "oauth_1779882046695_kh510ab7qd",
-      "role": "user",
-      "balance": 2921,
-      "created_at": "2026-05-27T11:40:47.323+00:00"
     },
     {
       "id": "31ba1643-163c-47ea-a6d8-3ea3d659623f",
@@ -416,15 +416,6 @@
       "created_at": "2026-05-23T11:39:46.779+00:00"
     },
     {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
-      "role": "user",
-      "balance": 818,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
-    },
-    {
       "id": "fdc2b3b4-7efd-40c8-a274-2a9aa0893a51",
       "username": "pirman kw",
       "email": "pirmankw38@gmail.com",
@@ -486,6 +477,15 @@
       "role": "user",
       "balance": 1428,
       "created_at": "2026-05-26T22:10:38.749+00:00"
+    },
+    {
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
+      "role": "user",
+      "balance": 818,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
     }
   ],
   "transactions": [
@@ -9658,38 +9658,6 @@
       "updated_at": "2026-05-27T05:41:58.619+00:00"
     },
     {
-      "id": "vgwje5h43mpo04kr0",
-      "user_id": "ofihome.co@gmail.com",
-      "user_email": "ofihome.co@gmail.com",
-      "type": "purchase",
-      "amount": 2000,
-      "fee": 1000,
-      "total": 2000,
-      "status": "pending",
-      "deposit_id": "RO0011819850",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-27T11:49:30.252+00:00",
-      "updated_at": "2026-05-27T11:49:30.252+00:00"
-    },
-    {
-      "id": "t6ncg0rhcmpo059jm",
-      "user_id": "fahrihosting3@gmail.com",
-      "user_email": "fahrihosting3@gmail.com",
-      "type": "purchase",
-      "amount": 3150,
-      "fee": 1000,
-      "total": 3150,
-      "status": "pending",
-      "deposit_id": "RO0011820078",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-27T11:50:02.386+00:00",
-      "updated_at": "2026-05-27T11:50:02.386+00:00"
-    },
-    {
       "id": "sdahqura0mpo0kvn2",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -9706,6 +9674,22 @@
       "updated_at": "2026-05-27T12:11:10.2+00:00"
     },
     {
+      "id": "uerjvqqpbmpo0fk2d",
+      "user_id": "ofihome.co@gmail.com",
+      "user_email": "ofihome.co@gmail.com",
+      "type": "purchase",
+      "amount": 2000,
+      "fee": 1000,
+      "total": 2000,
+      "status": "expired",
+      "deposit_id": "RO0011822605",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T11:58:02.581+00:00",
+      "updated_at": "2026-05-27T12:17:12.438+00:00"
+    },
+    {
       "id": "47darnvqympnnqliz",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -9720,38 +9704,6 @@
       "expired_at": null,
       "created_at": "2026-05-27T06:02:42.683+00:00",
       "updated_at": "2026-05-27T06:11:32.643+00:00"
-    },
-    {
-      "id": "jddrkf210mpo08bu9",
-      "user_id": "fahrihosting3@gmail.com",
-      "user_email": "fahrihosting3@gmail.com",
-      "type": "purchase",
-      "amount": 1450,
-      "fee": 1000,
-      "total": 1450,
-      "status": "pending",
-      "deposit_id": "RO0011821007",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-27T11:52:25.329+00:00",
-      "updated_at": "2026-05-27T11:52:25.329+00:00"
-    },
-    {
-      "id": "uerjvqqpbmpo0fk2d",
-      "user_id": "ofihome.co@gmail.com",
-      "user_email": "ofihome.co@gmail.com",
-      "type": "purchase",
-      "amount": 2000,
-      "fee": 1000,
-      "total": 2000,
-      "status": "pending",
-      "deposit_id": "RO0011822605",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-27T11:58:02.581+00:00",
-      "updated_at": "2026-05-27T11:58:02.581+00:00"
     },
     {
       "id": "x4oxghvlompo04zpe",
@@ -9848,6 +9800,54 @@
       "expired_at": null,
       "created_at": "2026-05-27T11:43:59.5+00:00",
       "updated_at": "2026-05-27T12:11:03.743+00:00"
+    },
+    {
+      "id": "vgwje5h43mpo04kr0",
+      "user_id": "ofihome.co@gmail.com",
+      "user_email": "ofihome.co@gmail.com",
+      "type": "purchase",
+      "amount": 2000,
+      "fee": 1000,
+      "total": 2000,
+      "status": "expired",
+      "deposit_id": "RO0011819850",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T11:49:30.252+00:00",
+      "updated_at": "2026-05-27T12:17:13.249+00:00"
+    },
+    {
+      "id": "jddrkf210mpo08bu9",
+      "user_id": "fahrihosting3@gmail.com",
+      "user_email": "fahrihosting3@gmail.com",
+      "type": "purchase",
+      "amount": 1450,
+      "fee": 1000,
+      "total": 1450,
+      "status": "expired",
+      "deposit_id": "RO0011821007",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T11:52:25.329+00:00",
+      "updated_at": "2026-05-27T12:17:18.168+00:00"
+    },
+    {
+      "id": "t6ncg0rhcmpo059jm",
+      "user_id": "fahrihosting3@gmail.com",
+      "user_email": "fahrihosting3@gmail.com",
+      "type": "purchase",
+      "amount": 3150,
+      "fee": 1000,
+      "total": 3150,
+      "status": "expired",
+      "deposit_id": "RO0011820078",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T11:50:02.386+00:00",
+      "updated_at": "2026-05-27T12:17:18.987+00:00"
     },
     {
       "id": "57yes5lxkmpo08i2t",
@@ -9978,7 +9978,7 @@
       "updated_at": "2026-05-27T12:14:47.353+00:00"
     },
     {
-      "id": "gem35cbwumpo11brw",
+      "id": "ng1urevw7mpo14oio",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
       "type": "purchase",
@@ -9986,12 +9986,60 @@
       "fee": 1000,
       "total": 2103,
       "status": "pending",
+      "deposit_id": "smscode_1548362",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T12:17:34.752+00:00",
+      "updated_at": "2026-05-27T12:17:34.752+00:00"
+    },
+    {
+      "id": "pxq1dfxfxmpo15jjn",
+      "user_id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "user_email": "testmazon3@gmail.com",
+      "type": "deposit",
+      "amount": 20000,
+      "fee": 540,
+      "total": 20540,
+      "status": "pending",
+      "deposit_id": "TRX-1779884290698-OV9S8",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405205405802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A0163049323&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405205405802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163049323",
+      "expired_at": "2026-05-27T12:33:10.699+00:00",
+      "created_at": "2026-05-27T12:18:14.963+00:00",
+      "updated_at": "2026-05-27T12:18:14.963+00:00"
+    },
+    {
+      "id": "gem35cbwumpo11brw",
+      "user_id": "testmazon3@gmail.com",
+      "user_email": "testmazon3@gmail.com",
+      "type": "purchase",
+      "amount": 2103,
+      "fee": 1000,
+      "total": 2103,
+      "status": "cancel",
       "deposit_id": "smscode_1548261",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-27T12:14:58.268+00:00",
-      "updated_at": "2026-05-27T12:14:58.268+00:00"
+      "updated_at": "2026-05-27T12:18:44.31+00:00"
+    },
+    {
+      "id": "2s70o1pgbmpo167zn",
+      "user_id": "ofihome.co@gmail.com",
+      "user_email": "ofihome.co@gmail.com",
+      "type": "purchase",
+      "amount": 2000,
+      "fee": 1000,
+      "total": 2000,
+      "status": "pending",
+      "deposit_id": "RO0011827904",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T12:18:46.643+00:00",
+      "updated_at": "2026-05-27T12:18:46.643+00:00"
     }
   ],
   "notifications": [],
