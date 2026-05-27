@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T01:56:34.176Z",
+  "backedUpAt": "2026-05-27T01:58:50.794Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -394,7 +394,7 @@
       "email": "testmazon2@gmail.com",
       "password": "oauth_1779833438214_04dj9yyzdh53",
       "role": "user",
-      "balance": 8828,
+      "balance": 7878,
       "created_at": "2026-05-26T22:10:38.749+00:00"
     },
     {
@@ -7805,20 +7805,20 @@
       "updated_at": "2026-05-27T01:12:40.769+00:00"
     },
     {
-      "id": "gsis1w5gpmpne69tb",
+      "id": "wzwwphtymmpnensc6",
       "user_id": "testmazon2@gmail.com",
       "user_email": "testmazon2@gmail.com",
       "type": "purchase",
-      "amount": 1542,
+      "amount": 1011,
       "fee": 500,
-      "total": 1542,
-      "status": "success",
-      "deposit_id": "smscode_1529184",
+      "total": 1011,
+      "status": "cancel",
+      "deposit_id": "smscode_1529445",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
-      "created_at": "2026-05-27T01:34:57.839+00:00",
-      "updated_at": "2026-05-27T01:56:26.46+00:00"
+      "created_at": "2026-05-27T01:48:34.998+00:00",
+      "updated_at": "2026-05-27T01:57:32.482+00:00"
     },
     {
       "id": "hwk29ffo7mpnefn89",
@@ -7901,20 +7901,20 @@
       "updated_at": "2026-05-27T01:50:58.764+00:00"
     },
     {
-      "id": "wzwwphtymmpnensc6",
+      "id": "gsis1w5gpmpne69tb",
       "user_id": "testmazon2@gmail.com",
       "user_email": "testmazon2@gmail.com",
       "type": "purchase",
-      "amount": 1011,
+      "amount": 1542,
       "fee": 500,
-      "total": 1011,
-      "status": "cancel",
-      "deposit_id": "smscode_1529445",
+      "total": 1542,
+      "status": "success",
+      "deposit_id": "smscode_1529184",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
-      "created_at": "2026-05-27T01:48:34.998+00:00",
-      "updated_at": "2026-05-27T01:52:23.357+00:00"
+      "created_at": "2026-05-27T01:34:57.839+00:00",
+      "updated_at": "2026-05-27T01:57:54.153+00:00"
     },
     {
       "id": "kyz5mhh7mmpndsysz",
@@ -7946,7 +7946,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-27T01:52:45.384+00:00",
-      "updated_at": "2026-05-27T01:55:22.488+00:00"
+      "updated_at": "2026-05-27T01:56:35.884+00:00"
     },
     {
       "id": "182uvux5kmpner7mg",
@@ -7995,6 +7995,22 @@
       "expired_at": null,
       "created_at": "2026-05-27T01:49:13.38+00:00",
       "updated_at": "2026-05-27T01:55:09.454+00:00"
+    },
+    {
+      "id": "iqu4h8aszmpnezckq",
+      "user_id": "testmazon2@gmail.com",
+      "user_email": "testmazon2@gmail.com",
+      "type": "purchase",
+      "amount": 950,
+      "fee": 500,
+      "total": 950,
+      "status": "pending",
+      "deposit_id": "RO0011692269",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T01:57:34.442+00:00",
+      "updated_at": "2026-05-27T01:57:34.442+00:00"
     }
   ],
   "notifications": [],
