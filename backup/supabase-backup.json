@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T22:34:41.505Z",
+  "backedUpAt": "2026-05-27T22:36:37.178Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -12810,6 +12810,22 @@
       "expired_at": null,
       "created_at": "2026-05-27T22:26:03.333+00:00",
       "updated_at": "2026-05-27T22:31:34.315+00:00"
+    },
+    {
+      "id": "u0ts3i2jvmpon8fx0",
+      "user_id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "user_email": "testmazon3@gmail.com",
+      "type": "deposit",
+      "amount": 15000,
+      "fee": 546,
+      "total": 15546,
+      "status": "pending",
+      "deposit_id": "TRX-1779921380005-IUGYH",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405155465802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A016304F795&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405155465802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A016304F795",
+      "expired_at": "2026-05-27T22:51:20.006+00:00",
+      "created_at": "2026-05-27T22:36:21.78+00:00",
+      "updated_at": "2026-05-27T22:36:21.78+00:00"
     }
   ],
   "notifications": [],
