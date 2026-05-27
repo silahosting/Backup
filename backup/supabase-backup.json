@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T00:39:37.811Z",
+  "backedUpAt": "2026-05-27T00:41:34.030Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -360,6 +360,15 @@
       "role": "user",
       "balance": 1146,
       "created_at": "2026-05-22T18:27:30.554+00:00"
+    },
+    {
+      "id": "4339b656-5ee6-4d0f-a4f7-0690a7b2a572",
+      "username": "Lambok Sembiring",
+      "email": "sembiringlambok@gmail.com",
+      "password": "oauth_1779842466772_hcy93hg2gk",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-27T00:41:07.8+00:00"
     },
     {
       "id": "e902c0de-3a26-428b-8c39-95153b6951cc",
