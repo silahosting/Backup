@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T02:04:38.156Z",
+  "backedUpAt": "2026-05-27T02:06:34.183Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -9,15 +9,6 @@
       "role": "user",
       "balance": 5400,
       "created_at": "2026-05-23T08:21:36.4+00:00"
-    },
-    {
-      "id": "c7dac824-a449-44d9-9a79-5a76c8a9f75d",
-      "username": "test mazon2",
-      "email": "testmazon2@gmail.com",
-      "password": "oauth_1779833438214_04dj9yyzdh53",
-      "role": "user",
-      "balance": 5128,
-      "created_at": "2026-05-26T22:10:38.749+00:00"
     },
     {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
@@ -306,6 +297,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-24T19:30:29.531+00:00"
+    },
+    {
+      "id": "c7dac824-a449-44d9-9a79-5a76c8a9f75d",
+      "username": "test mazon2",
+      "email": "testmazon2@gmail.com",
+      "password": "oauth_1779833438214_04dj9yyzdh53",
+      "role": "user",
+      "balance": 1428,
+      "created_at": "2026-05-26T22:10:38.749+00:00"
     },
     {
       "id": "906b8222-d3bf-47de-8164-ee07f914864c",
@@ -7898,7 +7898,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-27T01:43:28.268+00:00",
-      "updated_at": "2026-05-27T02:04:12.628+00:00"
+      "updated_at": "2026-05-27T02:05:22.731+00:00"
     },
     {
       "id": "kyz5mhh7mmpndsysz",
@@ -8043,6 +8043,38 @@
       "expired_at": null,
       "created_at": "2026-05-27T02:04:32.24+00:00",
       "updated_at": "2026-05-27T02:04:32.24+00:00"
+    },
+    {
+      "id": "nmbsq0gtompnf95vb",
+      "user_id": "testmazon2@gmail.com",
+      "user_email": "testmazon2@gmail.com",
+      "type": "purchase",
+      "amount": 1850,
+      "fee": 500,
+      "total": 1850,
+      "status": "pending",
+      "deposit_id": "RO0011693072",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T02:05:12.311+00:00",
+      "updated_at": "2026-05-27T02:05:12.311+00:00"
+    },
+    {
+      "id": "y1jmpgrt3mpnfa00j",
+      "user_id": "testmazon2@gmail.com",
+      "user_email": "testmazon2@gmail.com",
+      "type": "purchase",
+      "amount": 1850,
+      "fee": 500,
+      "total": 1850,
+      "status": "pending",
+      "deposit_id": "RO0011693129",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T02:05:51.379+00:00",
+      "updated_at": "2026-05-27T02:05:51.379+00:00"
     }
   ],
   "notifications": [],
