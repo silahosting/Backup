@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T18:03:53.598Z",
+  "backedUpAt": "2026-05-27T18:04:41.071Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -299,6 +299,15 @@
       "created_at": "2026-05-24T19:30:29.531+00:00"
     },
     {
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
+      "role": "user",
+      "balance": 3620,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
+    },
+    {
       "id": "906b8222-d3bf-47de-8164-ee07f914864c",
       "username": "Asep",
       "email": "nadine.lestari7@gmail.com",
@@ -495,15 +504,6 @@
       "role": "user",
       "balance": 1428,
       "created_at": "2026-05-26T22:10:38.749+00:00"
-    },
-    {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
-      "role": "user",
-      "balance": 3873,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
     }
   ],
   "transactions": [
@@ -12268,22 +12268,6 @@
       "updated_at": "2026-05-27T18:02:15.236+00:00"
     },
     {
-      "id": "5zy7k2pg2mpod6lld",
-      "user_id": "testmazon3@gmail.com",
-      "user_email": "testmazon3@gmail.com",
-      "type": "purchase",
-      "amount": 1793,
-      "fee": 1000,
-      "total": 1793,
-      "status": "cancel",
-      "deposit_id": "smscode_1557396",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-27T17:54:59.665+00:00",
-      "updated_at": "2026-05-27T17:58:46.975+00:00"
-    },
-    {
       "id": "zjx7ynmt5mpoaweu0",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -12540,22 +12524,6 @@
       "updated_at": "2026-05-27T18:01:16.742+00:00"
     },
     {
-      "id": "nssa987numpodeunl",
-      "user_id": "testmazon3@gmail.com",
-      "user_email": "testmazon3@gmail.com",
-      "type": "purchase",
-      "amount": 1897,
-      "fee": 1000,
-      "total": 1897,
-      "status": "pending",
-      "deposit_id": "smscode_1557539",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-27T18:01:24.657+00:00",
-      "updated_at": "2026-05-27T18:01:24.657+00:00"
-    },
-    {
       "id": "faxbqd40rmpodc9as",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -12602,6 +12570,54 @@
       "expired_at": null,
       "created_at": "2026-05-27T17:54:18.564+00:00",
       "updated_at": "2026-05-27T18:03:17.712+00:00"
+    },
+    {
+      "id": "5zy7k2pg2mpod6lld",
+      "user_id": "testmazon3@gmail.com",
+      "user_email": "testmazon3@gmail.com",
+      "type": "purchase",
+      "amount": 1793,
+      "fee": 1000,
+      "total": 1793,
+      "status": "cancel",
+      "deposit_id": "smscode_1557396",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T17:54:59.665+00:00",
+      "updated_at": "2026-05-27T18:03:53.098+00:00"
+    },
+    {
+      "id": "s8dd9otr8mpodikp3",
+      "user_id": "testmazon3@gmail.com",
+      "user_email": "testmazon3@gmail.com",
+      "type": "purchase",
+      "amount": 2150,
+      "fee": 1000,
+      "total": 2150,
+      "status": "pending",
+      "deposit_id": "RO0011882356",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T18:04:18.375+00:00",
+      "updated_at": "2026-05-27T18:04:18.375+00:00"
+    },
+    {
+      "id": "nssa987numpodeunl",
+      "user_id": "testmazon3@gmail.com",
+      "user_email": "testmazon3@gmail.com",
+      "type": "purchase",
+      "amount": 1897,
+      "fee": 1000,
+      "total": 1897,
+      "status": "cancel",
+      "deposit_id": "smscode_1557539",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T18:01:24.657+00:00",
+      "updated_at": "2026-05-27T18:04:21.921+00:00"
     }
   ],
   "notifications": [],
