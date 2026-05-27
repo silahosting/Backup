@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T12:24:39.601Z",
+  "backedUpAt": "2026-05-27T12:26:36.070Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -484,7 +484,7 @@
       "email": "testmazon3@gmail.com",
       "password": "oauth_1779848693503_keqpnoxddf",
       "role": "user",
-      "balance": 16612,
+      "balance": 14312,
       "created_at": "2026-05-27T02:24:54.057+00:00"
     }
   ],
@@ -10058,38 +10058,6 @@
       "updated_at": "2026-05-27T12:12:03.752+00:00"
     },
     {
-      "id": "w0oancb9vmpo0pmcp",
-      "user_id": "testmazon3@gmail.com",
-      "user_email": "testmazon3@gmail.com",
-      "type": "purchase",
-      "amount": 2046,
-      "fee": 1000,
-      "total": 2046,
-      "status": "success",
-      "deposit_id": "smscode_1548069",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-27T12:05:52.105+00:00",
-      "updated_at": "2026-05-27T12:13:42.703+00:00"
-    },
-    {
-      "id": "xzq63or3dmpo192cu",
-      "user_id": "testmazon3@gmail.com",
-      "user_email": "testmazon3@gmail.com",
-      "type": "purchase",
-      "amount": 2103,
-      "fee": 1000,
-      "total": 2103,
-      "status": "cancel",
-      "deposit_id": "smscode_1548451",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-27T12:20:59.31+00:00",
-      "updated_at": "2026-05-27T12:23:44.512+00:00"
-    },
-    {
       "id": "gem35cbwumpo11brw",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -10138,6 +10106,38 @@
       "updated_at": "2026-05-27T12:19:28.954+00:00"
     },
     {
+      "id": "xzq63or3dmpo192cu",
+      "user_id": "testmazon3@gmail.com",
+      "user_email": "testmazon3@gmail.com",
+      "type": "purchase",
+      "amount": 2103,
+      "fee": 1000,
+      "total": 2103,
+      "status": "cancel",
+      "deposit_id": "smscode_1548451",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T12:20:59.31+00:00",
+      "updated_at": "2026-05-27T12:24:52.382+00:00"
+    },
+    {
+      "id": "5pwxikqsompo1e4vl",
+      "user_id": "testmazon3@gmail.com",
+      "user_email": "testmazon3@gmail.com",
+      "type": "purchase",
+      "amount": 2300,
+      "fee": 1000,
+      "total": 2300,
+      "status": "pending",
+      "deposit_id": "RO0011828911",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T12:24:55.857+00:00",
+      "updated_at": "2026-05-27T12:24:55.857+00:00"
+    },
+    {
       "id": "lj0s1vzjrmpo19z5s",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -10151,7 +10151,23 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-27T12:21:41.824+00:00",
-      "updated_at": "2026-05-27T12:24:34.417+00:00"
+      "updated_at": "2026-05-27T12:25:43.059+00:00"
+    },
+    {
+      "id": "w0oancb9vmpo0pmcp",
+      "user_id": "testmazon3@gmail.com",
+      "user_email": "testmazon3@gmail.com",
+      "type": "purchase",
+      "amount": 2046,
+      "fee": 1000,
+      "total": 2046,
+      "status": "success",
+      "deposit_id": "smscode_1548069",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-27T12:05:52.105+00:00",
+      "updated_at": "2026-05-27T12:26:30.226+00:00"
     }
   ],
   "notifications": [],
