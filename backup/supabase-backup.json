@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T11:39:39.612Z",
+  "backedUpAt": "2026-05-27T11:41:35.947Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -459,6 +459,15 @@
       "role": "user",
       "balance": 5327,
       "created_at": "2026-05-25T10:02:34.349+00:00"
+    },
+    {
+      "id": "edc98d8e-4f15-4607-9bab-126ed8ed7ed3",
+      "username": "OFI HOME",
+      "email": "ofihome.co@gmail.com",
+      "password": "oauth_1779882046695_kh510ab7qd",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-27T11:40:47.323+00:00"
     },
     {
       "id": "c94189dc-f697-4bcf-a616-217f5a774abe",
