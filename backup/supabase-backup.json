@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-27T11:41:35.947Z",
+  "backedUpAt": "2026-05-27T11:43:52.742Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -461,15 +461,6 @@
       "created_at": "2026-05-25T10:02:34.349+00:00"
     },
     {
-      "id": "edc98d8e-4f15-4607-9bab-126ed8ed7ed3",
-      "username": "OFI HOME",
-      "email": "ofihome.co@gmail.com",
-      "password": "oauth_1779882046695_kh510ab7qd",
-      "role": "user",
-      "balance": 0,
-      "created_at": "2026-05-27T11:40:47.323+00:00"
-    },
-    {
       "id": "c94189dc-f697-4bcf-a616-217f5a774abe",
       "username": "SRI WAHYUNI ",
       "email": "sriw4335@gmail.com",
@@ -486,6 +477,15 @@
       "role": "user",
       "balance": 1428,
       "created_at": "2026-05-26T22:10:38.749+00:00"
+    },
+    {
+      "id": "edc98d8e-4f15-4607-9bab-126ed8ed7ed3",
+      "username": "OFI HOME",
+      "email": "ofihome.co@gmail.com",
+      "password": "oauth_1779882046695_kh510ab7qd",
+      "role": "user",
+      "balance": 8921,
+      "created_at": "2026-05-27T11:40:47.323+00:00"
     }
   ],
   "transactions": [
@@ -9256,6 +9256,22 @@
       "expired_at": null,
       "created_at": "2026-05-27T04:57:56.131+00:00",
       "updated_at": "2026-05-27T05:41:58.582+00:00"
+    },
+    {
+      "id": "fismwgtw3mpnzv8r8",
+      "user_id": "edc98d8e-4f15-4607-9bab-126ed8ed7ed3",
+      "user_email": "ofihome.co@gmail.com",
+      "type": "deposit",
+      "amount": 10000,
+      "fee": 507,
+      "total": 10507,
+      "status": "success",
+      "deposit_id": "TRX-1779882132530-6VSSA",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105075802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A016304F9B5&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105075802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A016304F9B5",
+      "expired_at": "2026-05-27T11:57:12.53+00:00",
+      "created_at": "2026-05-27T11:42:14.804+00:00",
+      "updated_at": "2026-05-27T11:42:24.544+00:00"
     },
     {
       "id": "uzt67mfn7mpnm6nby",
