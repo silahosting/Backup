@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T07:16:39.355Z",
+  "backedUpAt": "2026-05-28T07:18:55.228Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -335,6 +335,15 @@
       "created_at": "2026-05-25T00:14:42.465+00:00"
     },
     {
+      "id": "109eb5c4-73e5-457e-b88c-724e2d86595b",
+      "username": "Frans Putros",
+      "email": "fputros6@gmail.com",
+      "password": "oauth_1779952622949_lumxz2ezmlk",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-28T07:17:03.502+00:00"
+    },
+    {
       "id": "694700f1-d85d-44c8-81a2-43d06d2d23e8",
       "username": "MEMBER AIRASIA",
       "email": "airasia.member1@gmail.com",
@@ -493,7 +502,7 @@
       "email": "andhimazahran@gmail.com",
       "password": "oauth_1779591284162_lzkgqn4rtve",
       "role": "user",
-      "balance": 21836,
+      "balance": 18891,
       "created_at": "2026-05-24T02:54:44.687+00:00"
     },
     {
@@ -14565,6 +14574,22 @@
       "expired_at": null,
       "created_at": "2026-05-28T06:05:54.945+00:00",
       "updated_at": "2026-05-28T06:18:05.456+00:00"
+    },
+    {
+      "id": "vn8o10vkkmpp5vnf8",
+      "user_id": "andhimazahran@gmail.com",
+      "user_email": "andhimazahran@gmail.com",
+      "type": "purchase",
+      "amount": 2945,
+      "fee": 1000,
+      "total": 2945,
+      "status": "pending",
+      "deposit_id": "smscode_1581149",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T07:18:17.684+00:00",
+      "updated_at": "2026-05-28T07:18:17.684+00:00"
     }
   ],
   "notifications": [],
