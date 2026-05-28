@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T06:49:42.686Z",
+  "backedUpAt": "2026-05-28T06:51:39.548Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -335,6 +335,15 @@
       "created_at": "2026-05-25T00:14:42.465+00:00"
     },
     {
+      "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
+      "username": "Andhima Abdul Ghaaniy",
+      "email": "andhimazahran@gmail.com",
+      "password": "oauth_1779591284162_lzkgqn4rtve",
+      "role": "user",
+      "balance": 25032,
+      "created_at": "2026-05-24T02:54:44.687+00:00"
+    },
+    {
       "id": "694700f1-d85d-44c8-81a2-43d06d2d23e8",
       "username": "MEMBER AIRASIA",
       "email": "airasia.member1@gmail.com",
@@ -486,15 +495,6 @@
       "role": "user",
       "balance": 1428,
       "created_at": "2026-05-26T22:10:38.749+00:00"
-    },
-    {
-      "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
-      "username": "Andhima Abdul Ghaaniy",
-      "email": "andhimazahran@gmail.com",
-      "password": "oauth_1779591284162_lzkgqn4rtve",
-      "role": "user",
-      "balance": 32,
-      "created_at": "2026-05-24T02:54:44.687+00:00"
     },
     {
       "id": "d941513e-59e5-458b-b7b4-397b3465b02a",
@@ -14158,13 +14158,13 @@
       "amount": 25000,
       "fee": 568,
       "total": 25568,
-      "status": "pending",
+      "status": "success",
       "deposit_id": "TRX-1779950959687-T4ASK",
       "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405255685802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A016304E044&ecc=M",
       "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405255685802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A016304E044",
       "expired_at": "2026-05-28T07:04:19.688+00:00",
       "created_at": "2026-05-28T06:49:21.791+00:00",
-      "updated_at": "2026-05-28T06:49:21.791+00:00"
+      "updated_at": "2026-05-28T06:50:00.255+00:00"
     },
     {
       "id": "1fcyygclcmpp26znr",
