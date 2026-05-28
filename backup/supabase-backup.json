@@ -1,6 +1,15 @@
 {
-  "backedUpAt": "2026-05-28T14:29:44.587Z",
+  "backedUpAt": "2026-05-28T14:31:40.161Z",
   "users": [
+    {
+      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
+      "username": "Alien",
+      "email": "sgvxuffg@gmail.com",
+      "password": "fahrihosting3",
+      "role": "user",
+      "balance": 8285,
+      "created_at": "2026-05-26T20:37:37.803+00:00"
+    },
     {
       "id": "cea9a512-9af6-463c-b4a6-b87604096ba5",
       "username": "Kira Ken",
@@ -306,15 +315,6 @@
       "role": "user",
       "balance": 333,
       "created_at": "2026-05-21T02:48:34.884+00:00"
-    },
-    {
-      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
-      "username": "Alien",
-      "email": "sgvxuffg@gmail.com",
-      "password": "fahrihosting3",
-      "role": "user",
-      "balance": 7167,
-      "created_at": "2026-05-26T20:37:37.803+00:00"
     },
     {
       "id": "31ba1643-163c-47ea-a6d8-3ea3d659623f",
@@ -23496,31 +23496,6 @@
       "provider": null
     },
     {
-      "id": "orxbbioudmppl4v1k",
-      "user_id": "sgvxuffg@gmail.com",
-      "user_email": "sgvxuffg@gmail.com",
-      "type": "purchase",
-      "amount": 1118,
-      "fee": 1000,
-      "total": 1118,
-      "status": "pending",
-      "deposit_id": "smscode_1600540",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-28T14:25:21.704+00:00",
-      "updated_at": "2026-05-28T14:25:21.704+00:00",
-      "order_id": "smscode_1600540",
-      "service_name": "TikTok / Douyin",
-      "phone_number": "6285707439238",
-      "otp_code": "-",
-      "country_name": "Indonesia",
-      "original_price": 118,
-      "selling_price": 1118,
-      "profit": 1000,
-      "provider": "smscode"
-    },
-    {
       "id": "2t9b8gdbimppl1j29",
       "user_id": "sgvxuffg@gmail.com",
       "user_email": "sgvxuffg@gmail.com",
@@ -23567,6 +23542,31 @@
       "country_name": "Indonesia",
       "original_price": 2553,
       "selling_price": 3553,
+      "profit": 1000,
+      "provider": "smscode"
+    },
+    {
+      "id": "orxbbioudmppl4v1k",
+      "user_id": "sgvxuffg@gmail.com",
+      "user_email": "sgvxuffg@gmail.com",
+      "type": "purchase",
+      "amount": 1118,
+      "fee": 1000,
+      "total": 1118,
+      "status": "cancel",
+      "deposit_id": "smscode_1600540",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T14:25:21.704+00:00",
+      "updated_at": "2026-05-28T14:31:22.153+00:00",
+      "order_id": "smscode_1600540",
+      "service_name": "TikTok / Douyin",
+      "phone_number": "6285707439238",
+      "otp_code": "-",
+      "country_name": "Indonesia",
+      "original_price": 118,
+      "selling_price": 1118,
       "profit": 1000,
       "provider": "smscode"
     }
