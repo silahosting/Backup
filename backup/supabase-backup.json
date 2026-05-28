@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T12:09:44.118Z",
+  "backedUpAt": "2026-05-28T12:11:39.968Z",
   "users": [
     {
       "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
@@ -22971,6 +22971,31 @@
       "provider": null
     },
     {
+      "id": "8f850xsj2mppg1ude",
+      "user_id": "user@email.com",
+      "user_email": "user@email.com",
+      "type": "purchase",
+      "amount": 5000,
+      "fee": 500,
+      "total": 5000,
+      "status": "success",
+      "deposit_id": "smscode_12345",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T12:03:02.786+00:00",
+      "updated_at": "2026-05-28T12:10:18.742+00:00",
+      "order_id": "smscode_12345",
+      "service_name": "WhatsApp",
+      "phone_number": "+628123456789",
+      "otp_code": "123456",
+      "country_name": "Indonesia",
+      "original_price": 4500,
+      "selling_price": 5000,
+      "profit": 500,
+      "provider": "smscode"
+    },
+    {
       "id": "0wmqsld8emppdff0h",
       "user_id": "fahrihosting3@gmail.com",
       "user_email": "fahrihosting3@gmail.com",
@@ -23094,31 +23119,6 @@
       "selling_price": null,
       "profit": null,
       "provider": null
-    },
-    {
-      "id": "8f850xsj2mppg1ude",
-      "user_id": "user@email.com",
-      "user_email": "user@email.com",
-      "type": "purchase",
-      "amount": 5000,
-      "fee": 500,
-      "total": 5000,
-      "status": "pending",
-      "deposit_id": "smscode_12345",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-28T12:03:02.786+00:00",
-      "updated_at": "2026-05-28T12:03:02.786+00:00",
-      "order_id": "smscode_12345",
-      "service_name": "WhatsApp",
-      "phone_number": "+628123456789",
-      "otp_code": "-",
-      "country_name": "Indonesia",
-      "original_price": 4500,
-      "selling_price": 5000,
-      "profit": 500,
-      "provider": "smscode"
     },
     {
       "id": "y4l8cewrzmppfnv2e",
