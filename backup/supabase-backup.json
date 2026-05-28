@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T02:39:41.743Z",
+  "backedUpAt": "2026-05-28T02:41:38.283Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -290,15 +290,6 @@
       "created_at": "2026-05-24T19:30:29.531+00:00"
     },
     {
-      "id": "a5b860c2-a97b-455a-884e-641aee7b9817",
-      "username": "MA m Nam",
-      "email": "nam.rey000188@gmail.com",
-      "password": "oauth_1779934843015_mruidvjex0c",
-      "role": "user",
-      "balance": 7400,
-      "created_at": "2026-05-28T02:20:43.541+00:00"
-    },
-    {
       "id": "906b8222-d3bf-47de-8164-ee07f914864c",
       "username": "Asep",
       "email": "nadine.lestari7@gmail.com",
@@ -522,6 +513,15 @@
       "role": "user",
       "balance": 33250,
       "created_at": "2026-05-28T01:02:55.712+00:00"
+    },
+    {
+      "id": "a5b860c2-a97b-455a-884e-641aee7b9817",
+      "username": "MA m Nam",
+      "email": "nam.rey000188@gmail.com",
+      "password": "oauth_1779934843015_mruidvjex0c",
+      "role": "user",
+      "balance": 2850,
+      "created_at": "2026-05-28T02:20:43.541+00:00"
     }
   ],
   "transactions": [
@@ -13596,6 +13596,38 @@
       "expired_at": null,
       "created_at": "2026-05-28T02:09:16.749+00:00",
       "updated_at": "2026-05-28T02:09:31.847+00:00"
+    },
+    {
+      "id": "uv53e57a6mpovy6rf",
+      "user_id": "nam.rey000188@gmail.com",
+      "user_email": "nam.rey000188@gmail.com",
+      "type": "purchase",
+      "amount": 3050,
+      "fee": 1000,
+      "total": 3050,
+      "status": "pending",
+      "deposit_id": "RO0011924806",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T02:40:19.899+00:00",
+      "updated_at": "2026-05-28T02:40:19.899+00:00"
+    },
+    {
+      "id": "ga5zxv4yampovzkju",
+      "user_id": "nam.rey000188@gmail.com",
+      "user_email": "nam.rey000188@gmail.com",
+      "type": "purchase",
+      "amount": 1500,
+      "fee": 1000,
+      "total": 1500,
+      "status": "pending",
+      "deposit_id": "RO0011924989",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T02:41:24.426+00:00",
+      "updated_at": "2026-05-28T02:41:24.426+00:00"
     },
     {
       "id": "dyi7iepnlmpou86dq",
