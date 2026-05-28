@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T01:01:37.830Z",
+  "backedUpAt": "2026-05-28T01:03:54.871Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -90,6 +90,15 @@
       "role": "user",
       "balance": 26,
       "created_at": "2026-05-20T05:33:53.922+00:00"
+    },
+    {
+      "id": "d941513e-59e5-458b-b7b4-397b3465b02a",
+      "username": "Bayu Prayogi",
+      "email": "bayuprygii11@gmail.com",
+      "password": "Brayan01@",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-28T01:02:55.712+00:00"
     },
     {
       "id": "1ddb61f1-fc16-453c-94f6-fa2c4b50d742",
