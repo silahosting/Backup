@@ -1,6 +1,15 @@
 {
-  "backedUpAt": "2026-05-28T12:06:39.789Z",
+  "backedUpAt": "2026-05-28T12:08:56.543Z",
   "users": [
+    {
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
+      "role": "user",
+      "balance": 3880,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
+    },
     {
       "id": "cea9a512-9af6-463c-b4a6-b87604096ba5",
       "username": "Kira Ken",
@@ -558,15 +567,6 @@
       "role": "user",
       "balance": 2300,
       "created_at": "2026-05-28T09:39:27.806+00:00"
-    },
-    {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
-      "role": "user",
-      "balance": 1130,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
     }
   ],
   "transactions": [
