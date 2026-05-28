@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T01:16:37.972Z",
+  "backedUpAt": "2026-05-28T01:18:54.881Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -90,15 +90,6 @@
       "role": "user",
       "balance": 26,
       "created_at": "2026-05-20T05:33:53.922+00:00"
-    },
-    {
-      "id": "d941513e-59e5-458b-b7b4-397b3465b02a",
-      "username": "Bayu Prayogi",
-      "email": "bayuprygii11@gmail.com",
-      "password": "Brayan01@",
-      "role": "user",
-      "balance": 0,
-      "created_at": "2026-05-28T01:02:55.712+00:00"
     },
     {
       "id": "1ddb61f1-fc16-453c-94f6-fa2c4b50d742",
@@ -513,6 +504,15 @@
       "role": "user",
       "balance": 1428,
       "created_at": "2026-05-26T22:10:38.749+00:00"
+    },
+    {
+      "id": "d941513e-59e5-458b-b7b4-397b3465b02a",
+      "username": "Bayu Prayogi",
+      "email": "bayuprygii11@gmail.com",
+      "password": "Brayan01@",
+      "role": "user",
+      "balance": 20000,
+      "created_at": "2026-05-28T01:02:55.712+00:00"
     }
   ],
   "transactions": [
@@ -13411,6 +13411,22 @@
       "expired_at": null,
       "created_at": "2026-05-28T01:06:59.714+00:00",
       "updated_at": "2026-05-28T01:15:42.854+00:00"
+    },
+    {
+      "id": "fbus74r95mposzpoh",
+      "user_id": "d941513e-59e5-458b-b7b4-397b3465b02a",
+      "user_email": "bayuprygii11@gmail.com",
+      "type": "deposit",
+      "amount": 20000,
+      "fee": 559,
+      "total": 20559,
+      "status": "success",
+      "deposit_id": "TRX-1779931050157-IZ4DG",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405205595802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A016304B637&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405205595802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A016304B637",
+      "expired_at": "2026-05-28T01:32:30.157+00:00",
+      "created_at": "2026-05-28T01:17:32.225+00:00",
+      "updated_at": "2026-05-28T01:18:04.392+00:00"
     }
   ],
   "notifications": [],
