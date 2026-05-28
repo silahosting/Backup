@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T03:59:41.760Z",
+  "backedUpAt": "2026-05-28T04:01:38.617Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -335,6 +335,15 @@
       "created_at": "2026-05-25T00:14:42.465+00:00"
     },
     {
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
+      "role": "user",
+      "balance": 9487,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
+    },
+    {
       "id": "694700f1-d85d-44c8-81a2-43d06d2d23e8",
       "username": "MEMBER AIRASIA",
       "email": "airasia.member1@gmail.com",
@@ -504,15 +513,6 @@
       "role": "user",
       "balance": 33250,
       "created_at": "2026-05-28T01:02:55.712+00:00"
-    },
-    {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
-      "role": "user",
-      "balance": 5486,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
       "id": "346ba991-afb5-40db-9eac-1bab79f0b79c",
@@ -13774,22 +13774,6 @@
       "updated_at": "2026-05-28T03:52:22.862+00:00"
     },
     {
-      "id": "il4q7t6qimpoyos0c",
-      "user_id": "testmazon3@gmail.com",
-      "user_email": "testmazon3@gmail.com",
-      "type": "purchase",
-      "amount": 2047,
-      "fee": 1000,
-      "total": 2047,
-      "status": "pending",
-      "deposit_id": "smscode_1573026",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-28T03:56:59.724+00:00",
-      "updated_at": "2026-05-28T03:56:59.724+00:00"
-    },
-    {
       "id": "flyd0lb6zmpoyn5q8",
       "user_id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
       "user_email": "testmazon3@gmail.com",
@@ -13822,20 +13806,20 @@
       "updated_at": "2026-05-28T03:56:21.512+00:00"
     },
     {
-      "id": "itej5373wmpoyppih",
+      "id": "il4q7t6qimpoyos0c",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
       "type": "purchase",
       "amount": 2047,
       "fee": 1000,
       "total": 2047,
-      "status": "pending",
-      "deposit_id": "smscode_1573084",
+      "status": "cancel",
+      "deposit_id": "smscode_1573026",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
-      "created_at": "2026-05-28T03:57:43.145+00:00",
-      "updated_at": "2026-05-28T03:57:43.145+00:00"
+      "created_at": "2026-05-28T03:56:59.724+00:00",
+      "updated_at": "2026-05-28T04:01:24.04+00:00"
     },
     {
       "id": "mr4ob3q4impoyqi84",
@@ -13845,13 +13829,29 @@
       "amount": 1954,
       "fee": 1000,
       "total": 1954,
-      "status": "pending",
+      "status": "cancel",
       "deposit_id": "smscode_1573115",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-28T03:58:20.356+00:00",
-      "updated_at": "2026-05-28T03:58:20.356+00:00"
+      "updated_at": "2026-05-28T04:01:30.963+00:00"
+    },
+    {
+      "id": "itej5373wmpoyppih",
+      "user_id": "testmazon3@gmail.com",
+      "user_email": "testmazon3@gmail.com",
+      "type": "purchase",
+      "amount": 2047,
+      "fee": 1000,
+      "total": 2047,
+      "status": "cancel",
+      "deposit_id": "smscode_1573084",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T03:57:43.145+00:00",
+      "updated_at": "2026-05-28T04:01:37.388+00:00"
     }
   ],
   "notifications": [],
