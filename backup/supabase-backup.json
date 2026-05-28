@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T14:09:44.513Z",
+  "backedUpAt": "2026-05-28T14:11:40.123Z",
   "users": [
     {
       "id": "8670822d-fb77-4b0f-825e-0869a0d076ae",
@@ -317,6 +317,15 @@
       "created_at": "2026-05-21T02:48:34.884+00:00"
     },
     {
+      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
+      "username": "Alien",
+      "email": "sgvxuffg@gmail.com",
+      "password": "fahrihosting3",
+      "role": "user",
+      "balance": 9403,
+      "created_at": "2026-05-26T20:37:37.803+00:00"
+    },
+    {
       "id": "31ba1643-163c-47ea-a6d8-3ea3d659623f",
       "username": "Rahmad Hidayat",
       "email": "rahmathidayat00292@gmail.com",
@@ -360,15 +369,6 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-27T00:41:07.8+00:00"
-    },
-    {
-      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
-      "username": "Alien",
-      "email": "sgvxuffg@gmail.com",
-      "password": "fahrihosting3",
-      "role": "user",
-      "balance": 10521,
-      "created_at": "2026-05-26T20:37:37.803+00:00"
     },
     {
       "id": "caed60b8-46eb-4c07-805d-acd91848714b",
@@ -21696,31 +21696,6 @@
       "provider": null
     },
     {
-      "id": "m916a5skjmppjt33m",
-      "user_id": "fahrihosting3@gmail.com",
-      "user_email": "fahrihosting3@gmail.com",
-      "type": "purchase",
-      "amount": 1079,
-      "fee": 1000,
-      "total": 1079,
-      "status": "success",
-      "deposit_id": "smscode_1598423",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-28T13:48:12.658+00:00",
-      "updated_at": "2026-05-28T14:09:13.496+00:00",
-      "order_id": "smscode_1598423",
-      "service_name": "Vercel",
-      "phone_number": "62083878415401",
-      "otp_code": "5559",
-      "country_name": "Indonesia",
-      "original_price": 79,
-      "selling_price": 1079,
-      "profit": 1000,
-      "provider": "smscode"
-    },
-    {
       "id": "ho40qhwwumpp3erfg",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -22621,6 +22596,31 @@
       "provider": null
     },
     {
+      "id": "m916a5skjmppjt33m",
+      "user_id": "fahrihosting3@gmail.com",
+      "user_email": "fahrihosting3@gmail.com",
+      "type": "purchase",
+      "amount": 1079,
+      "fee": 1000,
+      "total": 1079,
+      "status": "success",
+      "deposit_id": "smscode_1598423",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T13:48:12.658+00:00",
+      "updated_at": "2026-05-28T14:10:24.361+00:00",
+      "order_id": "smscode_1598423",
+      "service_name": "Vercel",
+      "phone_number": "62083878415401",
+      "otp_code": "5559",
+      "country_name": "Indonesia",
+      "original_price": 79,
+      "selling_price": 1079,
+      "profit": 1000,
+      "provider": "smscode"
+    },
+    {
       "id": "ojj9mtkdfmpp7bcuv",
       "user_id": "ASRGroup17@admin.com",
       "user_email": "ASRGroup17@admin.com",
@@ -23269,6 +23269,31 @@
       "selling_price": 2700,
       "profit": 1000,
       "provider": "rumahotp"
+    },
+    {
+      "id": "vtm08xd05mppkl69q",
+      "user_id": "sgvxuffg@gmail.com",
+      "user_email": "sgvxuffg@gmail.com",
+      "type": "purchase",
+      "amount": 1118,
+      "fee": 1000,
+      "total": 1118,
+      "status": "pending",
+      "deposit_id": "smscode_1599686",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T14:10:03.134+00:00",
+      "updated_at": "2026-05-28T14:10:03.134+00:00",
+      "order_id": "smscode_1599686",
+      "service_name": "TikTok / Douyin",
+      "phone_number": "6285745857560",
+      "otp_code": "-",
+      "country_name": "Indonesia",
+      "original_price": 118,
+      "selling_price": 1118,
+      "profit": 1000,
+      "provider": "smscode"
     },
     {
       "id": "ymmun1onnmppd6zqz",
