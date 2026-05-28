@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T21:51:40.969Z",
+  "backedUpAt": "2026-05-28T21:53:57.897Z",
   "users": [
     {
       "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
@@ -371,6 +371,15 @@
       "created_at": "2026-05-27T00:41:07.8+00:00"
     },
     {
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
+      "role": "user",
+      "balance": 11180,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
+    },
+    {
       "id": "caed60b8-46eb-4c07-805d-acd91848714b",
       "username": "Salsa dila juwita",
       "email": "salsanovember11@gmail.com",
@@ -549,15 +558,6 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-28T17:47:26.445+00:00"
-    },
-    {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
-      "role": "user",
-      "balance": 1180,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
       "id": "ec3b0e5a-db85-4676-85f4-a25e15bac55a",
@@ -24410,6 +24410,32 @@
       "expired_at": "2026-05-28T14:39:09.985+00:00",
       "created_at": "2026-05-28T14:24:12.079+00:00",
       "updated_at": "2026-05-28T14:24:29.227+00:00",
+      "order_id": null,
+      "service_name": null,
+      "phone_number": null,
+      "otp_code": null,
+      "country_name": null,
+      "original_price": null,
+      "selling_price": null,
+      "profit": null,
+      "provider": null,
+      "sms_msg": null
+    },
+    {
+      "id": "7rv0puisbmpq136d4",
+      "user_id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "user_email": "testmazon3@gmail.com",
+      "type": "deposit",
+      "amount": 10000,
+      "fee": 525,
+      "total": 10525,
+      "status": "success",
+      "deposit_id": "TRX-1780005115019-4PXT2",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105255802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A016304D2CB&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105255802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A016304D2CB",
+      "expired_at": "2026-05-28T22:06:55.02+00:00",
+      "created_at": "2026-05-28T21:51:56.919+00:00",
+      "updated_at": "2026-05-28T21:52:34.396+00:00",
       "order_id": null,
       "service_name": null,
       "phone_number": null,
