@@ -1,6 +1,15 @@
 {
-  "backedUpAt": "2026-05-28T12:24:44.180Z",
+  "backedUpAt": "2026-05-28T12:26:44.592Z",
   "users": [
+    {
+      "id": "8670822d-fb77-4b0f-825e-0869a0d076ae",
+      "username": "Del piero",
+      "email": "iky26928@gmail.com",
+      "password": "09maret2008",
+      "role": "user",
+      "balance": 13500,
+      "created_at": "2026-05-27T16:39:35.834+00:00"
+    },
     {
       "id": "cea9a512-9af6-463c-b4a6-b87604096ba5",
       "username": "Kira Ken",
@@ -405,15 +414,6 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-23T11:39:46.779+00:00"
-    },
-    {
-      "id": "8670822d-fb77-4b0f-825e-0869a0d076ae",
-      "username": "Del piero",
-      "email": "iky26928@gmail.com",
-      "password": "09maret2008",
-      "role": "user",
-      "balance": 0,
-      "created_at": "2026-05-27T16:39:35.834+00:00"
     },
     {
       "id": "fdc2b3b4-7efd-40c8-a274-2a9aa0893a51",
