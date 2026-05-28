@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T01:21:37.935Z",
+  "backedUpAt": "2026-05-28T01:23:55.202Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -299,6 +299,15 @@
       "created_at": "2026-05-24T19:30:29.531+00:00"
     },
     {
+      "id": "d941513e-59e5-458b-b7b4-397b3465b02a",
+      "username": "Bayu Prayogi",
+      "email": "bayuprygii11@gmail.com",
+      "password": "Brayan01@",
+      "role": "user",
+      "balance": 20000,
+      "created_at": "2026-05-28T01:02:55.712+00:00"
+    },
+    {
       "id": "906b8222-d3bf-47de-8164-ee07f914864c",
       "username": "Asep",
       "email": "nadine.lestari7@gmail.com",
@@ -504,15 +513,6 @@
       "role": "user",
       "balance": 1428,
       "created_at": "2026-05-26T22:10:38.749+00:00"
-    },
-    {
-      "id": "d941513e-59e5-458b-b7b4-397b3465b02a",
-      "username": "Bayu Prayogi",
-      "email": "bayuprygii11@gmail.com",
-      "password": "Brayan01@",
-      "role": "user",
-      "balance": 13750,
-      "created_at": "2026-05-28T01:02:55.712+00:00"
     }
   ],
   "transactions": [
