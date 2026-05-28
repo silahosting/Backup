@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T00:58:54.829Z",
+  "backedUpAt": "2026-05-28T00:59:41.667Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -502,7 +502,7 @@
       "email": "dengabos99@gmail.com",
       "password": "oauth_1779521328057_cafcncku2nf",
       "role": "user",
-      "balance": 3503,
+      "balance": 5453,
       "created_at": "2026-05-23T07:28:48.524+00:00"
     }
   ],
