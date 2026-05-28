@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T03:51:38.573Z",
+  "backedUpAt": "2026-05-28T03:53:55.178Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -200,15 +200,6 @@
       "created_at": "2026-05-21T23:35:00.396+00:00"
     },
     {
-      "id": "346ba991-afb5-40db-9eac-1bab79f0b79c",
-      "username": "Alviona Elga",
-      "email": "alvionaelga94@gmail.com",
-      "password": "oauth_1779427837265_anvebqbmw4",
-      "role": "user",
-      "balance": 0,
-      "created_at": "2026-05-22T05:30:38.414+00:00"
-    },
-    {
       "id": "db2545ff-a920-4a6b-af22-3c604b60f7f4",
       "username": "SITI NURMALA SARI",
       "email": "nurmalasari0400@gmail.com",
@@ -342,6 +333,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-25T00:14:42.465+00:00"
+    },
+    {
+      "id": "346ba991-afb5-40db-9eac-1bab79f0b79c",
+      "username": "Alviona Elga",
+      "email": "alvionaelga94@gmail.com",
+      "password": "oauth_1779427837265_anvebqbmw4",
+      "role": "user",
+      "balance": 4000,
+      "created_at": "2026-05-22T05:30:38.414+00:00"
     },
     {
       "id": "694700f1-d85d-44c8-81a2-43d06d2d23e8",
@@ -13765,13 +13765,13 @@
       "amount": 2000,
       "fee": 504,
       "total": 2504,
-      "status": "pending",
+      "status": "success",
       "deposit_id": "TRX-1779940288129-ICY7E",
       "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540425045802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A016304062D&ecc=M",
       "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540425045802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A016304062D",
       "expired_at": "2026-05-28T04:06:28.129+00:00",
       "created_at": "2026-05-28T03:51:30.556+00:00",
-      "updated_at": "2026-05-28T03:51:30.556+00:00"
+      "updated_at": "2026-05-28T03:52:22.862+00:00"
     }
   ],
   "notifications": [],
