@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T07:09:42.800Z",
+  "backedUpAt": "2026-05-28T07:11:39.349Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -14247,22 +14247,6 @@
       "updated_at": "2026-05-28T04:36:55.072+00:00"
     },
     {
-      "id": "lz71t1ei6mpp590ks",
-      "user_id": "andhimazahran@gmail.com",
-      "user_email": "andhimazahran@gmail.com",
-      "type": "purchase",
-      "amount": 2836,
-      "fee": 1000,
-      "total": 2836,
-      "status": "cancel",
-      "deposit_id": "smscode_1580495",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-28T07:00:41.644+00:00",
-      "updated_at": "2026-05-28T07:05:26.072+00:00"
-    },
-    {
       "id": "fwrmks3j6mpozt4s9",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -14517,6 +14501,22 @@
       "expired_at": null,
       "created_at": "2026-05-28T06:01:25.063+00:00",
       "updated_at": "2026-05-28T06:11:20.304+00:00"
+    },
+    {
+      "id": "lz71t1ei6mpp590ks",
+      "user_id": "andhimazahran@gmail.com",
+      "user_email": "andhimazahran@gmail.com",
+      "type": "purchase",
+      "amount": 2836,
+      "fee": 1000,
+      "total": 2836,
+      "status": "cancel",
+      "deposit_id": "smscode_1580495",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T07:00:41.644+00:00",
+      "updated_at": "2026-05-28T07:10:33.054+00:00"
     },
     {
       "id": "iqaaz27jkmpp37qk5",
