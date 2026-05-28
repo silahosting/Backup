@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T10:33:56.106Z",
+  "backedUpAt": "2026-05-28T10:34:43.729Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -14082,22 +14082,6 @@
       "updated_at": "2026-05-28T06:18:09.29+00:00"
     },
     {
-      "id": "bfx2i0s6rmpp3fyv1",
-      "user_id": "testmazon3@gmail.com",
-      "user_email": "testmazon3@gmail.com",
-      "type": "purchase",
-      "amount": 1954,
-      "fee": 1000,
-      "total": 1954,
-      "status": "success",
-      "deposit_id": "smscode_1578237",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-28T06:10:06.781+00:00",
-      "updated_at": "2026-05-28T06:11:31.961+00:00"
-    },
-    {
       "id": "ho40qhwwumpp3erfg",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -14432,6 +14416,22 @@
       "expired_at": null,
       "created_at": "2026-05-28T05:34:19.087+00:00",
       "updated_at": "2026-05-28T05:46:24.644+00:00"
+    },
+    {
+      "id": "bfx2i0s6rmpp3fyv1",
+      "user_id": "testmazon3@gmail.com",
+      "user_email": "testmazon3@gmail.com",
+      "type": "purchase",
+      "amount": 1954,
+      "fee": 1000,
+      "total": 1954,
+      "status": "success",
+      "deposit_id": "smscode_1578237",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T06:10:06.781+00:00",
+      "updated_at": "2026-05-28T10:34:14.897+00:00"
     },
     {
       "id": "70ftxkrc5mpp2n58m",
@@ -14816,6 +14816,22 @@
       "expired_at": null,
       "created_at": "2026-05-28T10:17:43.129+00:00",
       "updated_at": "2026-05-28T10:21:35.441+00:00"
+    },
+    {
+      "id": "f0xnk8ulgmppcvcqo",
+      "user_id": "d6394111-2a3e-4707-8139-06bd41fb25e3",
+      "user_email": "fastf0206@gmail.com",
+      "type": "deposit",
+      "amount": 3000,
+      "fee": 563,
+      "total": 3563,
+      "status": "pending",
+      "deposit_id": "TRX-1779964439142-D4I9I",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540435635802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A0163043936&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540435635802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163043936",
+      "expired_at": "2026-05-28T10:48:59.143+00:00",
+      "created_at": "2026-05-28T10:34:01.152+00:00",
+      "updated_at": "2026-05-28T10:34:01.152+00:00"
     }
   ],
   "notifications": [],
