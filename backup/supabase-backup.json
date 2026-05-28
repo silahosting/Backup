@@ -1,6 +1,15 @@
 {
-  "backedUpAt": "2026-05-28T11:56:39.959Z",
+  "backedUpAt": "2026-05-28T11:58:56.485Z",
   "users": [
+    {
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
+      "role": "user",
+      "balance": 3880,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
+    },
     {
       "id": "cea9a512-9af6-463c-b4a6-b87604096ba5",
       "username": "Kira Ken",
@@ -558,15 +567,6 @@
       "role": "user",
       "balance": 2300,
       "created_at": "2026-05-28T09:39:27.806+00:00"
-    },
-    {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
-      "role": "user",
-      "balance": 1130,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
     }
   ],
   "transactions": [
@@ -23071,6 +23071,56 @@
       "provider": null
     },
     {
+      "id": "y4l8cewrzmppfnv2e",
+      "user_id": "fahrihosting3@gmail.com",
+      "user_email": "fahrihosting3@gmail.com",
+      "type": "purchase",
+      "amount": 1079,
+      "fee": 1000,
+      "total": 1079,
+      "status": "cancel",
+      "deposit_id": "smscode_1593278",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T11:52:10.502+00:00",
+      "updated_at": "2026-05-28T11:58:12.957+00:00",
+      "order_id": "smscode_1593278",
+      "service_name": "Vercel",
+      "phone_number": "6283840160259",
+      "otp_code": "-",
+      "country_name": "Indonesia",
+      "original_price": 79,
+      "selling_price": 1079,
+      "profit": 1000,
+      "provider": "smscode"
+    },
+    {
+      "id": "8jxrns3m4mppfu59j",
+      "user_id": "fahrihosting3@gmail.com",
+      "user_email": "fahrihosting3@gmail.com",
+      "type": "purchase",
+      "amount": 1079,
+      "fee": 1000,
+      "total": 1079,
+      "status": "success",
+      "deposit_id": "smscode_1593450",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T11:57:03.655+00:00",
+      "updated_at": "2026-05-28T11:58:15.551+00:00",
+      "order_id": "smscode_1593450",
+      "service_name": "Vercel",
+      "phone_number": "6283133639379",
+      "otp_code": "4461",
+      "country_name": "Indonesia",
+      "original_price": 79,
+      "selling_price": 1079,
+      "profit": 1000,
+      "provider": "smscode"
+    },
+    {
       "id": "u8yzdmrjlmppdx3d2",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -23144,31 +23194,6 @@
       "selling_price": null,
       "profit": null,
       "provider": null
-    },
-    {
-      "id": "y4l8cewrzmppfnv2e",
-      "user_id": "fahrihosting3@gmail.com",
-      "user_email": "fahrihosting3@gmail.com",
-      "type": "purchase",
-      "amount": 1079,
-      "fee": 1000,
-      "total": 1079,
-      "status": "pending",
-      "deposit_id": "smscode_1593278",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-28T11:52:10.502+00:00",
-      "updated_at": "2026-05-28T11:52:10.502+00:00",
-      "order_id": "smscode_1593278",
-      "service_name": "Vercel",
-      "phone_number": "6283840160259",
-      "otp_code": "-",
-      "country_name": "Indonesia",
-      "original_price": 79,
-      "selling_price": 1079,
-      "profit": 1000,
-      "provider": "smscode"
     }
   ],
   "notifications": [],
