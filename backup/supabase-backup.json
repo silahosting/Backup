@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T08:09:43.127Z",
+  "backedUpAt": "2026-05-28T08:11:39.497Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -504,6 +504,15 @@
       "role": "user",
       "balance": 18714,
       "created_at": "2026-05-24T02:54:44.687+00:00"
+    },
+    {
+      "id": "d99d75bb-361c-4568-a3cb-81006c065df2",
+      "username": "Naufal",
+      "email": "stok60881@gmail.com",
+      "password": "Naufal123",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-28T08:11:21.003+00:00"
     },
     {
       "id": "d941513e-59e5-458b-b7b4-397b3465b02a",
