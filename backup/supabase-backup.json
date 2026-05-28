@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T02:06:38.150Z",
+  "backedUpAt": "2026-05-28T02:08:55.135Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -290,6 +290,15 @@
       "created_at": "2026-05-24T19:30:29.531+00:00"
     },
     {
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
+      "role": "user",
+      "balance": 1534,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
+    },
+    {
       "id": "906b8222-d3bf-47de-8164-ee07f914864c",
       "username": "Asep",
       "email": "nadine.lestari7@gmail.com",
@@ -504,15 +513,6 @@
       "role": "user",
       "balance": 29750,
       "created_at": "2026-05-28T01:02:55.712+00:00"
-    },
-    {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
-      "role": "user",
-      "balance": 1534,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
     }
   ],
   "transactions": [
@@ -13509,7 +13509,7 @@
       "updated_at": "2026-05-28T01:52:06.734+00:00"
     },
     {
-      "id": "b73anmk2rmpouqexb",
+      "id": "0arsa6xc4mpour9hu",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
       "type": "purchase",
@@ -13517,12 +13517,28 @@
       "fee": 1000,
       "total": 1473,
       "status": "pending",
+      "deposit_id": "smscode_1567397",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T02:06:57.234+00:00",
+      "updated_at": "2026-05-28T02:06:57.234+00:00"
+    },
+    {
+      "id": "b73anmk2rmpouqexb",
+      "user_id": "testmazon3@gmail.com",
+      "user_email": "testmazon3@gmail.com",
+      "type": "purchase",
+      "amount": 1473,
+      "fee": 1000,
+      "total": 1473,
+      "status": "cancel",
       "deposit_id": "smscode_1567379",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-28T02:06:17.615+00:00",
-      "updated_at": "2026-05-28T02:06:17.615+00:00"
+      "updated_at": "2026-05-28T02:08:54.042+00:00"
     }
   ],
   "notifications": [],
