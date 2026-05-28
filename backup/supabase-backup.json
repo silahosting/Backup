@@ -1,15 +1,6 @@
 {
-  "backedUpAt": "2026-05-28T14:33:57.199Z",
+  "backedUpAt": "2026-05-28T14:34:44.631Z",
   "users": [
-    {
-      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
-      "username": "Alien",
-      "email": "sgvxuffg@gmail.com",
-      "password": "fahrihosting3",
-      "role": "user",
-      "balance": 8285,
-      "created_at": "2026-05-26T20:37:37.803+00:00"
-    },
     {
       "id": "cea9a512-9af6-463c-b4a6-b87604096ba5",
       "username": "Kira Ken",
@@ -315,6 +306,15 @@
       "role": "user",
       "balance": 333,
       "created_at": "2026-05-21T02:48:34.884+00:00"
+    },
+    {
+      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
+      "username": "Alien",
+      "email": "sgvxuffg@gmail.com",
+      "password": "fahrihosting3",
+      "role": "user",
+      "balance": 7167,
+      "created_at": "2026-05-26T20:37:37.803+00:00"
     },
     {
       "id": "31ba1643-163c-47ea-a6d8-3ea3d659623f",
