@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T21:58:57.671Z",
+  "backedUpAt": "2026-05-28T21:59:44.869Z",
   "users": [
     {
       "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
@@ -556,7 +556,7 @@
       "email": "testmazon3@gmail.com",
       "password": "oauth_1779848693503_keqpnoxddf",
       "role": "user",
-      "balance": 5039,
+      "balance": 945,
       "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
@@ -24517,6 +24517,32 @@
       "order_id": "smscode_1614676",
       "service_name": "Any Other",
       "phone_number": "66829304802",
+      "otp_code": "-",
+      "country_name": "Thailand",
+      "original_price": 1047,
+      "selling_price": 2047,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": null
+    },
+    {
+      "id": "iq17ux0pnmpq1ccug",
+      "user_id": "testmazon3@gmail.com",
+      "user_email": "testmazon3@gmail.com",
+      "type": "purchase",
+      "amount": 2047,
+      "fee": 1000,
+      "total": 2047,
+      "status": "pending",
+      "deposit_id": "smscode_1614693",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T21:59:05.224+00:00",
+      "updated_at": "2026-05-28T21:59:05.224+00:00",
+      "order_id": "smscode_1614693",
+      "service_name": "Any Other",
+      "phone_number": "66855050080",
       "otp_code": "-",
       "country_name": "Thailand",
       "original_price": 1047,
