@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T03:26:38.510Z",
+  "backedUpAt": "2026-05-28T03:28:55.121Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -344,15 +344,6 @@
       "created_at": "2026-05-25T00:14:42.465+00:00"
     },
     {
-      "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
-      "username": "Andhima Abdul Ghaaniy",
-      "email": "andhimazahran@gmail.com",
-      "password": "oauth_1779591284162_lzkgqn4rtve",
-      "role": "user",
-      "balance": 4227,
-      "created_at": "2026-05-24T02:54:44.687+00:00"
-    },
-    {
       "id": "694700f1-d85d-44c8-81a2-43d06d2d23e8",
       "username": "MEMBER AIRASIA",
       "email": "airasia.member1@gmail.com",
@@ -513,6 +504,15 @@
       "role": "user",
       "balance": 1534,
       "created_at": "2026-05-27T02:24:54.057+00:00"
+    },
+    {
+      "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
+      "username": "Andhima Abdul Ghaaniy",
+      "email": "andhimazahran@gmail.com",
+      "password": "oauth_1779591284162_lzkgqn4rtve",
+      "role": "user",
+      "balance": 32,
+      "created_at": "2026-05-24T02:54:44.687+00:00"
     },
     {
       "id": "d941513e-59e5-458b-b7b4-397b3465b02a",
@@ -13676,6 +13676,22 @@
       "expired_at": null,
       "created_at": "2026-05-28T02:48:09.047+00:00",
       "updated_at": "2026-05-28T03:08:25.393+00:00"
+    },
+    {
+      "id": "x7ozlq2slmpoxmxis",
+      "user_id": "andhimazahran@gmail.com",
+      "user_email": "andhimazahran@gmail.com",
+      "type": "purchase",
+      "amount": 4195,
+      "fee": 1000,
+      "total": 4195,
+      "status": "pending",
+      "deposit_id": "smscode_1571757",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T03:27:33.94+00:00",
+      "updated_at": "2026-05-28T03:27:33.94+00:00"
     },
     {
       "id": "b73anmk2rmpouqexb",
