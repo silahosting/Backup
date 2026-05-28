@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-28T08:49:43.271Z",
+  "backedUpAt": "2026-05-28T08:51:39.570Z",
   "users": [
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
@@ -533,6 +533,15 @@
       "created_at": "2026-05-28T05:34:46.244+00:00"
     },
     {
+      "id": "346ba991-afb5-40db-9eac-1bab79f0b79c",
+      "username": "Alviona Elga",
+      "email": "alvionaelga94@gmail.com",
+      "password": "oauth_1779427837265_anvebqbmw4",
+      "role": "user",
+      "balance": 2500,
+      "created_at": "2026-05-22T05:30:38.414+00:00"
+    },
+    {
       "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
       "username": "test mazon3",
       "email": "testmazon3@gmail.com",
@@ -540,15 +549,6 @@
       "role": "user",
       "balance": 7180,
       "created_at": "2026-05-27T02:24:54.057+00:00"
-    },
-    {
-      "id": "346ba991-afb5-40db-9eac-1bab79f0b79c",
-      "username": "Alviona Elga",
-      "email": "alvionaelga94@gmail.com",
-      "password": "oauth_1779427837265_anvebqbmw4",
-      "role": "user",
-      "balance": 1000,
-      "created_at": "2026-05-22T05:30:38.414+00:00"
     }
   ],
   "transactions": [
