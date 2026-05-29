@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-29T00:43:57.864Z",
+  "backedUpAt": "2026-05-29T00:44:44.959Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -25237,32 +25237,6 @@
       "sms_msg": null
     },
     {
-      "id": "2m7sv6thkmpq78c41",
-      "user_id": "d99d75bb-361c-4568-a3cb-81006c065df2",
-      "user_email": "stok60881@gmail.com",
-      "type": "deposit",
-      "amount": 5000,
-      "fee": 551,
-      "total": 5551,
-      "status": "pending",
-      "deposit_id": "TRX-1780015433309-MYVQO",
-      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540455515802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A016304A8EE&ecc=M",
-      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540455515802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A016304A8EE",
-      "expired_at": "2026-05-29T00:58:53.309+00:00",
-      "created_at": "2026-05-29T00:43:55.345+00:00",
-      "updated_at": "2026-05-29T00:43:55.345+00:00",
-      "order_id": null,
-      "service_name": null,
-      "phone_number": null,
-      "otp_code": null,
-      "country_name": null,
-      "original_price": null,
-      "selling_price": null,
-      "profit": null,
-      "provider": null,
-      "sms_msg": null
-    },
-    {
       "id": "nsei9xbyimpq4h7v7",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -25494,6 +25468,32 @@
       "selling_price": 2047,
       "profit": 1000,
       "provider": "smscode",
+      "sms_msg": null
+    },
+    {
+      "id": "2m7sv6thkmpq78c41",
+      "user_id": "d99d75bb-361c-4568-a3cb-81006c065df2",
+      "user_email": "stok60881@gmail.com",
+      "type": "deposit",
+      "amount": 5000,
+      "fee": 551,
+      "total": 5551,
+      "status": "cancel",
+      "deposit_id": "TRX-1780015433309-MYVQO",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540455515802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A016304A8EE&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540455515802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A016304A8EE",
+      "expired_at": "2026-05-29T00:58:53.309+00:00",
+      "created_at": "2026-05-29T00:43:55.345+00:00",
+      "updated_at": "2026-05-29T00:44:02.394+00:00",
+      "order_id": null,
+      "service_name": null,
+      "phone_number": null,
+      "otp_code": null,
+      "country_name": null,
+      "original_price": null,
+      "selling_price": null,
+      "profit": null,
+      "provider": null,
       "sms_msg": null
     },
     {
