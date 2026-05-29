@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-29T01:36:41.836Z",
+  "backedUpAt": "2026-05-29T01:38:57.908Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -25338,6 +25338,32 @@
       "selling_price": 2047,
       "profit": 1000,
       "provider": "smscode",
+      "sms_msg": null
+    },
+    {
+      "id": "428tk5u4lmpq95nyz",
+      "user_id": "fadlyhermawan011@gmail.com",
+      "user_email": "fadlyhermawan011@gmail.com",
+      "type": "deposit",
+      "amount": 5000,
+      "fee": 574,
+      "total": 5574,
+      "status": "success",
+      "deposit_id": "TRX-1780018667978-YK1O8",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540455745802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A016304B3FE&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540455745802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A016304B3FE",
+      "expired_at": "2026-05-29T01:52:47.978+00:00",
+      "created_at": "2026-05-29T01:37:49.979+00:00",
+      "updated_at": "2026-05-29T01:38:52.271+00:00",
+      "order_id": null,
+      "service_name": null,
+      "phone_number": null,
+      "otp_code": null,
+      "country_name": null,
+      "original_price": null,
+      "selling_price": null,
+      "profit": null,
+      "provider": null,
       "sms_msg": null
     },
     {
