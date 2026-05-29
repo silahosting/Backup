@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-29T09:43:59.702Z",
+  "backedUpAt": "2026-05-29T09:44:47.283Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -592,7 +592,7 @@
       "email": "sgvxuffg@gmail.com",
       "password": "fahrihosting3",
       "role": "user",
-      "balance": 5647,
+      "balance": 4147,
       "created_at": "2026-05-26T20:37:37.803+00:00"
     }
   ],
@@ -25920,6 +25920,32 @@
       "profit": 1000,
       "provider": "smscode",
       "sms_msg": "SHOPEE: Gunakan Kode OTP 372055 UNTUK DAFTAR AKUN SHOPEE. Hanya berlaku 15 menit. JANGAN berikan kode ke siapa pun, termasuk pihak Shopee."
+    },
+    {
+      "id": "lhfkzob8dmpqqj10u",
+      "user_id": "sgvxuffg@gmail.com",
+      "user_email": "sgvxuffg@gmail.com",
+      "type": "purchase",
+      "amount": 1500,
+      "fee": 1000,
+      "total": 1500,
+      "status": "pending",
+      "deposit_id": "RO0012245373",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-29T09:44:06.894+00:00",
+      "updated_at": "2026-05-29T09:44:06.894+00:00",
+      "order_id": "RO0012245373",
+      "service_name": "Vercel",
+      "phone_number": "+62 831 9469 2603",
+      "otp_code": "-",
+      "country_name": "Indonesia",
+      "original_price": 500,
+      "selling_price": 1500,
+      "profit": 1000,
+      "provider": "rumahotp",
+      "sms_msg": null
     },
     {
       "id": "uzqft0tp0mpqdtsml",
