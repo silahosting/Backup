@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-29T09:44:47.283Z",
+  "backedUpAt": "2026-05-29T09:46:42.682Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -592,7 +592,7 @@
       "email": "sgvxuffg@gmail.com",
       "password": "fahrihosting3",
       "role": "user",
-      "balance": 4147,
+      "balance": 5647,
       "created_at": "2026-05-26T20:37:37.803+00:00"
     }
   ],
