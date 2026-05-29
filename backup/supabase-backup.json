@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-29T10:19:47.388Z",
+  "backedUpAt": "2026-05-29T10:21:42.909Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -425,6 +425,15 @@
       "created_at": "2026-05-27T09:24:42.286+00:00"
     },
     {
+      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
+      "username": "Alien",
+      "email": "sgvxuffg@gmail.com",
+      "password": "fahrihosting3",
+      "role": "user",
+      "balance": 4568,
+      "created_at": "2026-05-26T20:37:37.803+00:00"
+    },
+    {
       "id": "306764e6-19ad-4c85-8de5-29a5b1601e3e",
       "username": "abdul aziz",
       "email": "meniahhajani@gmail.com",
@@ -576,15 +585,6 @@
       "role": "user",
       "balance": 24,
       "created_at": "2026-05-28T09:39:27.806+00:00"
-    },
-    {
-      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
-      "username": "Alien",
-      "email": "sgvxuffg@gmail.com",
-      "password": "fahrihosting3",
-      "role": "user",
-      "balance": 5647,
-      "created_at": "2026-05-26T20:37:37.803+00:00"
     },
     {
       "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
@@ -25816,6 +25816,32 @@
       "profit": 1000,
       "provider": "smscode",
       "sms_msg": "Shopee: JANGAN BERIKAN pada siapa pun, TERMASUK SHOPEE. Kode OTP 774045 untuk UPDATE NO. HP."
+    },
+    {
+      "id": "08d17whwcmpqrufgo",
+      "user_id": "sgvxuffg@gmail.com",
+      "user_email": "sgvxuffg@gmail.com",
+      "type": "purchase",
+      "amount": 1079,
+      "fee": 1000,
+      "total": 1079,
+      "status": "pending",
+      "deposit_id": "smscode_1647264",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-29T10:20:58.44+00:00",
+      "updated_at": "2026-05-29T10:20:58.44+00:00",
+      "order_id": "smscode_1647264",
+      "service_name": "Claude",
+      "phone_number": "48727563766",
+      "otp_code": "-",
+      "country_name": "Poland",
+      "original_price": 79,
+      "selling_price": 1079,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": null
     },
     {
       "id": "rk17gixtbmpqnsxze",
