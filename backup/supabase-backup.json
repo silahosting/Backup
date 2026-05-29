@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-29T08:26:42.672Z",
+  "backedUpAt": "2026-05-29T08:28:59.393Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -524,6 +524,15 @@
       "created_at": "2026-05-28T05:34:46.244+00:00"
     },
     {
+      "id": "346ba991-afb5-40db-9eac-1bab79f0b79c",
+      "username": "Alviona Elga",
+      "email": "alvionaelga94@gmail.com",
+      "password": "oauth_1779427837265_anvebqbmw4",
+      "role": "user",
+      "balance": 224,
+      "created_at": "2026-05-22T05:30:38.414+00:00"
+    },
+    {
       "id": "5af0ca86-0c47-43c6-9c2d-3c21188c89ac",
       "username": "Sam lehoy",
       "email": "samlehoy1337z@gmail.com",
@@ -585,15 +594,6 @@
       "role": "user",
       "balance": 5647,
       "created_at": "2026-05-26T20:37:37.803+00:00"
-    },
-    {
-      "id": "346ba991-afb5-40db-9eac-1bab79f0b79c",
-      "username": "Alviona Elga",
-      "email": "alvionaelga94@gmail.com",
-      "password": "oauth_1779427837265_anvebqbmw4",
-      "role": "user",
-      "balance": 1362,
-      "created_at": "2026-05-22T05:30:38.414+00:00"
     }
   ],
   "transactions": [
@@ -25805,7 +25805,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-29T07:32:55.227+00:00",
-      "updated_at": "2026-05-29T08:00:33.079+00:00",
+      "updated_at": "2026-05-29T08:27:29.874+00:00",
       "order_id": "smscode_1638963",
       "service_name": "Shopee",
       "phone_number": "6283854259130",
@@ -25839,6 +25839,32 @@
       "country_name": "Indonesia",
       "original_price": 2155,
       "selling_price": 3155,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": null
+    },
+    {
+      "id": "rk17gixtbmpqnsxze",
+      "user_id": "alvionaelga94@gmail.com",
+      "user_email": "alvionaelga94@gmail.com",
+      "type": "purchase",
+      "amount": 1138,
+      "fee": 1000,
+      "total": 1138,
+      "status": "pending",
+      "deposit_id": "smscode_1641921",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-29T08:27:50.666+00:00",
+      "updated_at": "2026-05-29T08:27:50.666+00:00",
+      "order_id": "smscode_1641921",
+      "service_name": "Shopee",
+      "phone_number": "6285124965728",
+      "otp_code": "-",
+      "country_name": "Indonesia",
+      "original_price": 138,
+      "selling_price": 1138,
       "profit": 1000,
       "provider": "smscode",
       "sms_msg": null
