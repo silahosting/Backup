@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-29T10:56:43.104Z",
+  "backedUpAt": "2026-05-29T10:58:59.952Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -425,15 +425,6 @@
       "created_at": "2026-05-27T09:24:42.286+00:00"
     },
     {
-      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
-      "username": "Alien",
-      "email": "sgvxuffg@gmail.com",
-      "password": "fahrihosting3",
-      "role": "user",
-      "balance": 4509,
-      "created_at": "2026-05-26T20:37:37.803+00:00"
-    },
-    {
       "id": "306764e6-19ad-4c85-8de5-29a5b1601e3e",
       "username": "abdul aziz",
       "email": "meniahhajani@gmail.com",
@@ -585,6 +576,15 @@
       "role": "user",
       "balance": 24,
       "created_at": "2026-05-28T09:39:27.806+00:00"
+    },
+    {
+      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
+      "username": "Alien",
+      "email": "sgvxuffg@gmail.com",
+      "password": "fahrihosting3",
+      "role": "user",
+      "balance": 3430,
+      "created_at": "2026-05-26T20:37:37.803+00:00"
     },
     {
       "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
@@ -25870,32 +25870,6 @@
       "sms_msg": null
     },
     {
-      "id": "na4z2s56ompqsh194",
-      "user_id": "payshope52@gmail.com",
-      "user_email": "payshope52@gmail.com",
-      "type": "purchase",
-      "amount": 1314,
-      "fee": 1000,
-      "total": 1314,
-      "status": "success",
-      "deposit_id": "smscode_1647902",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-29T10:38:33.111+00:00",
-      "updated_at": "2026-05-29T10:46:22.298+00:00",
-      "order_id": "smscode_1647902",
-      "service_name": "Shopee",
-      "phone_number": "6285137595362",
-      "otp_code": "038402",
-      "country_name": "Indonesia",
-      "original_price": 314,
-      "selling_price": 1314,
-      "profit": 1000,
-      "provider": "smscode",
-      "sms_msg": "JANGAN BERIKAN pada siapa pun, TERMASUK SHOPEE. Kode OTP 038402 untuk UPDATE NO. HP.\njKPmMcdNAgI"
-    },
-    {
       "id": "t4lg4wgwrmpqlub7f",
       "user_id": "alvionaelga94@gmail.com",
       "user_email": "alvionaelga94@gmail.com",
@@ -26104,6 +26078,32 @@
       "sms_msg": null
     },
     {
+      "id": "na4z2s56ompqsh194",
+      "user_id": "payshope52@gmail.com",
+      "user_email": "payshope52@gmail.com",
+      "type": "purchase",
+      "amount": 1314,
+      "fee": 1000,
+      "total": 1314,
+      "status": "success",
+      "deposit_id": "smscode_1647902",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-29T10:38:33.111+00:00",
+      "updated_at": "2026-05-29T10:58:52.34+00:00",
+      "order_id": "smscode_1647902",
+      "service_name": "Shopee",
+      "phone_number": "6285137595362",
+      "otp_code": "038402",
+      "country_name": "Indonesia",
+      "original_price": 314,
+      "selling_price": 1314,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": "JANGAN BERIKAN pada siapa pun, TERMASUK SHOPEE. Kode OTP 038402 untuk UPDATE NO. HP.\njKPmMcdNAgI"
+    },
+    {
       "id": "wse3q5uhmmpqqykm6",
       "user_id": "payshope52@gmail.com",
       "user_email": "payshope52@gmail.com",
@@ -26247,7 +26247,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-29T10:34:14.768+00:00",
-      "updated_at": "2026-05-29T10:56:22.902+00:00",
+      "updated_at": "2026-05-29T10:57:17.54+00:00",
       "order_id": "smscode_1647730",
       "service_name": "Vercel",
       "phone_number": "6285797367170",
@@ -26258,6 +26258,32 @@
       "profit": 1000,
       "provider": "smscode",
       "sms_msg": "Kode verifikasi Vercel anda adalah: 0293"
+    },
+    {
+      "id": "9p6mhzk5gmpqt5k82",
+      "user_id": "sgvxuffg@gmail.com",
+      "user_email": "sgvxuffg@gmail.com",
+      "type": "purchase",
+      "amount": 1079,
+      "fee": 1000,
+      "total": 1079,
+      "status": "pending",
+      "deposit_id": "smscode_1648647",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-29T10:57:37.442+00:00",
+      "updated_at": "2026-05-29T10:57:37.442+00:00",
+      "order_id": "smscode_1648647",
+      "service_name": "Vercel",
+      "phone_number": "6283875156629",
+      "otp_code": "-",
+      "country_name": "Indonesia",
+      "original_price": 79,
+      "selling_price": 1079,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": null
     }
   ],
   "notifications": [],
