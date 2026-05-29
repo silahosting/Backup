@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-29T02:39:45.476Z",
+  "backedUpAt": "2026-05-29T02:41:42.025Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -567,6 +567,15 @@
       "role": "user",
       "balance": 10945,
       "created_at": "2026-05-27T02:24:54.057+00:00"
+    },
+    {
+      "id": "55fccf68-3c7b-4487-aeb7-80b8a9aab1c7",
+      "username": "Dreams Jago",
+      "email": "r1velaxnanmso@gmail.com",
+      "password": "Dreams1",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-29T02:41:13.641+00:00"
     },
     {
       "id": "d6394111-2a3e-4707-8139-06bd41fb25e3",
