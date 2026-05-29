@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-29T11:44:47.640Z",
+  "backedUpAt": "2026-05-29T11:46:43.364Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -425,6 +425,15 @@
       "created_at": "2026-05-27T09:24:42.286+00:00"
     },
     {
+      "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
+      "username": "Sandi",
+      "email": "payshope52@gmail.com",
+      "password": "qwe12345",
+      "role": "user",
+      "balance": 1555,
+      "created_at": "2026-05-20T13:41:58.639+00:00"
+    },
+    {
       "id": "306764e6-19ad-4c85-8de5-29a5b1601e3e",
       "username": "abdul aziz",
       "email": "meniahhajani@gmail.com",
@@ -585,15 +594,6 @@
       "role": "user",
       "balance": 3430,
       "created_at": "2026-05-26T20:37:37.803+00:00"
-    },
-    {
-      "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
-      "username": "Sandi",
-      "email": "payshope52@gmail.com",
-      "password": "qwe12345",
-      "role": "user",
-      "balance": 2908,
-      "created_at": "2026-05-20T13:41:58.639+00:00"
     }
   ],
   "transactions": [
@@ -25974,6 +25974,32 @@
       "sms_msg": null
     },
     {
+      "id": "jqzzegecwmpqs42uj",
+      "user_id": "payshope52@gmail.com",
+      "user_email": "payshope52@gmail.com",
+      "type": "purchase",
+      "amount": 1314,
+      "fee": 1000,
+      "total": 1314,
+      "status": "success",
+      "deposit_id": "smscode_1647531",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-29T10:28:28.651+00:00",
+      "updated_at": "2026-05-29T11:45:41.781+00:00",
+      "order_id": "smscode_1647531",
+      "service_name": "Shopee",
+      "phone_number": "6283890464367",
+      "otp_code": "692410",
+      "country_name": "Indonesia",
+      "original_price": 314,
+      "selling_price": 1314,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": "Shopee: JANGAN BERIKAN pada siapa pun, TERMASUK SHOPEE. Kode OTP 692410 untuk UPDATE NO. HP."
+    },
+    {
       "id": "iuvqn63dpmpqdyh7k",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -26130,32 +26156,6 @@
       "sms_msg": null
     },
     {
-      "id": "jqzzegecwmpqs42uj",
-      "user_id": "payshope52@gmail.com",
-      "user_email": "payshope52@gmail.com",
-      "type": "purchase",
-      "amount": 1314,
-      "fee": 1000,
-      "total": 1314,
-      "status": "success",
-      "deposit_id": "smscode_1647531",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-29T10:28:28.651+00:00",
-      "updated_at": "2026-05-29T10:55:32.631+00:00",
-      "order_id": "smscode_1647531",
-      "service_name": "Shopee",
-      "phone_number": "6283890464367",
-      "otp_code": "692410",
-      "country_name": "Indonesia",
-      "original_price": 314,
-      "selling_price": 1314,
-      "profit": 1000,
-      "provider": "smscode",
-      "sms_msg": "Shopee: JANGAN BERIKAN pada siapa pun, TERMASUK SHOPEE. Kode OTP 692410 untuk UPDATE NO. HP."
-    },
-    {
       "id": "08d17whwcmpqrufgo",
       "user_id": "sgvxuffg@gmail.com",
       "user_email": "sgvxuffg@gmail.com",
@@ -26273,7 +26273,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-29T10:38:33.111+00:00",
-      "updated_at": "2026-05-29T11:05:36.641+00:00",
+      "updated_at": "2026-05-29T11:45:49.243+00:00",
       "order_id": "smscode_1647902",
       "service_name": "Shopee",
       "phone_number": "6285137595362",
@@ -26411,6 +26411,32 @@
       "country_name": "Indonesia",
       "original_price": 314,
       "selling_price": 1314,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": null
+    },
+    {
+      "id": "fe5qc6h5pmpquwkyl",
+      "user_id": "payshope52@gmail.com",
+      "user_email": "payshope52@gmail.com",
+      "type": "purchase",
+      "amount": 1353,
+      "fee": 1000,
+      "total": 1353,
+      "status": "pending",
+      "deposit_id": "smscode_1650585",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-29T11:46:37.725+00:00",
+      "updated_at": "2026-05-29T11:46:37.725+00:00",
+      "order_id": "smscode_1650585",
+      "service_name": "Shopee",
+      "phone_number": "6285124974573",
+      "otp_code": "-",
+      "country_name": "Indonesia",
+      "original_price": 353,
+      "selling_price": 1353,
       "profit": 1000,
       "provider": "smscode",
       "sms_msg": null
