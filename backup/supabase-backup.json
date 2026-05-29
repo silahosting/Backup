@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-29T14:51:44.196Z",
+  "backedUpAt": "2026-05-29T14:54:00.626Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -601,7 +601,7 @@
       "email": "nam.rey000188@gmail.com",
       "password": "oauth_1779934843015_mruidvjex0c",
       "role": "user",
-      "balance": 10000,
+      "balance": 6600,
       "created_at": "2026-05-28T02:20:43.541+00:00"
     }
   ],
