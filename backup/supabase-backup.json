@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-29T03:04:45.642Z",
+  "backedUpAt": "2026-05-29T03:06:42.143Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -25643,23 +25643,23 @@
       "amount": 1314,
       "fee": 1000,
       "total": 1314,
-      "status": "pending",
+      "status": "success",
       "deposit_id": "smscode_1624971",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-29T03:02:32.058+00:00",
-      "updated_at": "2026-05-29T03:02:32.058+00:00",
+      "updated_at": "2026-05-29T03:06:24.653+00:00",
       "order_id": "smscode_1624971",
       "service_name": "Shopee",
       "phone_number": "6285143670383",
-      "otp_code": "-",
+      "otp_code": "304276",
       "country_name": "Indonesia",
       "original_price": 314,
       "selling_price": 1314,
       "profit": 1000,
       "provider": "smscode",
-      "sms_msg": null
+      "sms_msg": "SHOPEE: Gunakan Kode OTP 304276 UNTUK DAFTAR AKUN SHOPEE. Hanya berlaku 15 menit. JANGAN berikan kode ke siapa pun, termasuk pihak Shopee."
     },
     {
       "id": "s5ccdduy8mpq429ei",
