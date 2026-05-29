@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-29T11:44:00.084Z",
+  "backedUpAt": "2026-05-29T11:44:47.640Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -371,6 +371,15 @@
       "created_at": "2026-05-27T00:41:07.8+00:00"
     },
     {
+      "id": "ec3b0e5a-db85-4676-85f4-a25e15bac55a",
+      "username": "dewi",
+      "email": "ratu83323@gmail.com",
+      "password": "Doaduludek",
+      "role": "user",
+      "balance": 1407,
+      "created_at": "2026-05-26T16:27:32.771+00:00"
+    },
+    {
       "id": "caed60b8-46eb-4c07-805d-acd91848714b",
       "username": "Salsa dila juwita",
       "email": "salsanovember11@gmail.com",
@@ -414,15 +423,6 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-27T09:24:42.286+00:00"
-    },
-    {
-      "id": "ec3b0e5a-db85-4676-85f4-a25e15bac55a",
-      "username": "dewi",
-      "email": "ratu83323@gmail.com",
-      "password": "Doaduludek",
-      "role": "user",
-      "balance": 2721,
-      "created_at": "2026-05-26T16:27:32.771+00:00"
     },
     {
       "id": "306764e6-19ad-4c85-8de5-29a5b1601e3e",
@@ -26387,6 +26387,32 @@
       "selling_price": null,
       "profit": null,
       "provider": null,
+      "sms_msg": null
+    },
+    {
+      "id": "6ayn46n1impqutjo5",
+      "user_id": "ratu83323@gmail.com",
+      "user_email": "ratu83323@gmail.com",
+      "type": "purchase",
+      "amount": 1314,
+      "fee": 1000,
+      "total": 1314,
+      "status": "pending",
+      "deposit_id": "smscode_1650476",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-29T11:44:16.085+00:00",
+      "updated_at": "2026-05-29T11:44:16.085+00:00",
+      "order_id": "smscode_1650476",
+      "service_name": "Shopee",
+      "phone_number": "6285143669880",
+      "otp_code": "-",
+      "country_name": "Indonesia",
+      "original_price": 314,
+      "selling_price": 1314,
+      "profit": 1000,
+      "provider": "smscode",
       "sms_msg": null
     }
   ],
