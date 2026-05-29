@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-29T08:24:47.083Z",
+  "backedUpAt": "2026-05-29T08:26:42.672Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -23634,32 +23634,6 @@
       "sms_msg": null
     },
     {
-      "id": "5fbjb9i7ompp917p9",
-      "user_id": "alvionaelga94@gmail.com",
-      "user_email": "alvionaelga94@gmail.com",
-      "type": "purchase",
-      "amount": 1500,
-      "fee": 1000,
-      "total": 1500,
-      "status": "pending",
-      "deposit_id": "RO0011995648",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-28T08:46:36.093+00:00",
-      "updated_at": "2026-05-28T08:46:36.093+00:00",
-      "order_id": null,
-      "service_name": null,
-      "phone_number": null,
-      "otp_code": null,
-      "country_name": null,
-      "original_price": null,
-      "selling_price": null,
-      "profit": null,
-      "provider": null,
-      "sms_msg": null
-    },
-    {
       "id": "ezhowxyhomppc0a8j",
       "user_id": "fastf0206@gmail.com",
       "user_email": "fastf0206@gmail.com",
@@ -24437,6 +24411,32 @@
       "selling_price": 1118,
       "profit": 1000,
       "provider": "smscode",
+      "sms_msg": null
+    },
+    {
+      "id": "5fbjb9i7ompp917p9",
+      "user_id": "alvionaelga94@gmail.com",
+      "user_email": "alvionaelga94@gmail.com",
+      "type": "purchase",
+      "amount": 1500,
+      "fee": 1000,
+      "total": 1500,
+      "status": "expired",
+      "deposit_id": "RO0011995648",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T08:46:36.093+00:00",
+      "updated_at": "2026-05-29T08:25:52.53+00:00",
+      "order_id": null,
+      "service_name": null,
+      "phone_number": null,
+      "otp_code": null,
+      "country_name": null,
+      "original_price": null,
+      "selling_price": null,
+      "profit": null,
+      "provider": null,
       "sms_msg": null
     },
     {
