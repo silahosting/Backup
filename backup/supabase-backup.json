@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-29T12:54:00.338Z",
+  "backedUpAt": "2026-05-29T12:54:47.872Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -425,15 +425,6 @@
       "created_at": "2026-05-27T09:24:42.286+00:00"
     },
     {
-      "id": "346ba991-afb5-40db-9eac-1bab79f0b79c",
-      "username": "Alviona Elga",
-      "email": "alvionaelga94@gmail.com",
-      "password": "oauth_1779427837265_anvebqbmw4",
-      "role": "user",
-      "balance": 2224,
-      "created_at": "2026-05-22T05:30:38.414+00:00"
-    },
-    {
       "id": "306764e6-19ad-4c85-8de5-29a5b1601e3e",
       "username": "abdul aziz",
       "email": "meniahhajani@gmail.com",
@@ -522,6 +513,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-28T05:34:46.244+00:00"
+    },
+    {
+      "id": "346ba991-afb5-40db-9eac-1bab79f0b79c",
+      "username": "Alviona Elga",
+      "email": "alvionaelga94@gmail.com",
+      "password": "oauth_1779427837265_anvebqbmw4",
+      "role": "user",
+      "balance": 1086,
+      "created_at": "2026-05-22T05:30:38.414+00:00"
     },
     {
       "id": "5af0ca86-0c47-43c6-9c2d-3c21188c89ac",
