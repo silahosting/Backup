@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-29T10:14:47.402Z",
+  "backedUpAt": "2026-05-29T10:16:42.880Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -425,15 +425,6 @@
       "created_at": "2026-05-27T09:24:42.286+00:00"
     },
     {
-      "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
-      "username": "Sandi",
-      "email": "payshope52@gmail.com",
-      "password": "qwe12345",
-      "role": "user",
-      "balance": 37,
-      "created_at": "2026-05-20T13:41:58.639+00:00"
-    },
-    {
       "id": "306764e6-19ad-4c85-8de5-29a5b1601e3e",
       "username": "abdul aziz",
       "email": "meniahhajani@gmail.com",
@@ -594,6 +585,15 @@
       "role": "user",
       "balance": 5647,
       "created_at": "2026-05-26T20:37:37.803+00:00"
+    },
+    {
+      "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
+      "username": "Sandi",
+      "email": "payshope52@gmail.com",
+      "password": "qwe12345",
+      "role": "user",
+      "balance": 5536,
+      "created_at": "2026-05-20T13:41:58.639+00:00"
     }
   ],
   "transactions": [
@@ -25818,32 +25818,6 @@
       "sms_msg": "SHOPEE: Gunakan Kode OTP 837715 UNTUK DAFTAR AKUN SHOPEE. Hanya berlaku 15 menit. JANGAN berikan kode ke siapa pun, termasuk pihak Shopee."
     },
     {
-      "id": "ycz65hva6mpqrkzc0",
-      "user_id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
-      "user_email": "payshope52@gmail.com",
-      "type": "deposit",
-      "amount": 5499,
-      "fee": 562,
-      "total": 6061,
-      "status": "pending",
-      "deposit_id": "TRX-1780049615479-YNDEU",
-      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540460615802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A016304D93C&ecc=M",
-      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540460615802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A016304D93C",
-      "expired_at": "2026-05-29T10:28:35.479+00:00",
-      "created_at": "2026-05-29T10:13:37.631+00:00",
-      "updated_at": "2026-05-29T10:13:37.631+00:00",
-      "order_id": null,
-      "service_name": null,
-      "phone_number": null,
-      "otp_code": null,
-      "country_name": null,
-      "original_price": null,
-      "selling_price": null,
-      "profit": null,
-      "provider": null,
-      "sms_msg": null
-    },
-    {
       "id": "lsx3679bampqrgls3",
       "user_id": "payshope52@gmail.com",
       "user_email": "payshope52@gmail.com",
@@ -25919,6 +25893,32 @@
       "selling_price": 3155,
       "profit": 1000,
       "provider": "smscode",
+      "sms_msg": null
+    },
+    {
+      "id": "ycz65hva6mpqrkzc0",
+      "user_id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
+      "user_email": "payshope52@gmail.com",
+      "type": "deposit",
+      "amount": 5499,
+      "fee": 562,
+      "total": 6061,
+      "status": "success",
+      "deposit_id": "TRX-1780049615479-YNDEU",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540460615802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A016304D93C&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540460615802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A016304D93C",
+      "expired_at": "2026-05-29T10:28:35.479+00:00",
+      "created_at": "2026-05-29T10:13:37.631+00:00",
+      "updated_at": "2026-05-29T10:15:53.11+00:00",
+      "order_id": null,
+      "service_name": null,
+      "phone_number": null,
+      "otp_code": null,
+      "country_name": null,
+      "original_price": null,
+      "selling_price": null,
+      "profit": null,
+      "provider": null,
       "sms_msg": null
     },
     {
