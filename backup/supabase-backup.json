@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-29T00:06:41.525Z",
+  "backedUpAt": "2026-05-29T00:08:57.844Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -371,15 +371,6 @@
       "created_at": "2026-05-27T00:41:07.8+00:00"
     },
     {
-      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
-      "username": "Alien",
-      "email": "sgvxuffg@gmail.com",
-      "password": "fahrihosting3",
-      "role": "user",
-      "balance": 7147,
-      "created_at": "2026-05-26T20:37:37.803+00:00"
-    },
-    {
       "id": "caed60b8-46eb-4c07-805d-acd91848714b",
       "username": "Salsa dila juwita",
       "email": "salsanovember11@gmail.com",
@@ -585,6 +576,15 @@
       "role": "user",
       "balance": 24,
       "created_at": "2026-05-28T09:39:27.806+00:00"
+    },
+    {
+      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
+      "username": "Alien",
+      "email": "sgvxuffg@gmail.com",
+      "password": "fahrihosting3",
+      "role": "user",
+      "balance": 5647,
+      "created_at": "2026-05-26T20:37:37.803+00:00"
     }
   ],
   "transactions": [
@@ -25183,6 +25183,32 @@
       "profit": 1000,
       "provider": "smscode",
       "sms_msg": "Your OneOne. verification code is : 534191."
+    },
+    {
+      "id": "z13c6mzkmmpq5x9ai",
+      "user_id": "sgvxuffg@gmail.com",
+      "user_email": "sgvxuffg@gmail.com",
+      "type": "purchase",
+      "amount": 1500,
+      "fee": 1000,
+      "total": 1500,
+      "status": "pending",
+      "deposit_id": "RO0012121749",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-29T00:07:18.858+00:00",
+      "updated_at": "2026-05-29T00:07:18.858+00:00",
+      "order_id": "RO0012121749",
+      "service_name": "Claude",
+      "phone_number": "+31 6 16328137",
+      "otp_code": "-",
+      "country_name": "Netherlands",
+      "original_price": 500,
+      "selling_price": 1500,
+      "profit": 1000,
+      "provider": "rumahotp",
+      "sms_msg": null
     },
     {
       "id": "nsei9xbyimpq4h7v7",
