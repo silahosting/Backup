@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-30T04:49:48.791Z",
+  "backedUpAt": "2026-05-30T04:51:44.596Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -371,15 +371,6 @@
       "created_at": "2026-05-27T00:41:07.8+00:00"
     },
     {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
-      "role": "user",
-      "balance": 6196,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
-    },
-    {
       "id": "caed60b8-46eb-4c07-805d-acd91848714b",
       "username": "Salsa dila juwita",
       "email": "salsanovember11@gmail.com",
@@ -558,6 +549,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-28T17:47:26.445+00:00"
+    },
+    {
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
+      "role": "user",
+      "balance": 4545,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
       "id": "55fccf68-3c7b-4487-aeb7-80b8a9aab1c7",
