@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-30T11:14:49.664Z",
+  "backedUpAt": "2026-05-30T11:16:46.021Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -515,15 +515,6 @@
       "created_at": "2026-05-28T05:34:46.244+00:00"
     },
     {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
-      "role": "user",
-      "balance": 201,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
-    },
-    {
       "id": "5af0ca86-0c47-43c6-9c2d-3c21188c89ac",
       "username": "Sam lehoy",
       "email": "samlehoy1337z@gmail.com",
@@ -594,6 +585,15 @@
       "role": "user",
       "balance": 2536,
       "created_at": "2026-05-22T05:30:38.414+00:00"
+    },
+    {
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
+      "role": "user",
+      "balance": 10201,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
       "id": "39c2cdc6-80e4-4e3e-97ef-1265e136fb0a",
