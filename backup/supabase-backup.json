@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-30T11:49:01.706Z",
+  "backedUpAt": "2026-05-30T11:49:49.771Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -551,15 +551,6 @@
       "created_at": "2026-05-28T17:47:26.445+00:00"
     },
     {
-      "id": "d99d75bb-361c-4568-a3cb-81006c065df2",
-      "username": "Naufal",
-      "email": "stok60881@gmail.com",
-      "password": "Naufal123",
-      "role": "user",
-      "balance": 21473,
-      "created_at": "2026-05-28T08:11:21.003+00:00"
-    },
-    {
       "id": "55fccf68-3c7b-4487-aeb7-80b8a9aab1c7",
       "username": "Dreams Jago",
       "email": "r1velaxnanmso@gmail.com",
@@ -594,6 +585,15 @@
       "role": "user",
       "balance": 2536,
       "created_at": "2026-05-22T05:30:38.414+00:00"
+    },
+    {
+      "id": "d99d75bb-361c-4568-a3cb-81006c065df2",
+      "username": "Naufal",
+      "email": "stok60881@gmail.com",
+      "password": "Naufal123",
+      "role": "user",
+      "balance": 17006,
+      "created_at": "2026-05-28T08:11:21.003+00:00"
     },
     {
       "id": "39c2cdc6-80e4-4e3e-97ef-1265e136fb0a",
