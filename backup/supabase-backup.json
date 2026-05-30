@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-30T12:19:49.908Z",
+  "backedUpAt": "2026-05-30T12:21:46.188Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -225,6 +225,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-19T14:04:58.501+00:00"
+    },
+    {
+      "id": "ba473103-7890-4461-be88-8f88f9918f30",
+      "username": "Kucai",
+      "email": "kucai2007@gmail.com",
+      "password": "oauth_1779145270365_f3rix7124td",
+      "role": "user",
+      "balance": 17054,
+      "created_at": "2026-05-18T23:01:11.385+00:00"
     },
     {
       "id": "ed651e7b-e65d-4bed-986b-b822222c1e75",
@@ -585,15 +594,6 @@
       "role": "user",
       "balance": 2536,
       "created_at": "2026-05-22T05:30:38.414+00:00"
-    },
-    {
-      "id": "ba473103-7890-4461-be88-8f88f9918f30",
-      "username": "Kucai",
-      "email": "kucai2007@gmail.com",
-      "password": "oauth_1779145270365_f3rix7124td",
-      "role": "user",
-      "balance": 20604,
-      "created_at": "2026-05-18T23:01:11.385+00:00"
     },
     {
       "id": "39c2cdc6-80e4-4e3e-97ef-1265e136fb0a",
