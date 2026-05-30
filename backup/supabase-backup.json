@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-30T11:19:49.693Z",
+  "backedUpAt": "2026-05-30T11:21:46.049Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -520,7 +520,7 @@
       "email": "testmazon3@gmail.com",
       "password": "oauth_1779848693503_keqpnoxddf",
       "role": "user",
-      "balance": 8151,
+      "balance": 6101,
       "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
@@ -549,6 +549,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-28T17:47:26.445+00:00"
+    },
+    {
+      "id": "d99d75bb-361c-4568-a3cb-81006c065df2",
+      "username": "Naufal",
+      "email": "stok60881@gmail.com",
+      "password": "Naufal123",
+      "role": "user",
+      "balance": 43250,
+      "created_at": "2026-05-28T08:11:21.003+00:00"
     },
     {
       "id": "55fccf68-3c7b-4487-aeb7-80b8a9aab1c7",
@@ -587,15 +596,6 @@
       "created_at": "2026-05-22T05:30:38.414+00:00"
     },
     {
-      "id": "d99d75bb-361c-4568-a3cb-81006c065df2",
-      "username": "Naufal",
-      "email": "stok60881@gmail.com",
-      "password": "Naufal123",
-      "role": "user",
-      "balance": 50000,
-      "created_at": "2026-05-28T08:11:21.003+00:00"
-    },
-    {
       "id": "39c2cdc6-80e4-4e3e-97ef-1265e136fb0a",
       "username": "Honda Spot",
       "email": "spothonda01@gmail.com",
@@ -605,15 +605,6 @@
       "created_at": "2026-05-30T03:40:34.436+00:00"
     },
     {
-      "id": "8a64ce3e-d84a-4bb0-9e7e-29585f4693f3",
-      "username": "Gilang Raja",
-      "email": "gilang611456@gmail.com",
-      "password": "oauth_1780137846243_vu7rzyycep",
-      "role": "user",
-      "balance": 20000,
-      "created_at": "2026-05-30T10:44:06.692+00:00"
-    },
-    {
       "id": "a5b860c2-a97b-455a-884e-641aee7b9817",
       "username": "MA m Nam",
       "email": "nam.rey000188@gmail.com",
@@ -621,6 +612,15 @@
       "role": "user",
       "balance": 8211,
       "created_at": "2026-05-28T02:20:43.541+00:00"
+    },
+    {
+      "id": "8a64ce3e-d84a-4bb0-9e7e-29585f4693f3",
+      "username": "Gilang Raja",
+      "email": "gilang611456@gmail.com",
+      "password": "oauth_1780137846243_vu7rzyycep",
+      "role": "user",
+      "balance": 16550,
+      "created_at": "2026-05-30T10:44:06.692+00:00"
     },
     {
       "id": "3922c71f-260a-4849-9cdd-a2cbdd1281d0",
