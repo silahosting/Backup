@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-30T06:49:48.930Z",
+  "backedUpAt": "2026-05-30T06:51:45.056Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -371,6 +371,15 @@
       "created_at": "2026-05-27T00:41:07.8+00:00"
     },
     {
+      "id": "ec3b0e5a-db85-4676-85f4-a25e15bac55a",
+      "username": "dewi",
+      "email": "ratu83323@gmail.com",
+      "password": "Doaduludek",
+      "role": "user",
+      "balance": 3423,
+      "created_at": "2026-05-26T16:27:32.771+00:00"
+    },
+    {
       "id": "caed60b8-46eb-4c07-805d-acd91848714b",
       "username": "Salsa dila juwita",
       "email": "salsanovember11@gmail.com",
@@ -567,15 +576,6 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-29T02:41:13.641+00:00"
-    },
-    {
-      "id": "ec3b0e5a-db85-4676-85f4-a25e15bac55a",
-      "username": "dewi",
-      "email": "ratu83323@gmail.com",
-      "password": "Doaduludek",
-      "role": "user",
-      "balance": 4954,
-      "created_at": "2026-05-26T16:27:32.771+00:00"
     },
     {
       "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
