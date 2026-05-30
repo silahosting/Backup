@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-30T12:09:49.837Z",
+  "backedUpAt": "2026-05-30T12:11:46.163Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -232,7 +232,7 @@
       "email": "kucai2007@gmail.com",
       "password": "oauth_1779145270365_f3rix7124td",
       "role": "user",
-      "balance": 2354,
+      "balance": 24113,
       "created_at": "2026-05-18T23:01:11.385+00:00"
     },
     {
