@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-30T02:54:48.630Z",
+  "backedUpAt": "2026-05-30T02:56:44.125Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -376,7 +376,7 @@
       "email": "bayuprygii11@gmail.com",
       "password": "Brayan01@",
       "role": "user",
-      "balance": 25650,
+      "balance": 22800,
       "created_at": "2026-05-28T01:02:55.712+00:00"
     },
     {
