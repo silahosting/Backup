@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-30T22:36:46.747Z",
+  "backedUpAt": "2026-05-30T22:39:03.898Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -277,7 +277,7 @@
       "email": "fastf0206@gmail.com",
       "password": "indrawan",
       "role": "user",
-      "balance": 1524,
+      "balance": 201,
       "created_at": "2026-05-28T09:39:27.806+00:00"
     },
     {
@@ -574,7 +574,7 @@
       "email": "sgvxuffg@gmail.com",
       "password": "fahrihosting3",
       "role": "user",
-      "balance": 1174,
+      "balance": 642,
       "created_at": "2026-05-26T20:37:37.803+00:00"
     },
     {
