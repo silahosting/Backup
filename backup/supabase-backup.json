@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-30T11:11:45.987Z",
+  "backedUpAt": "2026-05-30T11:14:01.678Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -497,15 +497,6 @@
       "created_at": "2026-05-24T02:54:44.687+00:00"
     },
     {
-      "id": "d99d75bb-361c-4568-a3cb-81006c065df2",
-      "username": "Naufal",
-      "email": "stok60881@gmail.com",
-      "password": "Naufal123",
-      "role": "user",
-      "balance": 0,
-      "created_at": "2026-05-28T08:11:21.003+00:00"
-    },
-    {
       "id": "d941513e-59e5-458b-b7b4-397b3465b02a",
       "username": "Bayu Prayogi",
       "email": "bayuprygii11@gmail.com",
@@ -596,6 +587,15 @@
       "created_at": "2026-05-22T05:30:38.414+00:00"
     },
     {
+      "id": "d99d75bb-361c-4568-a3cb-81006c065df2",
+      "username": "Naufal",
+      "email": "stok60881@gmail.com",
+      "password": "Naufal123",
+      "role": "user",
+      "balance": 50000,
+      "created_at": "2026-05-28T08:11:21.003+00:00"
+    },
+    {
       "id": "39c2cdc6-80e4-4e3e-97ef-1265e136fb0a",
       "username": "Honda Spot",
       "email": "spothonda01@gmail.com",
@@ -610,7 +610,7 @@
       "email": "gilang611456@gmail.com",
       "password": "oauth_1780137846243_vu7rzyycep",
       "role": "user",
-      "balance": 0,
+      "balance": 20000,
       "created_at": "2026-05-30T10:44:06.692+00:00"
     },
     {
@@ -619,7 +619,7 @@
       "email": "nam.rey000188@gmail.com",
       "password": "oauth_1779934843015_mruidvjex0c",
       "role": "user",
-      "balance": 9955,
+      "balance": 8211,
       "created_at": "2026-05-28T02:20:43.541+00:00"
     },
     {
