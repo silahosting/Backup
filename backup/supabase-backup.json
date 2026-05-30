@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-30T08:04:48.958Z",
+  "backedUpAt": "2026-05-30T08:06:45.382Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -601,7 +601,7 @@
       "email": "spothonda01@gmail.com",
       "password": "oauth_1780112433916_1gtqo8ij8epj",
       "role": "user",
-      "balance": 1575,
+      "balance": 5761,
       "created_at": "2026-05-30T03:40:34.436+00:00"
     },
     {
