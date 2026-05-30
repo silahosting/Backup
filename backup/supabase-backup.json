@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-30T14:26:46.465Z",
+  "backedUpAt": "2026-05-30T14:29:02.475Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -630,6 +630,15 @@
       "role": "user",
       "balance": 20000,
       "created_at": "2026-05-30T10:44:06.692+00:00"
+    },
+    {
+      "id": "fdd74a0b-0ee9-4822-a8fa-dd9e8eb3f5b8",
+      "username": "Ishana Athari",
+      "email": "shana22.athari@gmail.com",
+      "password": "oauth_1780151315490_28bntg6iam8",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-30T14:28:36.416+00:00"
     },
     {
       "id": "3922c71f-260a-4849-9cdd-a2cbdd1281d0",
