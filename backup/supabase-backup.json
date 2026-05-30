@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-30T13:16:46.325Z",
+  "backedUpAt": "2026-05-30T13:19:02.129Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -520,7 +520,7 @@
       "email": "stok60881@gmail.com",
       "password": "Naufal123",
       "role": "user",
-      "balance": 235573,
+      "balance": 242490,
       "created_at": "2026-05-28T08:11:21.003+00:00"
     },
     {
