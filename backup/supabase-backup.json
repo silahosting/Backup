@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-30T05:59:48.890Z",
+  "backedUpAt": "2026-05-30T06:01:44.855Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -556,7 +556,7 @@
       "email": "testmazon3@gmail.com",
       "password": "oauth_1779848693503_keqpnoxddf",
       "role": "user",
-      "balance": 4395,
+      "balance": 483,
       "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
@@ -601,7 +601,7 @@
       "email": "nam.rey000188@gmail.com",
       "password": "oauth_1779934843015_mruidvjex0c",
       "role": "user",
-      "balance": 13302,
+      "balance": 13338,
       "created_at": "2026-05-28T02:20:43.541+00:00"
     },
     {
