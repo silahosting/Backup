@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-30T11:39:01.697Z",
+  "backedUpAt": "2026-05-30T11:39:49.747Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -621,6 +621,15 @@
       "role": "user",
       "balance": 16550,
       "created_at": "2026-05-30T10:44:06.692+00:00"
+    },
+    {
+      "id": "32f90c4f-b2a3-47d4-a8e1-9e23a00d86d6",
+      "username": "rayykalel",
+      "email": "alandextra@gmail.com",
+      "password": "tokyo387",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-30T11:39:37.456+00:00"
     },
     {
       "id": "3922c71f-260a-4849-9cdd-a2cbdd1281d0",
