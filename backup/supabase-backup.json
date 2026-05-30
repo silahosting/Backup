@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-30T10:44:01.720Z",
+  "backedUpAt": "2026-05-30T10:44:49.500Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -603,6 +603,15 @@
       "role": "user",
       "balance": 2750,
       "created_at": "2026-05-30T03:40:34.436+00:00"
+    },
+    {
+      "id": "8a64ce3e-d84a-4bb0-9e7e-29585f4693f3",
+      "username": "Gilang Raja",
+      "email": "gilang611456@gmail.com",
+      "password": "oauth_1780137846243_vu7rzyycep",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-30T10:44:06.692+00:00"
     },
     {
       "id": "a5b860c2-a97b-455a-884e-641aee7b9817",
