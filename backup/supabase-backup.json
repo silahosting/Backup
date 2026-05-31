@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-31T02:34:04.472Z",
+  "backedUpAt": "2026-05-31T02:34:51.511Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -515,15 +515,6 @@
       "created_at": "2026-05-28T05:34:46.244+00:00"
     },
     {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
-      "role": "user",
-      "balance": 7454,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
-    },
-    {
       "id": "5af0ca86-0c47-43c6-9c2d-3c21188c89ac",
       "username": "Sam lehoy",
       "email": "samlehoy1337z@gmail.com",
@@ -549,6 +540,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-28T17:47:26.445+00:00"
+    },
+    {
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
+      "role": "user",
+      "balance": 8928,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
       "id": "55fccf68-3c7b-4487-aeb7-80b8a9aab1c7",
@@ -8504,32 +8504,6 @@
       "sms_msg": null
     },
     {
-      "id": "ug9r0oopbmpt5zpjn",
-      "user_id": "testmazon3@gmail.com",
-      "user_email": "testmazon3@gmail.com",
-      "type": "purchase",
-      "amount": 1474,
-      "fee": 1000,
-      "total": 1474,
-      "status": "pending",
-      "deposit_id": "smscode_1738811",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-31T02:32:31.763+00:00",
-      "updated_at": "2026-05-31T02:32:31.763+00:00",
-      "order_id": "smscode_1738811",
-      "service_name": "Any Other",
-      "phone_number": "66842217542",
-      "otp_code": "-",
-      "country_name": "Thailand",
-      "original_price": 474,
-      "selling_price": 1474,
-      "profit": 1000,
-      "provider": "smscode",
-      "sms_msg": null
-    },
-    {
       "id": "uotxrer5nmpjm4tvc",
       "user_id": "fahrihosting3@gmail.com",
       "user_email": "fahrihosting3@gmail.com",
@@ -8660,23 +8634,23 @@
       "sms_msg": "Your OneOne. verification code is : 807938."
     },
     {
-      "id": "8idoelye2mpt611sh",
+      "id": "ug9r0oopbmpt5zpjn",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
       "type": "purchase",
       "amount": 1474,
       "fee": 1000,
       "total": 1474,
-      "status": "pending",
-      "deposit_id": "smscode_1738856",
+      "status": "cancel",
+      "deposit_id": "smscode_1738811",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
-      "created_at": "2026-05-31T02:33:34.289+00:00",
-      "updated_at": "2026-05-31T02:33:34.289+00:00",
-      "order_id": "smscode_1738856",
+      "created_at": "2026-05-31T02:32:31.763+00:00",
+      "updated_at": "2026-05-31T02:34:44.437+00:00",
+      "order_id": "smscode_1738811",
       "service_name": "Any Other",
-      "phone_number": "66957030526",
+      "phone_number": "66842217542",
       "otp_code": "-",
       "country_name": "Thailand",
       "original_price": 474,
@@ -13182,6 +13156,32 @@
       "profit": 1000,
       "provider": "smscode",
       "sms_msg": null
+    },
+    {
+      "id": "8idoelye2mpt611sh",
+      "user_id": "testmazon3@gmail.com",
+      "user_email": "testmazon3@gmail.com",
+      "type": "purchase",
+      "amount": 1474,
+      "fee": 1000,
+      "total": 1474,
+      "status": "success",
+      "deposit_id": "smscode_1738856",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-31T02:33:34.289+00:00",
+      "updated_at": "2026-05-31T02:34:45.211+00:00",
+      "order_id": "smscode_1738856",
+      "service_name": "Any Other",
+      "phone_number": "66957030526",
+      "otp_code": "657812",
+      "country_name": "Thailand",
+      "original_price": 474,
+      "selling_price": 1474,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": "Your OneOne. verification code is : 657812."
     },
     {
       "id": "182uvux5kmpner7mg",
