@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-31T14:14:53.963Z",
+  "backedUpAt": "2026-05-31T14:16:49.514Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -225,15 +225,6 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-19T14:04:58.501+00:00"
-    },
-    {
-      "id": "ec662b69-52cf-4853-b497-0eb345f26772",
-      "username": "Ricis Lubis",
-      "email": "lubisricis04@gmail.com",
-      "password": "oauth_1779703353803_fla4ijw20qn",
-      "role": "user",
-      "balance": 1104,
-      "created_at": "2026-05-25T10:02:34.349+00:00"
     },
     {
       "id": "ed651e7b-e65d-4bed-986b-b822222c1e75",
@@ -585,6 +576,15 @@
       "role": "user",
       "balance": 49720,
       "created_at": "2026-05-26T20:37:37.803+00:00"
+    },
+    {
+      "id": "ec662b69-52cf-4853-b497-0eb345f26772",
+      "username": "Ricis Lubis",
+      "email": "lubisricis04@gmail.com",
+      "password": "oauth_1779703353803_fla4ijw20qn",
+      "role": "user",
+      "balance": 2704,
+      "created_at": "2026-05-25T10:02:34.349+00:00"
     },
     {
       "id": "3154b04f-f792-4644-b3e7-eec8ff407867",
@@ -13228,6 +13228,32 @@
       "sms_msg": null
     },
     {
+      "id": "4mznuhvc5mptv0fse",
+      "user_id": "yongmodoo2000@gmail.com",
+      "user_email": "yongmodoo2000@gmail.com",
+      "type": "deposit",
+      "amount": 5000,
+      "fee": 514,
+      "total": 5514,
+      "status": "success",
+      "deposit_id": "TRX-1780236774109-U3SG7",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540455145802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A0163049E0B&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540455145802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163049E0B",
+      "expired_at": "2026-05-31T14:27:54.11+00:00",
+      "created_at": "2026-05-31T14:12:56.174+00:00",
+      "updated_at": "2026-05-31T14:15:29.263+00:00",
+      "order_id": null,
+      "service_name": null,
+      "phone_number": null,
+      "otp_code": null,
+      "country_name": null,
+      "original_price": null,
+      "selling_price": null,
+      "profit": null,
+      "provider": null,
+      "sms_msg": null
+    },
+    {
       "id": "t6hxvj2dxmpt7rftk",
       "user_id": "bayuprygii11@gmail.com",
       "user_email": "bayuprygii11@gmail.com",
@@ -13329,32 +13355,6 @@
       "selling_price": 1675,
       "profit": 1000,
       "provider": "smscode",
-      "sms_msg": null
-    },
-    {
-      "id": "4mznuhvc5mptv0fse",
-      "user_id": "yongmodoo2000@gmail.com",
-      "user_email": "yongmodoo2000@gmail.com",
-      "type": "deposit",
-      "amount": 5000,
-      "fee": 514,
-      "total": 5514,
-      "status": "pending",
-      "deposit_id": "TRX-1780236774109-U3SG7",
-      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540455145802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A0163049E0B&ecc=M",
-      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI520458165303360540455145802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163049E0B",
-      "expired_at": "2026-05-31T14:27:54.11+00:00",
-      "created_at": "2026-05-31T14:12:56.174+00:00",
-      "updated_at": "2026-05-31T14:12:56.174+00:00",
-      "order_id": null,
-      "service_name": null,
-      "phone_number": null,
-      "otp_code": null,
-      "country_name": null,
-      "original_price": null,
-      "selling_price": null,
-      "profit": null,
-      "provider": null,
       "sms_msg": null
     },
     {
