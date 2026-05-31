@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-31T15:29:06.780Z",
+  "backedUpAt": "2026-05-31T15:29:54.131Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -623,15 +623,6 @@
       "created_at": "2026-05-31T14:08:54.043+00:00"
     },
     {
-      "id": "1b023df2-9b9a-466e-bdde-700d22efaf3a",
-      "username": "Aryabaskara ",
-      "email": "aryaakun015@gmail.com",
-      "password": "Arya2009",
-      "role": "user",
-      "balance": 0,
-      "created_at": "2026-05-31T15:25:40.643+00:00"
-    },
-    {
       "id": "068ff4ee-1973-4c1c-bdcf-0f6a59498826",
       "username": "Namine Sinten",
       "email": "naminesinten40@gmail.com",
@@ -648,6 +639,15 @@
       "role": "user",
       "balance": 2750,
       "created_at": "2026-05-30T03:40:34.436+00:00"
+    },
+    {
+      "id": "1b023df2-9b9a-466e-bdde-700d22efaf3a",
+      "username": "Aryabaskara ",
+      "email": "aryaakun015@gmail.com",
+      "password": "Arya2009",
+      "role": "user",
+      "balance": 10000,
+      "created_at": "2026-05-31T15:25:40.643+00:00"
     },
     {
       "id": "32f90c4f-b2a3-47d4-a8e1-9e23a00d86d6",
@@ -16808,6 +16808,32 @@
       "sms_msg": null
     },
     {
+      "id": "102fn3desmptxqucr",
+      "user_id": "d816b07a-c7bf-4779-a845-6dd155642be0",
+      "user_email": "adityaputrau123@gmail.com",
+      "type": "deposit",
+      "amount": 10000,
+      "fee": 583,
+      "total": 10583,
+      "status": "pending",
+      "deposit_id": "TRX-1780241365280-547J2",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105835802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A016304F4A3&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105835802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A016304F4A3",
+      "expired_at": "2026-05-31T15:44:25.28+00:00",
+      "created_at": "2026-05-31T15:29:27.339+00:00",
+      "updated_at": "2026-05-31T15:29:27.339+00:00",
+      "order_id": null,
+      "service_name": null,
+      "phone_number": null,
+      "otp_code": null,
+      "country_name": null,
+      "original_price": null,
+      "selling_price": null,
+      "profit": null,
+      "provider": null,
+      "sms_msg": null
+    },
+    {
       "id": "apz99r2qhmptxpx7a",
       "user_id": "1b023df2-9b9a-466e-bdde-700d22efaf3a",
       "user_email": "aryaakun015@gmail.com",
@@ -16815,13 +16841,13 @@
       "amount": 10000,
       "fee": 549,
       "total": 10549,
-      "status": "pending",
+      "status": "success",
       "deposit_id": "TRX-1780241322110-1DHYQ",
       "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105495802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A0163045FD0&ecc=M",
       "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105495802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163045FD0",
       "expired_at": "2026-05-31T15:43:42.11+00:00",
       "created_at": "2026-05-31T15:28:44.374+00:00",
-      "updated_at": "2026-05-31T15:28:44.374+00:00",
+      "updated_at": "2026-05-31T15:29:36.345+00:00",
       "order_id": null,
       "service_name": null,
       "phone_number": null,
@@ -26660,32 +26686,6 @@
       "profit": 1000,
       "provider": "smscode",
       "sms_msg": null
-    },
-    {
-      "id": "81yxmath9mpq290yh",
-      "user_id": "testmazon3@gmail.com",
-      "user_email": "testmazon3@gmail.com",
-      "type": "purchase",
-      "amount": 2047,
-      "fee": 1000,
-      "total": 2047,
-      "status": "success",
-      "deposit_id": "smscode_1615095",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-28T22:24:29.465+00:00",
-      "updated_at": "2026-05-28T23:08:55.589+00:00",
-      "order_id": "smscode_1615095",
-      "service_name": "Any Other",
-      "phone_number": "66849894721",
-      "otp_code": "706519",
-      "country_name": "Thailand",
-      "original_price": 1047,
-      "selling_price": 2047,
-      "profit": 1000,
-      "provider": "smscode",
-      "sms_msg": "Your OneOne. verification code is : 706519."
     }
   ],
   "notifications": [],
