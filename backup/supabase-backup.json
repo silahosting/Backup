@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-31T07:44:52.582Z",
+  "backedUpAt": "2026-05-31T07:46:48.961Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -637,7 +637,7 @@
       "email": "nam.rey000188@gmail.com",
       "password": "oauth_1779934843015_mruidvjex0c",
       "role": "user",
-      "balance": 17917,
+      "balance": 19592,
       "created_at": "2026-05-28T02:20:43.541+00:00"
     }
   ],
@@ -17972,7 +17972,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-31T07:36:30.327+00:00",
-      "updated_at": "2026-05-31T07:40:54.983+00:00",
+      "updated_at": "2026-05-31T07:46:03.357+00:00",
       "order_id": "smscode_1755449",
       "service_name": "Shopee",
       "phone_number": "6287751986342",
@@ -19204,32 +19204,6 @@
       "selling_price": null,
       "profit": null,
       "provider": null,
-      "sms_msg": null
-    },
-    {
-      "id": "6oxrettu8mptgxr10",
-      "user_id": "nam.rey000188@gmail.com",
-      "user_email": "nam.rey000188@gmail.com",
-      "type": "purchase",
-      "amount": 1675,
-      "fee": 1000,
-      "total": 1675,
-      "status": "pending",
-      "deposit_id": "smscode_1755556",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-31T07:38:56.148+00:00",
-      "updated_at": "2026-05-31T07:38:56.148+00:00",
-      "order_id": "smscode_1755556",
-      "service_name": "Shopee",
-      "phone_number": "6283857545129",
-      "otp_code": "-",
-      "country_name": "Indonesia",
-      "original_price": 675,
-      "selling_price": 1675,
-      "profit": 1000,
-      "provider": "smscode",
       "sms_msg": null
     },
     {
@@ -26381,6 +26355,32 @@
       "profit": 1000,
       "provider": "smscode",
       "sms_msg": "Your OneOne. verification code is : 287023."
+    },
+    {
+      "id": "6oxrettu8mptgxr10",
+      "user_id": "nam.rey000188@gmail.com",
+      "user_email": "nam.rey000188@gmail.com",
+      "type": "purchase",
+      "amount": 1675,
+      "fee": 1000,
+      "total": 1675,
+      "status": "cancel",
+      "deposit_id": "smscode_1755556",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-31T07:38:56.148+00:00",
+      "updated_at": "2026-05-31T07:45:56.542+00:00",
+      "order_id": "smscode_1755556",
+      "service_name": "Shopee",
+      "phone_number": "6283857545129",
+      "otp_code": "-",
+      "country_name": "Indonesia",
+      "original_price": 675,
+      "selling_price": 1675,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": null
     },
     {
       "id": "9ycebcvb8mpt1o8wr",
