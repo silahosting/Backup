@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-31T11:36:49.277Z",
+  "backedUpAt": "2026-05-31T11:39:05.837Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -227,15 +227,6 @@
       "created_at": "2026-05-19T14:04:58.501+00:00"
     },
     {
-      "id": "d941513e-59e5-458b-b7b4-397b3465b02a",
-      "username": "Bayu Prayogi",
-      "email": "bayuprygii11@gmail.com",
-      "password": "Brayan01@",
-      "role": "user",
-      "balance": 33250,
-      "created_at": "2026-05-28T01:02:55.712+00:00"
-    },
-    {
       "id": "ed651e7b-e65d-4bed-986b-b822222c1e75",
       "username": "Es Syam Riskyan",
       "email": "eriskyan@gmail.com",
@@ -450,6 +441,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-27T09:38:18.678+00:00"
+    },
+    {
+      "id": "d941513e-59e5-458b-b7b4-397b3465b02a",
+      "username": "Bayu Prayogi",
+      "email": "bayuprygii11@gmail.com",
+      "password": "Brayan01@",
+      "role": "user",
+      "balance": 24950,
+      "created_at": "2026-05-28T01:02:55.712+00:00"
     },
     {
       "id": "edc98d8e-4f15-4607-9bab-126ed8ed7ed3",
@@ -16434,32 +16434,6 @@
       "sms_msg": " Kode WhatsApp Business: 574-263\nJangan bagikan kode ini dengan orang lain\nrJbA/XP1K+V"
     },
     {
-      "id": "efzui654imptjh3eo",
-      "user_id": "nam.rey000188@gmail.com",
-      "user_email": "nam.rey000188@gmail.com",
-      "type": "purchase",
-      "amount": 1744,
-      "fee": 1000,
-      "total": 1744,
-      "status": "success",
-      "deposit_id": "smscode_1759098",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-31T08:49:57.888+00:00",
-      "updated_at": "2026-05-31T09:11:13.337+00:00",
-      "order_id": "smscode_1759098",
-      "service_name": "Shopee",
-      "phone_number": "6283193885626",
-      "otp_code": "530384",
-      "country_name": "Indonesia",
-      "original_price": 744,
-      "selling_price": 1744,
-      "profit": 1000,
-      "provider": "smscode",
-      "sms_msg": "Shopee: Gunakan Kode OTP 530384 UNTUK DAFTAR AKUN SHOPEE. Hanya berlaku 15 menit. JANGAN berikan kode ke siapa pun, termasuk pihak Shopee.\nIc03Y5w8Oms"
-    },
-    {
       "id": "a74xuty7umpt0j265",
       "user_id": "sgvxuffg@gmail.com",
       "user_email": "sgvxuffg@gmail.com",
@@ -16562,6 +16536,32 @@
       "profit": null,
       "provider": null,
       "sms_msg": null
+    },
+    {
+      "id": "efzui654imptjh3eo",
+      "user_id": "nam.rey000188@gmail.com",
+      "user_email": "nam.rey000188@gmail.com",
+      "type": "purchase",
+      "amount": 1744,
+      "fee": 1000,
+      "total": 1744,
+      "status": "success",
+      "deposit_id": "smscode_1759098",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-31T08:49:57.888+00:00",
+      "updated_at": "2026-05-31T11:39:03.528+00:00",
+      "order_id": "smscode_1759098",
+      "service_name": "Shopee",
+      "phone_number": "6283193885626",
+      "otp_code": "530384",
+      "country_name": "Indonesia",
+      "original_price": 744,
+      "selling_price": 1744,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": "Shopee: Gunakan Kode OTP 530384 UNTUK DAFTAR AKUN SHOPEE. Hanya berlaku 15 menit. JANGAN berikan kode ke siapa pun, termasuk pihak Shopee.\nIc03Y5w8Oms"
     },
     {
       "id": "06tlidmgempt7rrta",
