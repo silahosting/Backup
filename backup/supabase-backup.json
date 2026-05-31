@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-31T14:06:49.491Z",
+  "backedUpAt": "2026-05-31T14:09:06.506Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -603,6 +603,15 @@
       "role": "user",
       "balance": 14409,
       "created_at": "2026-05-28T02:20:43.541+00:00"
+    },
+    {
+      "id": "d816b07a-c7bf-4779-a845-6dd155642be0",
+      "username": "aditya putra utama",
+      "email": "adityaputrau123@gmail.com",
+      "password": "oauth_1780236533548_ie23t9jaho",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-31T14:08:54.043+00:00"
     },
     {
       "id": "39c2cdc6-80e4-4e3e-97ef-1265e136fb0a",
