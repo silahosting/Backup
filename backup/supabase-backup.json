@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-31T08:06:48.972Z",
+  "backedUpAt": "2026-05-31T08:09:04.718Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -637,7 +637,7 @@
       "email": "nam.rey000188@gmail.com",
       "password": "oauth_1779934843015_mruidvjex0c",
       "role": "user",
-      "balance": 19592,
+      "balance": 17884,
       "created_at": "2026-05-28T02:20:43.541+00:00"
     }
   ],
@@ -20299,6 +20299,32 @@
       "sms_msg": null
     },
     {
+      "id": "elmcnvb00mpth28iv",
+      "user_id": "nam.rey000188@gmail.com",
+      "user_email": "nam.rey000188@gmail.com",
+      "type": "purchase",
+      "amount": 1708,
+      "fee": 1000,
+      "total": 1708,
+      "status": "success",
+      "deposit_id": "smscode_1755708",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-31T07:42:25.447+00:00",
+      "updated_at": "2026-05-31T08:08:45.649+00:00",
+      "order_id": "smscode_1755708",
+      "service_name": "Shopee",
+      "phone_number": "6285137233161",
+      "otp_code": "145431",
+      "country_name": "Indonesia",
+      "original_price": 708,
+      "selling_price": 1708,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": "JANGAN BERIKAN pada siapa pun, TERMASUK SHOPEE. Kode OTP 145431 untuk UPDATE NO. HP."
+    },
+    {
       "id": "v87chb1o9mpt8aqg3",
       "user_id": "bayuprygii11@gmail.com",
       "user_email": "bayuprygii11@gmail.com",
@@ -20427,32 +20453,6 @@
       "profit": 1000,
       "provider": "smscode",
       "sms_msg": "Your OneOne. verification code is : 147277."
-    },
-    {
-      "id": "elmcnvb00mpth28iv",
-      "user_id": "nam.rey000188@gmail.com",
-      "user_email": "nam.rey000188@gmail.com",
-      "type": "purchase",
-      "amount": 1708,
-      "fee": 1000,
-      "total": 1708,
-      "status": "success",
-      "deposit_id": "smscode_1755708",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-31T07:42:25.447+00:00",
-      "updated_at": "2026-05-31T08:04:23.443+00:00",
-      "order_id": "smscode_1755708",
-      "service_name": "Shopee",
-      "phone_number": "6285137233161",
-      "otp_code": "145431",
-      "country_name": "Indonesia",
-      "original_price": 708,
-      "selling_price": 1708,
-      "profit": 1000,
-      "provider": "smscode",
-      "sms_msg": "JANGAN BERIKAN pada siapa pun, TERMASUK SHOPEE. Kode OTP 145431 untuk UPDATE NO. HP."
     },
     {
       "id": "2xsjbiiewmpod25qz",
