@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-31T03:19:51.510Z",
+  "backedUpAt": "2026-05-31T03:21:48.033Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -227,13 +227,13 @@
       "created_at": "2026-05-19T14:04:58.501+00:00"
     },
     {
-      "id": "d99d75bb-361c-4568-a3cb-81006c065df2",
-      "username": "Naufal",
-      "email": "stok60881@gmail.com",
-      "password": "Naufal123",
+      "id": "d941513e-59e5-458b-b7b4-397b3465b02a",
+      "username": "Bayu Prayogi",
+      "email": "bayuprygii11@gmail.com",
+      "password": "Brayan01@",
       "role": "user",
-      "balance": 183373,
-      "created_at": "2026-05-28T08:11:21.003+00:00"
+      "balance": 33250,
+      "created_at": "2026-05-28T01:02:55.712+00:00"
     },
     {
       "id": "ed651e7b-e65d-4bed-986b-b822222c1e75",
@@ -551,13 +551,13 @@
       "created_at": "2026-05-28T17:47:26.445+00:00"
     },
     {
-      "id": "d941513e-59e5-458b-b7b4-397b3465b02a",
-      "username": "Bayu Prayogi",
-      "email": "bayuprygii11@gmail.com",
-      "password": "Brayan01@",
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
       "role": "user",
-      "balance": 24351,
-      "created_at": "2026-05-28T01:02:55.712+00:00"
+      "balance": 16434,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
       "id": "55fccf68-3c7b-4487-aeb7-80b8a9aab1c7",
@@ -587,13 +587,13 @@
       "created_at": "2026-05-26T20:37:37.803+00:00"
     },
     {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
+      "id": "d99d75bb-361c-4568-a3cb-81006c065df2",
+      "username": "Naufal",
+      "email": "stok60881@gmail.com",
+      "password": "Naufal123",
       "role": "user",
-      "balance": 1434,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
+      "balance": 0,
+      "created_at": "2026-05-28T08:11:21.003+00:00"
     },
     {
       "id": "39c2cdc6-80e4-4e3e-97ef-1265e136fb0a",
@@ -13249,7 +13249,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-31T03:18:29.667+00:00",
-      "updated_at": "2026-05-31T03:19:42.865+00:00",
+      "updated_at": "2026-05-31T03:20:53.964+00:00",
       "order_id": "smscode_1741061",
       "service_name": "Any Other",
       "phone_number": "66840874195",
@@ -15186,32 +15186,6 @@
       "sms_msg": null
     },
     {
-      "id": "6jkrkl4fxmpt7jfs2",
-      "user_id": "bayuprygii11@gmail.com",
-      "user_email": "bayuprygii11@gmail.com",
-      "type": "purchase",
-      "amount": 10556,
-      "fee": 1000,
-      "total": 10556,
-      "status": "cancel",
-      "deposit_id": "smscode_1740921",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-31T03:15:51.842+00:00",
-      "updated_at": "2026-05-31T03:18:42.78+00:00",
-      "order_id": "smscode_1740921",
-      "service_name": "WhatsApp",
-      "phone_number": "855973935639",
-      "otp_code": "-",
-      "country_name": "Cambodia",
-      "original_price": 9556,
-      "selling_price": 10556,
-      "profit": 1000,
-      "provider": "smscode",
-      "sms_msg": null
-    },
-    {
       "id": "h7aldc3mwmpnlaf0p",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -16380,6 +16354,32 @@
       "profit": 1000,
       "provider": "smscode",
       "sms_msg": "Your OneOne. verification code is : 499465."
+    },
+    {
+      "id": "3x710klgxmpt7px2h",
+      "user_id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "user_email": "testmazon3@gmail.com",
+      "type": "deposit",
+      "amount": 15000,
+      "fee": 522,
+      "total": 15522,
+      "status": "success",
+      "deposit_id": "TRX-1780197651804-MD7L3",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405155225802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A0163044A25&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405155225802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163044A25",
+      "expired_at": "2026-05-31T03:35:51.804+00:00",
+      "created_at": "2026-05-31T03:20:54.185+00:00",
+      "updated_at": "2026-05-31T03:21:29.743+00:00",
+      "order_id": null,
+      "service_name": null,
+      "phone_number": null,
+      "otp_code": null,
+      "country_name": null,
+      "original_price": null,
+      "selling_price": null,
+      "profit": null,
+      "provider": null,
+      "sms_msg": null
     },
     {
       "id": "2uyqmwa95mpo1lprg",
