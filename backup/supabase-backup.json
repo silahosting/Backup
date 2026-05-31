@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-31T15:26:49.846Z",
+  "backedUpAt": "2026-05-31T15:29:06.780Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -623,15 +623,6 @@
       "created_at": "2026-05-31T14:08:54.043+00:00"
     },
     {
-      "id": "068ff4ee-1973-4c1c-bdcf-0f6a59498826",
-      "username": "Namine Sinten",
-      "email": "naminesinten40@gmail.com",
-      "password": "oauth_1780239809294_orooy6quauh",
-      "role": "user",
-      "balance": 6550,
-      "created_at": "2026-05-31T15:03:29.824+00:00"
-    },
-    {
       "id": "1b023df2-9b9a-466e-bdde-700d22efaf3a",
       "username": "Aryabaskara ",
       "email": "aryaakun015@gmail.com",
@@ -639,6 +630,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-31T15:25:40.643+00:00"
+    },
+    {
+      "id": "068ff4ee-1973-4c1c-bdcf-0f6a59498826",
+      "username": "Namine Sinten",
+      "email": "naminesinten40@gmail.com",
+      "password": "oauth_1780239809294_orooy6quauh",
+      "role": "user",
+      "balance": 3450,
+      "created_at": "2026-05-31T15:03:29.824+00:00"
     },
     {
       "id": "39c2cdc6-80e4-4e3e-97ef-1265e136fb0a",
@@ -13331,13 +13331,13 @@
       "amount": 3063,
       "fee": 1000,
       "total": 3063,
-      "status": "pending",
+      "status": "cancel",
       "deposit_id": "smscode_1778064",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-31T15:24:26.749+00:00",
-      "updated_at": "2026-05-31T15:24:26.749+00:00",
+      "updated_at": "2026-05-31T15:28:42.986+00:00",
       "order_id": "smscode_1778064",
       "service_name": "WhatsApp",
       "phone_number": "6285847617529",
@@ -16805,6 +16805,32 @@
       "selling_price": 2300,
       "profit": 1000,
       "provider": "rumahotp",
+      "sms_msg": null
+    },
+    {
+      "id": "apz99r2qhmptxpx7a",
+      "user_id": "1b023df2-9b9a-466e-bdde-700d22efaf3a",
+      "user_email": "aryaakun015@gmail.com",
+      "type": "deposit",
+      "amount": 10000,
+      "fee": 549,
+      "total": 10549,
+      "status": "pending",
+      "deposit_id": "TRX-1780241322110-1DHYQ",
+      "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105495802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A0163045FD0&ecc=M",
+      "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405105495802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163045FD0",
+      "expired_at": "2026-05-31T15:43:42.11+00:00",
+      "created_at": "2026-05-31T15:28:44.374+00:00",
+      "updated_at": "2026-05-31T15:28:44.374+00:00",
+      "order_id": null,
+      "service_name": null,
+      "phone_number": null,
+      "otp_code": null,
+      "country_name": null,
+      "original_price": null,
+      "selling_price": null,
+      "profit": null,
+      "provider": null,
       "sms_msg": null
     },
     {
@@ -26660,32 +26686,6 @@
       "profit": 1000,
       "provider": "smscode",
       "sms_msg": "Your OneOne. verification code is : 706519."
-    },
-    {
-      "id": "ypp0oq7flmpq2g0m4",
-      "user_id": "testmazon3@gmail.com",
-      "user_email": "testmazon3@gmail.com",
-      "type": "purchase",
-      "amount": 2047,
-      "fee": 1000,
-      "total": 2047,
-      "status": "cancel",
-      "deposit_id": "smscode_1615182",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-28T22:29:55.612+00:00",
-      "updated_at": "2026-05-28T22:38:53.468+00:00",
-      "order_id": "smscode_1615182",
-      "service_name": "Any Other",
-      "phone_number": "66967712916",
-      "otp_code": "-",
-      "country_name": "Thailand",
-      "original_price": 1047,
-      "selling_price": 2047,
-      "profit": 1000,
-      "provider": "smscode",
-      "sms_msg": null
     }
   ],
   "notifications": [],
