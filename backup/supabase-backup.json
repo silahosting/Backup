@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-31T02:59:51.527Z",
+  "backedUpAt": "2026-05-31T03:01:47.981Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -225,6 +225,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-19T14:04:58.501+00:00"
+    },
+    {
+      "id": "d99d75bb-361c-4568-a3cb-81006c065df2",
+      "username": "Naufal",
+      "email": "stok60881@gmail.com",
+      "password": "Naufal123",
+      "role": "user",
+      "balance": 183373,
+      "created_at": "2026-05-28T08:11:21.003+00:00"
     },
     {
       "id": "ed651e7b-e65d-4bed-986b-b822222c1e75",
@@ -576,15 +585,6 @@
       "role": "user",
       "balance": 49720,
       "created_at": "2026-05-26T20:37:37.803+00:00"
-    },
-    {
-      "id": "d99d75bb-361c-4568-a3cb-81006c065df2",
-      "username": "Naufal",
-      "email": "stok60881@gmail.com",
-      "password": "Naufal123",
-      "role": "user",
-      "balance": 209640,
-      "created_at": "2026-05-28T08:11:21.003+00:00"
     },
     {
       "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
@@ -13171,7 +13171,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-31T02:33:34.289+00:00",
-      "updated_at": "2026-05-31T02:55:23.902+00:00",
+      "updated_at": "2026-05-31T03:00:33.774+00:00",
       "order_id": "smscode_1738856",
       "service_name": "Any Other",
       "phone_number": "66957030526",
@@ -16174,32 +16174,6 @@
       "sms_msg": null
     },
     {
-      "id": "m445w4xknmpt6a1x9",
-      "user_id": "kucai2007@gmail.com",
-      "user_email": "kucai2007@gmail.com",
-      "type": "purchase",
-      "amount": 3590,
-      "fee": 1000,
-      "total": 3590,
-      "status": "success",
-      "deposit_id": "smscode_1739233",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-31T02:40:34.365+00:00",
-      "updated_at": "2026-05-31T02:49:23.736+00:00",
-      "order_id": "smscode_1739233",
-      "service_name": "WhatsApp",
-      "phone_number": "6283180923926",
-      "otp_code": "574263",
-      "country_name": "Indonesia",
-      "original_price": 2590,
-      "selling_price": 3590,
-      "profit": 1000,
-      "provider": "smscode",
-      "sms_msg": " Kode WhatsApp Business: 574-263\nJangan bagikan kode ini dengan orang lain\nrJbA/XP1K+V"
-    },
-    {
       "id": "5rk36g6tumpt663ru",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -16224,6 +16198,32 @@
       "profit": 1000,
       "provider": "smscode",
       "sms_msg": "Your OneOne. verification code is : 499465."
+    },
+    {
+      "id": "m445w4xknmpt6a1x9",
+      "user_id": "kucai2007@gmail.com",
+      "user_email": "kucai2007@gmail.com",
+      "type": "purchase",
+      "amount": 3590,
+      "fee": 1000,
+      "total": 3590,
+      "status": "success",
+      "deposit_id": "smscode_1739233",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-31T02:40:34.365+00:00",
+      "updated_at": "2026-05-31T03:01:13.541+00:00",
+      "order_id": "smscode_1739233",
+      "service_name": "WhatsApp",
+      "phone_number": "6283180923926",
+      "otp_code": "574263",
+      "country_name": "Indonesia",
+      "original_price": 2590,
+      "selling_price": 3590,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": " Kode WhatsApp Business: 574-263\nJangan bagikan kode ini dengan orang lain\nrJbA/XP1K+V"
     },
     {
       "id": "a74xuty7umpt0j265",
