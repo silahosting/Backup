@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-31T11:21:49.264Z",
+  "backedUpAt": "2026-05-31T11:24:05.752Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -587,15 +587,6 @@
       "created_at": "2026-05-25T10:02:34.349+00:00"
     },
     {
-      "id": "a5b860c2-a97b-455a-884e-641aee7b9817",
-      "username": "MA m Nam",
-      "email": "nam.rey000188@gmail.com",
-      "password": "oauth_1779934843015_mruidvjex0c",
-      "role": "user",
-      "balance": 12701,
-      "created_at": "2026-05-28T02:20:43.541+00:00"
-    },
-    {
       "id": "3154b04f-f792-4644-b3e7-eec8ff407867",
       "username": "admin123",
       "email": "djsjjejsjssj@gmail.com",
@@ -603,6 +594,15 @@
       "role": "admin",
       "balance": 0,
       "created_at": "2026-05-31T11:18:22.89+00:00"
+    },
+    {
+      "id": "a5b860c2-a97b-455a-884e-641aee7b9817",
+      "username": "MA m Nam",
+      "email": "nam.rey000188@gmail.com",
+      "password": "oauth_1779934843015_mruidvjex0c",
+      "role": "user",
+      "balance": 14409,
+      "created_at": "2026-05-28T02:20:43.541+00:00"
     },
     {
       "id": "39c2cdc6-80e4-4e3e-97ef-1265e136fb0a",
@@ -20575,13 +20575,13 @@
       "amount": 1708,
       "fee": 1000,
       "total": 1708,
-      "status": "pending",
+      "status": "expired",
       "deposit_id": "smscode_1760009",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-31T09:10:17.718+00:00",
-      "updated_at": "2026-05-31T09:10:17.718+00:00",
+      "updated_at": "2026-05-31T11:23:24.189+00:00",
       "order_id": "smscode_1760009",
       "service_name": "Shopee",
       "phone_number": "6283186838533",
