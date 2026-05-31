@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-05-31T00:01:47.178Z",
+  "backedUpAt": "2026-05-31T00:04:04.142Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -225,15 +225,6 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-19T14:04:58.501+00:00"
-    },
-    {
-      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
-      "username": "Alien",
-      "email": "sgvxuffg@gmail.com",
-      "password": "fahrihosting3",
-      "role": "user",
-      "balance": 48562,
-      "created_at": "2026-05-26T20:37:37.803+00:00"
     },
     {
       "id": "ed651e7b-e65d-4bed-986b-b822222c1e75",
@@ -576,6 +567,15 @@
       "role": "user",
       "balance": 7110,
       "created_at": "2026-05-20T13:41:58.639+00:00"
+    },
+    {
+      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
+      "username": "Alien",
+      "email": "sgvxuffg@gmail.com",
+      "password": "fahrihosting3",
+      "role": "user",
+      "balance": 49720,
+      "created_at": "2026-05-26T20:37:37.803+00:00"
     },
     {
       "id": "346ba991-afb5-40db-9eac-1bab79f0b79c",
@@ -16155,13 +16155,13 @@
       "amount": 1158,
       "fee": 1000,
       "total": 1158,
-      "status": "pending",
+      "status": "cancel",
       "deposit_id": "smscode_1733172",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-05-30T23:59:36.893+00:00",
-      "updated_at": "2026-05-30T23:59:36.893+00:00",
+      "updated_at": "2026-05-31T00:03:26.635+00:00",
       "order_id": "smscode_1733172",
       "service_name": "Vercel",
       "phone_number": "12063590949",
@@ -17396,32 +17396,6 @@
       "sms_msg": null
     },
     {
-      "id": "97jqsor3ampt0kr6i",
-      "user_id": "sgvxuffg@gmail.com",
-      "user_email": "sgvxuffg@gmail.com",
-      "type": "purchase",
-      "amount": 1197,
-      "fee": 1000,
-      "total": 1197,
-      "status": "success",
-      "deposit_id": "smscode_1733218",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-31T00:00:55.962+00:00",
-      "updated_at": "2026-05-31T00:01:43.502+00:00",
-      "order_id": "smscode_1733218",
-      "service_name": "Vercel",
-      "phone_number": "447348270877",
-      "otp_code": "-",
-      "country_name": "United Kingdom",
-      "original_price": 197,
-      "selling_price": 1197,
-      "profit": 1000,
-      "provider": "smscode",
-      "sms_msg": null
-    },
-    {
       "id": "w8fmncklqmpo2j4ag",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -17550,6 +17524,32 @@
       "profit": null,
       "provider": null,
       "sms_msg": null
+    },
+    {
+      "id": "97jqsor3ampt0kr6i",
+      "user_id": "sgvxuffg@gmail.com",
+      "user_email": "sgvxuffg@gmail.com",
+      "type": "purchase",
+      "amount": 1197,
+      "fee": 1000,
+      "total": 1197,
+      "status": "success",
+      "deposit_id": "smscode_1733218",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-31T00:00:55.962+00:00",
+      "updated_at": "2026-05-31T00:03:22.91+00:00",
+      "order_id": "smscode_1733218",
+      "service_name": "Vercel",
+      "phone_number": "447348270877",
+      "otp_code": "6064",
+      "country_name": "United Kingdom",
+      "original_price": 197,
+      "selling_price": 1197,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": "Your Vercel verification code is: 6064"
     },
     {
       "id": "ldadhzgmrmpo2oesu",
