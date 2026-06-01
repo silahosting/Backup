@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T16:59:57.539Z",
+  "backedUpAt": "2026-06-01T17:01:53.723Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -376,7 +376,7 @@
       "email": "payshope52@gmail.com",
       "password": "qwe12345",
       "role": "user",
-      "balance": 1226,
+      "balance": 1044,
       "created_at": "2026-05-20T13:41:58.639+00:00"
     },
     {
