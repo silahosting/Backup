@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T04:21:50.864Z",
+  "backedUpAt": "2026-06-01T04:24:07.796Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -587,6 +587,15 @@
       "created_at": "2026-05-25T10:02:34.349+00:00"
     },
     {
+      "id": "a5b860c2-a97b-455a-884e-641aee7b9817",
+      "username": "MA m Nam",
+      "email": "nam.rey000188@gmail.com",
+      "password": "oauth_1779934843015_mruidvjex0c",
+      "role": "user",
+      "balance": 5605,
+      "created_at": "2026-05-28T02:20:43.541+00:00"
+    },
+    {
       "id": "3154b04f-f792-4644-b3e7-eec8ff407867",
       "username": "admin123",
       "email": "djsjjejsjssj@gmail.com",
@@ -630,15 +639,6 @@
       "role": "user",
       "balance": 2750,
       "created_at": "2026-05-30T03:40:34.436+00:00"
-    },
-    {
-      "id": "a5b860c2-a97b-455a-884e-641aee7b9817",
-      "username": "MA m Nam",
-      "email": "nam.rey000188@gmail.com",
-      "password": "oauth_1779934843015_mruidvjex0c",
-      "role": "user",
-      "balance": 7505,
-      "created_at": "2026-05-28T02:20:43.541+00:00"
     },
     {
       "id": "32f90c4f-b2a3-47d4-a8e1-9e23a00d86d6",
