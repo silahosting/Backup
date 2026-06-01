@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T16:14:57.355Z",
+  "backedUpAt": "2026-06-01T16:16:53.617Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -727,7 +727,7 @@
       "email": "beybaboo@gmail.com",
       "password": "oauth_1780322813993_8sddkpffnst",
       "role": "user",
-      "balance": 1150,
+      "balance": 2681,
       "created_at": "2026-06-01T14:06:54.643+00:00"
     }
   ],
