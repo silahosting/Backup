@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T17:09:10.198Z",
+  "backedUpAt": "2026-06-01T17:09:57.592Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -371,22 +371,22 @@
       "created_at": "2026-05-27T00:41:07.8+00:00"
     },
     {
-      "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
-      "username": "Sandi",
-      "email": "payshope52@gmail.com",
-      "password": "qwe12345",
-      "role": "user",
-      "balance": 1044,
-      "created_at": "2026-05-20T13:41:58.639+00:00"
-    },
-    {
       "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
       "username": "Alien",
       "email": "sgvxuffg@gmail.com",
       "password": "fahrihosting3",
       "role": "user",
-      "balance": 48602,
+      "balance": 49720,
       "created_at": "2026-05-26T20:37:37.803+00:00"
+    },
+    {
+      "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
+      "username": "Sandi",
+      "email": "payshope52@gmail.com",
+      "password": "qwe12345",
+      "role": "user",
+      "balance": 989,
+      "created_at": "2026-05-20T13:41:58.639+00:00"
     },
     {
       "id": "e902c0de-3a26-428b-8c39-95153b6951cc",
