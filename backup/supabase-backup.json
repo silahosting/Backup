@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T03:59:55.525Z",
+  "backedUpAt": "2026-06-01T04:01:50.829Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -225,6 +225,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-19T14:04:58.501+00:00"
+    },
+    {
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
+      "role": "user",
+      "balance": 13726,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
       "id": "ed651e7b-e65d-4bed-986b-b822222c1e75",
@@ -558,15 +567,6 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-29T02:41:13.641+00:00"
-    },
-    {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
-      "role": "user",
-      "balance": 11292,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
       "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
@@ -22095,32 +22095,6 @@
       "sms_msg": null
     },
     {
-      "id": "vlzoiyl19mpunthe5",
-      "user_id": "aryaakun015@gmail.com",
-      "user_email": "aryaakun015@gmail.com",
-      "type": "purchase",
-      "amount": 2911,
-      "fee": 1000,
-      "total": 2911,
-      "status": "success",
-      "deposit_id": "smscode_1806105",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-06-01T03:39:20.525+00:00",
-      "updated_at": "2026-06-01T03:47:24.062+00:00",
-      "order_id": "smscode_1806105",
-      "service_name": "WhatsApp",
-      "phone_number": "6285736161282",
-      "otp_code": "678512",
-      "country_name": "Indonesia",
-      "original_price": 1911,
-      "selling_price": 2911,
-      "profit": 1000,
-      "provider": "smscode",
-      "sms_msg": " Kode WhatsApp: 678-512"
-    },
-    {
       "id": "jq8eucj0rmpuo8a0q",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -22134,7 +22108,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-06-01T03:50:50.809+00:00",
-      "updated_at": "2026-06-01T03:55:24.847+00:00",
+      "updated_at": "2026-06-01T04:00:33.133+00:00",
       "order_id": "smscode_1806655",
       "service_name": "Any Other",
       "phone_number": "601161358260",
@@ -22160,7 +22134,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-06-01T03:52:12.204+00:00",
-      "updated_at": "2026-06-01T03:56:08.5+00:00",
+      "updated_at": "2026-06-01T04:01:13.438+00:00",
       "order_id": "smscode_1806696",
       "service_name": "Any Other",
       "phone_number": "601139664318",
@@ -26694,6 +26668,32 @@
       "selling_price": null,
       "profit": null,
       "provider": null,
+      "sms_msg": null
+    },
+    {
+      "id": "8f850xsj2mppg1ude",
+      "user_id": "user@email.com",
+      "user_email": "user@email.com",
+      "type": "purchase",
+      "amount": 5000,
+      "fee": 500,
+      "total": 5000,
+      "status": "success",
+      "deposit_id": "smscode_12345",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-05-28T12:03:02.786+00:00",
+      "updated_at": "2026-05-28T12:10:18.742+00:00",
+      "order_id": "smscode_12345",
+      "service_name": "WhatsApp",
+      "phone_number": "+628123456789",
+      "otp_code": "123456",
+      "country_name": "Indonesia",
+      "original_price": 4500,
+      "selling_price": 5000,
+      "profit": 500,
+      "provider": "smscode",
       "sms_msg": null
     }
   ],
