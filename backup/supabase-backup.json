@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T03:24:55.386Z",
+  "backedUpAt": "2026-06-01T03:26:50.820Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -691,7 +691,7 @@
       "email": "aryaakun015@gmail.com",
       "password": "Arya2009",
       "role": "user",
-      "balance": 238,
+      "balance": 3588,
       "created_at": "2026-05-31T15:25:40.643+00:00"
     }
   ],
