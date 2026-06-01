@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T11:51:52.750Z",
+  "backedUpAt": "2026-06-01T11:54:09.724Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -493,7 +493,7 @@
       "email": "salsanovember11@gmail.com",
       "password": "salsadila28",
       "role": "user",
-      "balance": 572,
+      "balance": 2072,
       "created_at": "2026-05-19T15:17:30.159+00:00"
     },
     {
