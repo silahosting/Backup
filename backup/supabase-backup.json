@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T15:46:53.509Z",
+  "backedUpAt": "2026-06-01T15:49:10.123Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -659,15 +659,6 @@
       "created_at": "2026-05-28T02:20:43.541+00:00"
     },
     {
-      "id": "1b023df2-9b9a-466e-bdde-700d22efaf3a",
-      "username": "Aryabaskara ",
-      "email": "aryaakun015@gmail.com",
-      "password": "Arya2009",
-      "role": "user",
-      "balance": 8793,
-      "created_at": "2026-05-31T15:25:40.643+00:00"
-    },
-    {
       "id": "2e134436-0843-4e14-b78c-4a8147d5094d",
       "username": "Kingza",
       "email": "kingzax666@gmail.com",
@@ -675,6 +666,15 @@
       "role": "user",
       "balance": 600,
       "created_at": "2026-06-01T07:59:50.019+00:00"
+    },
+    {
+      "id": "1b023df2-9b9a-466e-bdde-700d22efaf3a",
+      "username": "Aryabaskara ",
+      "email": "aryaakun015@gmail.com",
+      "password": "Arya2009",
+      "role": "user",
+      "balance": 4860,
+      "created_at": "2026-05-31T15:25:40.643+00:00"
     },
     {
       "id": "0ba3b770-b980-4904-9363-0934e872e2d8",
