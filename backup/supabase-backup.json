@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T20:09:10.207Z",
+  "backedUpAt": "2026-06-01T20:09:57.838Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -711,6 +711,15 @@
       "role": "user",
       "balance": 460,
       "created_at": "2026-05-31T15:25:40.643+00:00"
+    },
+    {
+      "id": "c488d256-0c44-409b-ad70-3ae3a31ff994",
+      "username": "Dek Qu",
+      "email": "qudek40@gmail.com",
+      "password": "oauth_1780344582110_r8tacm5svio",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-06-01T20:09:43.127+00:00"
     },
     {
       "id": "fdd74a0b-0ee9-4822-a8fa-dd9e8eb3f5b8",
