@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T14:21:53.291Z",
+  "backedUpAt": "2026-06-01T14:24:10.086Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -709,7 +709,7 @@
       "email": "naminesinten40@gmail.com",
       "password": "oauth_1780239809294_orooy6quauh",
       "role": "user",
-      "balance": 3859,
+      "balance": 1759,
       "created_at": "2026-05-31T15:03:29.824+00:00"
     },
     {
