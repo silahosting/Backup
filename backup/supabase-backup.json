@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T15:21:53.437Z",
+  "backedUpAt": "2026-06-01T15:24:10.142Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -668,15 +668,6 @@
       "created_at": "2026-05-31T15:47:16.132+00:00"
     },
     {
-      "id": "e1fd0bd9-887f-4dff-be5d-03cfa2d90ec7",
-      "username": "anindya",
-      "email": "beybaboo@gmail.com",
-      "password": "oauth_1780322813993_8sddkpffnst",
-      "role": "user",
-      "balance": 5212,
-      "created_at": "2026-06-01T14:06:54.643+00:00"
-    },
-    {
       "id": "6cdc7433-8e10-4beb-babd-ac5710a069a6",
       "username": "erfanuralim",
       "email": "erfanuralim@gmail.com",
@@ -727,8 +718,17 @@
       "email": "aryaakun015@gmail.com",
       "password": "Arya2009",
       "role": "user",
-      "balance": 8331,
+      "balance": 5920,
       "created_at": "2026-05-31T15:25:40.643+00:00"
+    },
+    {
+      "id": "e1fd0bd9-887f-4dff-be5d-03cfa2d90ec7",
+      "username": "anindya",
+      "email": "beybaboo@gmail.com",
+      "password": "oauth_1780322813993_8sddkpffnst",
+      "role": "user",
+      "balance": 4074,
+      "created_at": "2026-06-01T14:06:54.643+00:00"
     }
   ],
   "transactions": [
