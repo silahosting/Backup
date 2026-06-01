@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T08:26:51.873Z",
+  "backedUpAt": "2026-06-01T08:29:09.015Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -304,7 +304,7 @@
       "email": "ratu83323@gmail.com",
       "password": "Doaduludek",
       "role": "user",
-      "balance": 296,
+      "balance": 7844,
       "created_at": "2026-05-26T16:27:32.771+00:00"
     },
     {
