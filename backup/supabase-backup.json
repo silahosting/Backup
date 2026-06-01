@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T03:49:55.473Z",
+  "backedUpAt": "2026-06-01T03:51:50.841Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -371,15 +371,6 @@
       "created_at": "2026-05-27T00:41:07.8+00:00"
     },
     {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
-      "role": "user",
-      "balance": 8858,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
-    },
-    {
       "id": "caed60b8-46eb-4c07-805d-acd91848714b",
       "username": "Salsa dila juwita",
       "email": "salsanovember11@gmail.com",
@@ -567,6 +558,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-29T02:41:13.641+00:00"
+    },
+    {
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
+      "role": "user",
+      "balance": 11292,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
       "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
@@ -13827,6 +13827,32 @@
       "sms_msg": null
     },
     {
+      "id": "hu8m1n061mpul8a0m",
+      "user_id": "ryanramdann@gmail.com",
+      "user_email": "ryanramdann@gmail.com",
+      "type": "purchase",
+      "amount": 2821,
+      "fee": 1000,
+      "total": 2821,
+      "status": "success",
+      "deposit_id": "smscode_1802874",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-06-01T02:26:51.958+00:00",
+      "updated_at": "2026-06-01T03:51:40.073+00:00",
+      "order_id": "smscode_1802874",
+      "service_name": "WhatsApp",
+      "phone_number": "6283854712029",
+      "otp_code": "297423",
+      "country_name": "Indonesia",
+      "original_price": 1821,
+      "selling_price": 2821,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": " Kode WhatsApp: 297-423\nJangan bagikan kode ini dengan orang lain\n4sgLq1p5sV6"
+    },
+    {
       "id": "182uvux5kmpner7mg",
       "user_id": "testmazon2@gmail.com",
       "user_email": "testmazon2@gmail.com",
@@ -26668,32 +26694,6 @@
       "selling_price": 5000,
       "profit": 500,
       "provider": "smscode",
-      "sms_msg": null
-    },
-    {
-      "id": "0wmqsld8emppdff0h",
-      "user_id": "fahrihosting3@gmail.com",
-      "user_email": "fahrihosting3@gmail.com",
-      "type": "purchase",
-      "amount": 1128,
-      "fee": 1000,
-      "total": 1128,
-      "status": "cancel",
-      "deposit_id": "smscode_1590866",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-28T10:49:37.217+00:00",
-      "updated_at": "2026-05-28T10:59:13.546+00:00",
-      "order_id": null,
-      "service_name": null,
-      "phone_number": null,
-      "otp_code": null,
-      "country_name": null,
-      "original_price": null,
-      "selling_price": null,
-      "profit": null,
-      "provider": null,
       "sms_msg": null
     }
   ],
