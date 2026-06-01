@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T02:29:07.738Z",
+  "backedUpAt": "2026-06-01T02:29:55.162Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -299,15 +299,6 @@
       "created_at": "2026-05-23T09:09:36.519+00:00"
     },
     {
-      "id": "fb7e729e-7742-46d8-940d-01914570aa4f",
-      "username": "den gabos",
-      "email": "dengabos99@gmail.com",
-      "password": "oauth_1779521328057_cafcncku2nf",
-      "role": "user",
-      "balance": 4296,
-      "created_at": "2026-05-23T07:28:48.524+00:00"
-    },
-    {
       "id": "99c8c6c6-66f6-4340-bce9-74a4aac06b4c",
       "username": "karyanto",
       "email": "karyanto6@gmail.com",
@@ -369,6 +360,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-27T00:41:07.8+00:00"
+    },
+    {
+      "id": "fb7e729e-7742-46d8-940d-01914570aa4f",
+      "username": "den gabos",
+      "email": "dengabos99@gmail.com",
+      "password": "oauth_1779521328057_cafcncku2nf",
+      "role": "user",
+      "balance": 3167,
+      "created_at": "2026-05-23T07:28:48.524+00:00"
     },
     {
       "id": "caed60b8-46eb-4c07-805d-acd91848714b",
@@ -664,7 +664,7 @@
       "email": "aryaakun015@gmail.com",
       "password": "Arya2009",
       "role": "user",
-      "balance": 7011,
+      "balance": 4153,
       "created_at": "2026-05-31T15:25:40.643+00:00"
     },
     {
