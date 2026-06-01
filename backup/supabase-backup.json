@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T11:24:56.176Z",
+  "backedUpAt": "2026-06-01T11:26:52.669Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -502,7 +502,7 @@
       "email": "testmazon3@gmail.com",
       "password": "oauth_1779848693503_keqpnoxddf",
       "role": "user",
-      "balance": 14242,
+      "balance": 13549,
       "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
