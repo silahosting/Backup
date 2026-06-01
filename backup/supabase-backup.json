@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T03:29:55.400Z",
+  "backedUpAt": "2026-06-01T03:31:50.827Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -691,7 +691,7 @@
       "email": "aryaakun015@gmail.com",
       "password": "Arya2009",
       "role": "user",
-      "balance": 791,
+      "balance": 759,
       "created_at": "2026-05-31T15:25:40.643+00:00"
     }
   ],
@@ -19027,32 +19027,6 @@
       "sms_msg": null
     },
     {
-      "id": "0jm7x49nzmpunew3d",
-      "user_id": "aryaakun015@gmail.com",
-      "user_email": "aryaakun015@gmail.com",
-      "type": "purchase",
-      "amount": 2797,
-      "fee": 1000,
-      "total": 2797,
-      "status": "pending",
-      "deposit_id": "smscode_1805653",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-06-01T03:27:59.737+00:00",
-      "updated_at": "2026-06-01T03:27:59.737+00:00",
-      "order_id": "smscode_1805653",
-      "service_name": "WhatsApp",
-      "phone_number": "6285198755369",
-      "otp_code": "-",
-      "country_name": "Indonesia",
-      "original_price": 1797,
-      "selling_price": 2797,
-      "profit": 1000,
-      "provider": "smscode",
-      "sms_msg": null
-    },
-    {
       "id": "djlb1isacmpu8r7td",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -22038,6 +22012,32 @@
       "country_name": "Indonesia",
       "original_price": 2062,
       "selling_price": 3062,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": null
+    },
+    {
+      "id": "0jm7x49nzmpunew3d",
+      "user_id": "aryaakun015@gmail.com",
+      "user_email": "aryaakun015@gmail.com",
+      "type": "purchase",
+      "amount": 2797,
+      "fee": 1000,
+      "total": 2797,
+      "status": "cancel",
+      "deposit_id": "smscode_1805653",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-06-01T03:27:59.737+00:00",
+      "updated_at": "2026-06-01T03:31:42.849+00:00",
+      "order_id": "smscode_1805653",
+      "service_name": "WhatsApp",
+      "phone_number": "6285198755369",
+      "otp_code": "-",
+      "country_name": "Indonesia",
+      "original_price": 1797,
+      "selling_price": 2797,
       "profit": 1000,
       "provider": "smscode",
       "sms_msg": null
