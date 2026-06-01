@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T00:14:54.707Z",
+  "backedUpAt": "2026-06-01T00:16:50.629Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -13340,13 +13340,13 @@
       "amount": 14500,
       "fee": 551,
       "total": 15051,
-      "status": "pending",
+      "status": "success",
       "deposit_id": "TRX-1780272855660-H3M5I",
       "qr_image": "https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405150515802ID5925ASR%20GROUP%2C%20Digital%20Servic6005TEGAL61055241262070703A0163043AE5&ecc=M",
       "qr_string": "00020101021226610014COM.GO-JEK.WWW01189360091439799497990210G9799497990303UMI51440014ID.CO.QRIS.WWW0215ID10243479024870303UMI5204581653033605405150515802ID5925ASR GROUP, Digital Servic6005TEGAL61055241262070703A0163043AE5",
       "expired_at": "2026-06-01T00:29:15.66+00:00",
       "created_at": "2026-06-01T00:14:17.732+00:00",
-      "updated_at": "2026-06-01T00:14:17.732+00:00",
+      "updated_at": "2026-06-01T00:15:11.837+00:00",
       "order_id": null,
       "service_name": null,
       "phone_number": null,
