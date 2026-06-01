@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T03:54:55.491Z",
+  "backedUpAt": "2026-06-01T03:56:50.840Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -371,15 +371,6 @@
       "created_at": "2026-05-27T00:41:07.8+00:00"
     },
     {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
-      "role": "user",
-      "balance": 9909,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
-    },
-    {
       "id": "caed60b8-46eb-4c07-805d-acd91848714b",
       "username": "Salsa dila juwita",
       "email": "salsanovember11@gmail.com",
@@ -567,6 +558,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-29T02:41:13.641+00:00"
+    },
+    {
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
+      "role": "user",
+      "balance": 11292,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
       "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
@@ -13203,32 +13203,6 @@
       "sms_msg": null
     },
     {
-      "id": "lc256rt00mpu24te5",
-      "user_id": "payshope52@gmail.com",
-      "user_email": "payshope52@gmail.com",
-      "type": "purchase",
-      "amount": 1497,
-      "fee": 1000,
-      "total": 1497,
-      "status": "success",
-      "deposit_id": "smscode_1783615",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-05-31T17:32:17.741+00:00",
-      "updated_at": "2026-05-31T17:59:34.032+00:00",
-      "order_id": "smscode_1783615",
-      "service_name": "Shopee",
-      "phone_number": "6287742340713",
-      "otp_code": "623620",
-      "country_name": "Indonesia",
-      "original_price": 497,
-      "selling_price": 1497,
-      "profit": 1000,
-      "provider": "smscode",
-      "sms_msg": "Shopee: JANGAN BERIKAN pada siapa pun, TERMASUK SHOPEE. Kode OTP 623620 untuk UPDATE NO. HP.\njKPmMcdNAgI"
-    },
-    {
       "id": "zyqo0e8immpsr58mk",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -22160,10 +22134,36 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-06-01T03:50:50.809+00:00",
-      "updated_at": "2026-06-01T03:54:16.309+00:00",
+      "updated_at": "2026-06-01T03:55:24.847+00:00",
       "order_id": "smscode_1806655",
       "service_name": "Any Other",
       "phone_number": "601161358260",
+      "otp_code": "-",
+      "country_name": "Malaysia",
+      "original_price": 1434,
+      "selling_price": 2434,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": null
+    },
+    {
+      "id": "4p6tf6y34mpuoa0to",
+      "user_id": "testmazon3@gmail.com",
+      "user_email": "testmazon3@gmail.com",
+      "type": "purchase",
+      "amount": 2434,
+      "fee": 1000,
+      "total": 2434,
+      "status": "cancel",
+      "deposit_id": "smscode_1806696",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-06-01T03:52:12.204+00:00",
+      "updated_at": "2026-06-01T03:56:08.5+00:00",
+      "order_id": "smscode_1806696",
+      "service_name": "Any Other",
+      "phone_number": "601139664318",
       "otp_code": "-",
       "country_name": "Malaysia",
       "original_price": 1434,
