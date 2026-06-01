@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T20:19:57.507Z",
+  "backedUpAt": "2026-06-01T20:21:53.242Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -713,15 +713,6 @@
       "created_at": "2026-05-31T15:25:40.643+00:00"
     },
     {
-      "id": "c488d256-0c44-409b-ad70-3ae3a31ff994",
-      "username": "Dek Qu",
-      "email": "qudek40@gmail.com",
-      "password": "oauth_1780344582110_r8tacm5svio",
-      "role": "user",
-      "balance": 3000,
-      "created_at": "2026-06-01T20:09:43.127+00:00"
-    },
-    {
       "id": "fdd74a0b-0ee9-4822-a8fa-dd9e8eb3f5b8",
       "username": "Ishana Athari",
       "email": "shana22.athari@gmail.com",
@@ -729,6 +720,15 @@
       "role": "user",
       "balance": 8862,
       "created_at": "2026-05-30T14:28:36.416+00:00"
+    },
+    {
+      "id": "c488d256-0c44-409b-ad70-3ae3a31ff994",
+      "username": "Dek Qu",
+      "email": "qudek40@gmail.com",
+      "password": "oauth_1780344582110_r8tacm5svio",
+      "role": "user",
+      "balance": 263,
+      "created_at": "2026-06-01T20:09:43.127+00:00"
     },
     {
       "id": "e1fd0bd9-887f-4dff-be5d-03cfa2d90ec7",
