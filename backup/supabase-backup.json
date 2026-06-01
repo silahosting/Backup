@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T08:11:51.797Z",
+  "backedUpAt": "2026-06-01T08:14:08.967Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -664,7 +664,7 @@
       "email": "kingzax666@gmail.com",
       "password": "82Z5qeYyqyue7R4",
       "role": "user",
-      "balance": 4000,
+      "balance": 600,
       "created_at": "2026-06-01T07:59:50.019+00:00"
     },
     {
