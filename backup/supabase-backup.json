@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T16:09:57.302Z",
+  "backedUpAt": "2026-06-01T16:11:53.583Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -713,15 +713,6 @@
       "created_at": "2026-06-01T14:38:22.368+00:00"
     },
     {
-      "id": "e1fd0bd9-887f-4dff-be5d-03cfa2d90ec7",
-      "username": "anindya",
-      "email": "beybaboo@gmail.com",
-      "password": "oauth_1780322813993_8sddkpffnst",
-      "role": "user",
-      "balance": 1327,
-      "created_at": "2026-06-01T14:06:54.643+00:00"
-    },
-    {
       "id": "fdd74a0b-0ee9-4822-a8fa-dd9e8eb3f5b8",
       "username": "Ishana Athari",
       "email": "shana22.athari@gmail.com",
@@ -729,6 +720,15 @@
       "role": "user",
       "balance": 8862,
       "created_at": "2026-05-30T14:28:36.416+00:00"
+    },
+    {
+      "id": "e1fd0bd9-887f-4dff-be5d-03cfa2d90ec7",
+      "username": "anindya",
+      "email": "beybaboo@gmail.com",
+      "password": "oauth_1780322813993_8sddkpffnst",
+      "role": "user",
+      "balance": 1150,
+      "created_at": "2026-06-01T14:06:54.643+00:00"
     }
   ],
   "transactions": [
