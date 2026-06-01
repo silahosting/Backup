@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T13:26:53.292Z",
+  "backedUpAt": "2026-06-01T13:29:09.960Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -695,6 +695,15 @@
       "created_at": "2026-05-31T15:03:29.824+00:00"
     },
     {
+      "id": "1b023df2-9b9a-466e-bdde-700d22efaf3a",
+      "username": "Aryabaskara ",
+      "email": "aryaakun015@gmail.com",
+      "password": "Arya2009",
+      "role": "user",
+      "balance": 9677,
+      "created_at": "2026-05-31T15:25:40.643+00:00"
+    },
+    {
       "id": "fdd74a0b-0ee9-4822-a8fa-dd9e8eb3f5b8",
       "username": "Ishana Athari",
       "email": "shana22.athari@gmail.com",
@@ -702,15 +711,6 @@
       "role": "user",
       "balance": 8862,
       "created_at": "2026-05-30T14:28:36.416+00:00"
-    },
-    {
-      "id": "1b023df2-9b9a-466e-bdde-700d22efaf3a",
-      "username": "Aryabaskara ",
-      "email": "aryaakun015@gmail.com",
-      "password": "Arya2009",
-      "role": "user",
-      "balance": 677,
-      "created_at": "2026-05-31T15:25:40.643+00:00"
     }
   ],
   "transactions": [
@@ -21775,32 +21775,6 @@
       "sms_msg": null
     },
     {
-      "id": "pwwfzchptmpun8j69",
-      "user_id": "aryaakun015@gmail.com",
-      "user_email": "aryaakun015@gmail.com",
-      "type": "purchase",
-      "amount": 3350,
-      "fee": 1000,
-      "total": 3350,
-      "status": "pending",
-      "deposit_id": "RO0012752696",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-06-01T03:23:03.057+00:00",
-      "updated_at": "2026-06-01T03:23:03.057+00:00",
-      "order_id": "RO0012752696",
-      "service_name": "WhatsApp",
-      "phone_number": "+62 878 6849 0921",
-      "otp_code": "-",
-      "country_name": "Indonesia",
-      "original_price": 2350,
-      "selling_price": 3350,
-      "profit": 1000,
-      "provider": "rumahotp",
-      "sms_msg": null
-    },
-    {
       "id": "u1kyw97idmpulc7u0",
       "user_id": "dengabos99@gmail.com",
       "user_email": "dengabos99@gmail.com",
@@ -22136,6 +22110,32 @@
       "selling_price": 2434,
       "profit": 1000,
       "provider": "smscode",
+      "sms_msg": null
+    },
+    {
+      "id": "pwwfzchptmpun8j69",
+      "user_id": "aryaakun015@gmail.com",
+      "user_email": "aryaakun015@gmail.com",
+      "type": "purchase",
+      "amount": 3350,
+      "fee": 1000,
+      "total": 3350,
+      "status": "expired",
+      "deposit_id": "RO0012752696",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-06-01T03:23:03.057+00:00",
+      "updated_at": "2026-06-01T13:28:58.536+00:00",
+      "order_id": "RO0012752696",
+      "service_name": "WhatsApp",
+      "phone_number": "+62 878 6849 0921",
+      "otp_code": "-",
+      "country_name": "Indonesia",
+      "original_price": 2350,
+      "selling_price": 3350,
+      "profit": 1000,
+      "provider": "rumahotp",
       "sms_msg": null
     },
     {
