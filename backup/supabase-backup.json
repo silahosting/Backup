@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T03:14:55.336Z",
+  "backedUpAt": "2026-06-01T03:16:50.836Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -677,15 +677,6 @@
       "created_at": "2026-05-30T06:57:50.426+00:00"
     },
     {
-      "id": "1b023df2-9b9a-466e-bdde-700d22efaf3a",
-      "username": "Aryabaskara ",
-      "email": "aryaakun015@gmail.com",
-      "password": "Arya2009",
-      "role": "user",
-      "balance": 526,
-      "created_at": "2026-05-31T15:25:40.643+00:00"
-    },
-    {
       "id": "fdd74a0b-0ee9-4822-a8fa-dd9e8eb3f5b8",
       "username": "Ishana Athari",
       "email": "shana22.athari@gmail.com",
@@ -693,6 +684,15 @@
       "role": "user",
       "balance": 8862,
       "created_at": "2026-05-30T14:28:36.416+00:00"
+    },
+    {
+      "id": "1b023df2-9b9a-466e-bdde-700d22efaf3a",
+      "username": "Aryabaskara ",
+      "email": "aryaakun015@gmail.com",
+      "password": "Arya2009",
+      "role": "user",
+      "balance": 793,
+      "created_at": "2026-05-31T15:25:40.643+00:00"
     }
   ],
   "transactions": [
@@ -19027,32 +19027,6 @@
       "sms_msg": null
     },
     {
-      "id": "45bvx1jw8mpumnshr",
-      "user_id": "aryaakun015@gmail.com",
-      "user_email": "aryaakun015@gmail.com",
-      "type": "purchase",
-      "amount": 2147,
-      "fee": 1000,
-      "total": 2147,
-      "status": "cancel",
-      "deposit_id": "smscode_1804605",
-      "qr_image": null,
-      "qr_string": null,
-      "expired_at": null,
-      "created_at": "2026-06-01T03:06:55.359+00:00",
-      "updated_at": "2026-06-01T03:10:54.864+00:00",
-      "order_id": "smscode_1804605",
-      "service_name": "Telegram",
-      "phone_number": "6283870677113",
-      "otp_code": "-",
-      "country_name": "Indonesia",
-      "original_price": 1147,
-      "selling_price": 2147,
-      "profit": 1000,
-      "provider": "smscode",
-      "sms_msg": null
-    },
-    {
       "id": "djlb1isacmpu8r7td",
       "user_id": "testmazon3@gmail.com",
       "user_email": "testmazon3@gmail.com",
@@ -19129,6 +19103,32 @@
       "profit": 1000,
       "provider": "smscode",
       "sms_msg": " Akun WhatsApp Anda sedang didaftarkan di perangkat baru\n\nJangan bagikan kode dengan siapa pun\nKode WhatsApp Anda: 309-784\n4sgLq1p5sV6"
+    },
+    {
+      "id": "45bvx1jw8mpumnshr",
+      "user_id": "aryaakun015@gmail.com",
+      "user_email": "aryaakun015@gmail.com",
+      "type": "purchase",
+      "amount": 2147,
+      "fee": 1000,
+      "total": 2147,
+      "status": "cancel",
+      "deposit_id": "smscode_1804605",
+      "qr_image": null,
+      "qr_string": null,
+      "expired_at": null,
+      "created_at": "2026-06-01T03:06:55.359+00:00",
+      "updated_at": "2026-06-01T03:16:02.239+00:00",
+      "order_id": "smscode_1804605",
+      "service_name": "Telegram",
+      "phone_number": "6283870677113",
+      "otp_code": "-",
+      "country_name": "Indonesia",
+      "original_price": 1147,
+      "selling_price": 2147,
+      "profit": 1000,
+      "provider": "smscode",
+      "sms_msg": null
     },
     {
       "id": "ldadhzgmrmpo2oesu",
