@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T13:51:53.185Z",
+  "backedUpAt": "2026-06-01T13:54:10.002Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -587,15 +587,6 @@
       "created_at": "2026-05-25T10:02:34.349+00:00"
     },
     {
-      "id": "1b023df2-9b9a-466e-bdde-700d22efaf3a",
-      "username": "Aryabaskara ",
-      "email": "aryaakun015@gmail.com",
-      "password": "Arya2009",
-      "role": "user",
-      "balance": 10579,
-      "created_at": "2026-05-31T15:25:40.643+00:00"
-    },
-    {
       "id": "3154b04f-f792-4644-b3e7-eec8ff407867",
       "username": "admin123",
       "email": "djsjjejsjssj@gmail.com",
@@ -610,8 +601,17 @@
       "email": "naminesinten40@gmail.com",
       "password": "oauth_1780239809294_orooy6quauh",
       "role": "user",
-      "balance": 6692,
+      "balance": 8839,
       "created_at": "2026-05-31T15:03:29.824+00:00"
+    },
+    {
+      "id": "1b023df2-9b9a-466e-bdde-700d22efaf3a",
+      "username": "Aryabaskara ",
+      "email": "aryaakun015@gmail.com",
+      "password": "Arya2009",
+      "role": "user",
+      "balance": 12827,
+      "created_at": "2026-05-31T15:25:40.643+00:00"
     },
     {
       "id": "59306f06-c75b-499c-9ee2-433f5c1dcb04",
