@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T05:09:08.050Z",
+  "backedUpAt": "2026-06-01T05:09:55.699Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -227,15 +227,6 @@
       "created_at": "2026-05-19T14:04:58.501+00:00"
     },
     {
-      "id": "fb7e729e-7742-46d8-940d-01914570aa4f",
-      "username": "den gabos",
-      "email": "dengabos99@gmail.com",
-      "password": "oauth_1779521328057_cafcncku2nf",
-      "role": "user",
-      "balance": 2799,
-      "created_at": "2026-05-23T07:28:48.524+00:00"
-    },
-    {
       "id": "ed651e7b-e65d-4bed-986b-b822222c1e75",
       "username": "Es Syam Riskyan",
       "email": "eriskyan@gmail.com",
@@ -297,6 +288,15 @@
       "role": "user",
       "balance": 7200,
       "created_at": "2026-05-23T09:09:36.519+00:00"
+    },
+    {
+      "id": "fb7e729e-7742-46d8-940d-01914570aa4f",
+      "username": "den gabos",
+      "email": "dengabos99@gmail.com",
+      "password": "oauth_1779521328057_cafcncku2nf",
+      "role": "user",
+      "balance": 1302,
+      "created_at": "2026-05-23T07:28:48.524+00:00"
     },
     {
       "id": "99c8c6c6-66f6-4340-bce9-74a4aac06b4c",
