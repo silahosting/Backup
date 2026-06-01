@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T02:36:50.790Z",
+  "backedUpAt": "2026-06-01T02:39:07.447Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -664,7 +664,7 @@
       "email": "aryaakun015@gmail.com",
       "password": "Arya2009",
       "role": "user",
-      "balance": 3838,
+      "balance": 6988,
       "created_at": "2026-05-31T15:25:40.643+00:00"
     },
     {
@@ -13736,7 +13736,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-06-01T02:28:31.01+00:00",
-      "updated_at": "2026-06-01T02:32:32.398+00:00",
+      "updated_at": "2026-06-01T02:37:44.022+00:00",
       "order_id": "smscode_1802937",
       "service_name": "WhatsApp",
       "phone_number": "6283131398638",
@@ -21692,7 +21692,7 @@
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-06-01T02:29:55.752+00:00",
-      "updated_at": "2026-06-01T02:33:45.847+00:00",
+      "updated_at": "2026-06-01T02:39:06.693+00:00",
       "order_id": "smscode_1802998",
       "service_name": "Twitter",
       "phone_number": "6285973211701",
