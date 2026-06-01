@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-01T02:59:07.436Z",
+  "backedUpAt": "2026-06-01T02:59:55.299Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -668,15 +668,6 @@
       "created_at": "2026-05-31T15:47:16.132+00:00"
     },
     {
-      "id": "1b023df2-9b9a-466e-bdde-700d22efaf3a",
-      "username": "Aryabaskara ",
-      "email": "aryaakun015@gmail.com",
-      "password": "Arya2009",
-      "role": "user",
-      "balance": 520,
-      "created_at": "2026-05-31T15:25:40.643+00:00"
-    },
-    {
       "id": "3922c71f-260a-4849-9cdd-a2cbdd1281d0",
       "username": "asu123",
       "email": "gullitauba@gmail.com",
@@ -684,6 +675,15 @@
       "role": "user",
       "balance": 100,
       "created_at": "2026-05-30T06:57:50.426+00:00"
+    },
+    {
+      "id": "1b023df2-9b9a-466e-bdde-700d22efaf3a",
+      "username": "Aryabaskara ",
+      "email": "aryaakun015@gmail.com",
+      "password": "Arya2009",
+      "role": "user",
+      "balance": 3588,
+      "created_at": "2026-05-31T15:25:40.643+00:00"
     },
     {
       "id": "fdd74a0b-0ee9-4822-a8fa-dd9e8eb3f5b8",
@@ -13756,13 +13756,13 @@
       "amount": 3068,
       "fee": 1000,
       "total": 3068,
-      "status": "pending",
+      "status": "cancel",
       "deposit_id": "smscode_1804146",
       "qr_image": null,
       "qr_string": null,
       "expired_at": null,
       "created_at": "2026-06-01T02:56:30.42+00:00",
-      "updated_at": "2026-06-01T02:56:30.42+00:00",
+      "updated_at": "2026-06-01T02:59:43.026+00:00",
       "order_id": "smscode_1804146",
       "service_name": "WhatsApp",
       "phone_number": "6283867807718",
