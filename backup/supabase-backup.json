@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-02T07:41:55.417Z",
+  "backedUpAt": "2026-06-02T07:44:12.615Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -26746,15 +26746,15 @@
   "maintenance": [
     {
       "id": 1,
-      "is_active": false,
+      "is_active": true,
       "is_recurring": false,
       "daily_start_time": null,
       "daily_end_time": null,
-      "start_time": null,
-      "end_time": null,
-      "reason": "",
-      "created_by": "System",
-      "updated_at": "2026-06-02T05:44:23.228+00:00"
+      "start_time": "2026-06-02T07:42:00+00:00",
+      "end_time": "2026-06-02T11:42:00+00:00",
+      "reason": "Maintenance sistem",
+      "created_by": "djsjjejsjssj@gmail.com",
+      "updated_at": "2026-06-02T07:42:53.927+00:00"
     }
   ]
 }
