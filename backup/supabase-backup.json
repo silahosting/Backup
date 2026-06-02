@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-02T17:45:01.280Z",
+  "backedUpAt": "2026-06-02T17:48:18.429Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -569,6 +569,15 @@
       "created_at": "2026-05-29T02:41:13.641+00:00"
     },
     {
+      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
+      "username": "test mazon3",
+      "email": "testmazon3@gmail.com",
+      "password": "oauth_1779848693503_keqpnoxddf",
+      "role": "user",
+      "balance": 1223,
+      "created_at": "2026-05-27T02:24:54.057+00:00"
+    },
+    {
       "id": "694700f1-d85d-44c8-81a2-43d06d2d23e8",
       "username": "MEMBER AIRASIA",
       "email": "airasia.member1@gmail.com",
@@ -576,15 +585,6 @@
       "role": "user",
       "balance": 8449,
       "created_at": "2026-05-26T22:47:59.44+00:00"
-    },
-    {
-      "id": "9a601a12-8cdb-4c6b-9e0b-0d8d008485da",
-      "username": "test mazon3",
-      "email": "testmazon3@gmail.com",
-      "password": "oauth_1779848693503_keqpnoxddf",
-      "role": "user",
-      "balance": 9223,
-      "created_at": "2026-05-27T02:24:54.057+00:00"
     },
     {
       "id": "3154b04f-f792-4644-b3e7-eec8ff407867",
