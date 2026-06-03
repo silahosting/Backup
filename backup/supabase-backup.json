@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-03T11:00:16.934Z",
+  "backedUpAt": "2026-06-03T11:03:21.577Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -594,6 +594,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-06-03T10:26:11.715+00:00"
+    },
+    {
+      "id": "05cf1030-fac4-48f9-a3ef-e5ff9adc0b6a",
+      "username": "Bentar juandi",
+      "email": "bentartatto@gmail.com",
+      "password": "alena28",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-06-03T11:02:36.577+00:00"
     },
     {
       "id": "3154b04f-f792-4644-b3e7-eec8ff407867",
