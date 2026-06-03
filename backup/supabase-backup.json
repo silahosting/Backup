@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-03T14:30:04.524Z",
+  "backedUpAt": "2026-06-03T14:33:22.544Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -488,15 +488,6 @@
       "created_at": "2026-05-25T10:02:34.349+00:00"
     },
     {
-      "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
-      "username": "Sandi",
-      "email": "payshope52@gmail.com",
-      "password": "qwe12345",
-      "role": "user",
-      "balance": 7521,
-      "created_at": "2026-05-20T13:41:58.639+00:00"
-    },
-    {
       "id": "be6bb2e8-d854-4051-9018-eee68a008837",
       "username": "tester72",
       "email": "t8990304@gmail.com",
@@ -578,6 +569,15 @@
       "created_at": "2026-05-26T22:47:59.44+00:00"
     },
     {
+      "id": "62d098ec-4111-4add-8d8f-56d7bd19820c",
+      "username": "Sandi",
+      "email": "payshope52@gmail.com",
+      "password": "qwe12345",
+      "role": "user",
+      "balance": 5958,
+      "created_at": "2026-05-20T13:41:58.639+00:00"
+    },
+    {
       "id": "fa2f60e8-4093-4ae5-b270-167d5fe50366",
       "username": "anggreini",
       "email": "rafirizal515@gmail.com",
@@ -603,6 +603,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-06-03T11:02:36.577+00:00"
+    },
+    {
+      "id": "a8527846-ff17-4314-a621-ca048824b375",
+      "username": "Dio Andi maulana",
+      "email": "dioandimaulana47@gmail.com",
+      "password": "oauth_1780497120910_j8cg1cvfeu",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-06-03T14:32:01.483+00:00"
     },
     {
       "id": "3154b04f-f792-4644-b3e7-eec8ff407867",
