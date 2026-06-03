@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-03T14:35:04.564Z",
+  "backedUpAt": "2026-06-03T14:38:22.567Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -290,15 +290,6 @@
       "created_at": "2026-05-23T09:09:36.519+00:00"
     },
     {
-      "id": "ec3b0e5a-db85-4676-85f4-a25e15bac55a",
-      "username": "dewi",
-      "email": "ratu83323@gmail.com",
-      "password": "Doaduludek",
-      "role": "user",
-      "balance": 7903,
-      "created_at": "2026-05-26T16:27:32.771+00:00"
-    },
-    {
       "id": "99c8c6c6-66f6-4340-bce9-74a4aac06b4c",
       "username": "karyanto",
       "email": "karyanto6@gmail.com",
@@ -488,6 +479,15 @@
       "created_at": "2026-05-25T10:02:34.349+00:00"
     },
     {
+      "id": "ec3b0e5a-db85-4676-85f4-a25e15bac55a",
+      "username": "dewi",
+      "email": "ratu83323@gmail.com",
+      "password": "Doaduludek",
+      "role": "user",
+      "balance": 6550,
+      "created_at": "2026-05-26T16:27:32.771+00:00"
+    },
+    {
       "id": "be6bb2e8-d854-4051-9018-eee68a008837",
       "username": "tester72",
       "email": "t8990304@gmail.com",
@@ -612,6 +612,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-06-03T14:32:01.483+00:00"
+    },
+    {
+      "id": "944cad47-4ce1-4e54-a9fc-544ac0b02d68",
+      "username": "Zum",
+      "email": "zumrotulkaromah2002@gmail.com",
+      "password": "220202",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-06-03T14:35:32.955+00:00"
     },
     {
       "id": "3154b04f-f792-4644-b3e7-eec8ff407867",
