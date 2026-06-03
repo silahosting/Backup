@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-03T07:04:16.161Z",
+  "backedUpAt": "2026-06-03T07:05:03.575Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -731,15 +731,6 @@
       "created_at": "2026-05-30T14:28:36.416+00:00"
     },
     {
-      "id": "2e134436-0843-4e14-b78c-4a8147d5094d",
-      "username": "Kingza",
-      "email": "kingzax666@gmail.com",
-      "password": "82Z5qeYyqyue7R4",
-      "role": "user",
-      "balance": 5600,
-      "created_at": "2026-06-01T07:59:50.019+00:00"
-    },
-    {
       "id": "facc9e7a-e556-494d-9296-0f5e435d0612",
       "username": "Ahmad Mik",
       "email": "ahmadmik917@gmail.com",
@@ -747,6 +738,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-06-03T04:24:59.423+00:00"
+    },
+    {
+      "id": "2e134436-0843-4e14-b78c-4a8147d5094d",
+      "username": "Kingza",
+      "email": "kingzax666@gmail.com",
+      "password": "82Z5qeYyqyue7R4",
+      "role": "user",
+      "balance": 2150,
+      "created_at": "2026-06-01T07:59:50.019+00:00"
     }
   ],
   "transactions": [
