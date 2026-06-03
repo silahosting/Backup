@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-03T07:20:03.647Z",
+  "backedUpAt": "2026-06-03T07:23:21.457Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -747,6 +747,15 @@
       "role": "user",
       "balance": 2150,
       "created_at": "2026-06-01T07:59:50.019+00:00"
+    },
+    {
+      "id": "51e906df-f05f-422c-b736-a1580ff59938",
+      "username": "Aghi Ss",
+      "email": "aghisutama@gmail.com",
+      "password": "oauth_1780471217201_he82442gxbf",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-06-03T07:20:17.749+00:00"
     }
   ],
   "transactions": [
