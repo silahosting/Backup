@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-04T05:08:24.962Z",
+  "backedUpAt": "2026-06-04T05:10:07.873Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -666,6 +666,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-06-04T02:17:47.778+00:00"
+    },
+    {
+      "id": "deaa756d-e886-46d9-b5cb-bb2555d5f436",
+      "username": "MARAT Safana",
+      "email": "maratsafana27@gmail.com",
+      "password": "oauth_1780549751482_kj54il7nq3k",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-06-04T05:09:12.434+00:00"
     },
     {
       "id": "32f90c4f-b2a3-47d4-a8e1-9e23a00d86d6",
