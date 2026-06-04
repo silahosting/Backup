@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-04T04:00:07.765Z",
+  "backedUpAt": "2026-06-04T04:02:16.654Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -371,15 +371,6 @@
       "created_at": "2026-05-26T20:37:37.803+00:00"
     },
     {
-      "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
-      "username": "Andhima Abdul Ghaaniy",
-      "email": "andhimazahran@gmail.com",
-      "password": "oauth_1779591284162_lzkgqn4rtve",
-      "role": "user",
-      "balance": 6872,
-      "created_at": "2026-05-24T02:54:44.687+00:00"
-    },
-    {
       "id": "e902c0de-3a26-428b-8c39-95153b6951cc",
       "username": "Aiku Arisawa",
       "email": "areklibast@gmail.com",
@@ -522,6 +513,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-28T11:31:42.86+00:00"
+    },
+    {
+      "id": "6158b45f-b001-4448-96f4-43bec48dce0a",
+      "username": "Andhima Abdul Ghaaniy",
+      "email": "andhimazahran@gmail.com",
+      "password": "oauth_1779591284162_lzkgqn4rtve",
+      "role": "user",
+      "balance": 4024,
+      "created_at": "2026-05-24T02:54:44.687+00:00"
     },
     {
       "id": "a4fe5ccd-52b5-4f85-ab70-e63a1eb00401",
