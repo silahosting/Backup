@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-04T07:51:40.924Z",
+  "backedUpAt": "2026-06-04T07:53:25.787Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -727,7 +727,7 @@
       "email": "rindapresmana@gmail.com",
       "password": "Tetsuya123",
       "role": "user",
-      "balance": 6700,
+      "balance": 5050,
       "created_at": "2026-06-04T06:05:01.195+00:00"
     },
     {
@@ -736,7 +736,7 @@
       "email": "kingzax666@gmail.com",
       "password": "82Z5qeYyqyue7R4",
       "role": "user",
-      "balance": 5600,
+      "balance": 1800,
       "created_at": "2026-06-01T07:59:50.019+00:00"
     },
     {
