@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-04T04:40:07.873Z",
+  "backedUpAt": "2026-06-04T04:42:16.821Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -520,7 +520,7 @@
       "email": "lubisricis04@gmail.com",
       "password": "oauth_1779703353803_fla4ijw20qn",
       "role": "user",
-      "balance": 883,
+      "balance": 602,
       "created_at": "2026-05-25T10:02:34.349+00:00"
     },
     {
