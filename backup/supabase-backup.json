@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-04T04:22:16.731Z",
+  "backedUpAt": "2026-06-04T04:23:24.717Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -371,6 +371,15 @@
       "created_at": "2026-05-26T20:37:37.803+00:00"
     },
     {
+      "id": "ec662b69-52cf-4853-b497-0eb345f26772",
+      "username": "Ricis Lubis",
+      "email": "lubisricis04@gmail.com",
+      "password": "oauth_1779703353803_fla4ijw20qn",
+      "role": "user",
+      "balance": 3717,
+      "created_at": "2026-05-25T10:02:34.349+00:00"
+    },
+    {
       "id": "e902c0de-3a26-428b-8c39-95153b6951cc",
       "username": "Aiku Arisawa",
       "email": "areklibast@gmail.com",
@@ -468,15 +477,6 @@
       "role": "user",
       "balance": 1428,
       "created_at": "2026-05-26T22:10:38.749+00:00"
-    },
-    {
-      "id": "ec662b69-52cf-4853-b497-0eb345f26772",
-      "username": "Ricis Lubis",
-      "email": "lubisricis04@gmail.com",
-      "password": "oauth_1779703353803_fla4ijw20qn",
-      "role": "user",
-      "balance": 7217,
-      "created_at": "2026-05-25T10:02:34.349+00:00"
     },
     {
       "id": "9b3f403b-b229-4a6d-87da-87c4298004db",
