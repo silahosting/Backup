@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-04T12:45:08.346Z",
+  "backedUpAt": "2026-06-04T12:46:42.313Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -502,7 +502,7 @@
       "email": "ratu83323@gmail.com",
       "password": "Doaduludek",
       "role": "user",
-      "balance": 3478,
+      "balance": 3755,
       "created_at": "2026-05-26T16:27:32.771+00:00"
     },
     {
@@ -790,7 +790,7 @@
       "email": "mamaalisa0304@gmail.com",
       "password": "050922",
       "role": "user",
-      "balance": 0,
+      "balance": 10000,
       "created_at": "2026-06-04T12:20:16.252+00:00"
     },
     {
