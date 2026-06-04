@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-04T11:41:42.115Z",
+  "backedUpAt": "2026-06-04T11:43:26.758Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -650,15 +650,6 @@
       "created_at": "2026-05-30T03:40:34.436+00:00"
     },
     {
-      "id": "75af7111-064e-42a9-a22e-98fe0fb8d627",
-      "username": "C",
-      "email": "fluffyyccake@gmail.com",
-      "password": "oauth_1780482371191_6ty5clto3u5",
-      "role": "user",
-      "balance": 350,
-      "created_at": "2026-06-03T10:26:11.715+00:00"
-    },
-    {
       "id": "9e669ef9-0147-4127-8155-764109ccd5ac",
       "username": "Oki",
       "email": "sergeser752@gmail.com",
@@ -756,6 +747,15 @@
       "role": "user",
       "balance": 5600,
       "created_at": "2026-06-01T07:59:50.019+00:00"
+    },
+    {
+      "id": "75af7111-064e-42a9-a22e-98fe0fb8d627",
+      "username": "C",
+      "email": "fluffyyccake@gmail.com",
+      "password": "oauth_1780482371191_6ty5clto3u5",
+      "role": "user",
+      "balance": 2350,
+      "created_at": "2026-06-03T10:26:11.715+00:00"
     },
     {
       "id": "633b0fbe-1b3f-48c8-a69f-e6ace89646cb",
