@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-05T07:08:29.749Z",
+  "backedUpAt": "2026-06-05T07:11:45.532Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -729,6 +729,15 @@
       "role": "user",
       "balance": 2461,
       "created_at": "2026-06-04T12:20:16.252+00:00"
+    },
+    {
+      "id": "86146e2e-6b2e-4660-9511-a2dde1cffb51",
+      "username": "allpublic20",
+      "email": "sianying676@gmail.com",
+      "password": "oauth_1780643479471_jmw9lwrngu",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-06-05T07:11:20.042+00:00"
     },
     {
       "id": "6cdc7433-8e10-4beb-babd-ac5710a069a6",
