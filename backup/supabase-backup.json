@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-05T04:48:29.355Z",
+  "backedUpAt": "2026-06-05T04:51:45.158Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -695,15 +695,6 @@
       "created_at": "2026-05-28T02:20:43.541+00:00"
     },
     {
-      "id": "c21d5162-e6e1-4aa6-8873-5cf82aa71093",
-      "username": "Tekirok",
-      "email": "rindapresmana@gmail.com",
-      "password": "Tetsuya123",
-      "role": "user",
-      "balance": 1650,
-      "created_at": "2026-06-04T06:05:01.195+00:00"
-    },
-    {
       "id": "deaa756d-e886-46d9-b5cb-bb2555d5f436",
       "username": "MARAT Safana",
       "email": "maratsafana27@gmail.com",
@@ -729,6 +720,15 @@
       "role": "user",
       "balance": 8200,
       "created_at": "2026-06-04T12:20:16.252+00:00"
+    },
+    {
+      "id": "c21d5162-e6e1-4aa6-8873-5cf82aa71093",
+      "username": "Tekirok",
+      "email": "rindapresmana@gmail.com",
+      "password": "Tetsuya123",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-06-04T06:05:01.195+00:00"
     },
     {
       "id": "6cdc7433-8e10-4beb-babd-ac5710a069a6",
