@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-05T07:23:29.818Z",
+  "backedUpAt": "2026-06-05T07:26:45.564Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -801,6 +801,15 @@
       "role": "user",
       "balance": 263,
       "created_at": "2026-06-01T20:09:43.127+00:00"
+    },
+    {
+      "id": "496dfa48-ca4c-4813-b094-ff194248a1cf",
+      "username": "Ferdinan Muzaki",
+      "email": "ferdinanamuzaki@gmail.com",
+      "password": "oauth_1780644302030_s1wupfm3wig",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-06-05T07:25:02.73+00:00"
     },
     {
       "id": "e1fd0bd9-887f-4dff-be5d-03cfa2d90ec7",
