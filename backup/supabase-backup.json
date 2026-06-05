@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-05T11:31:45.842Z",
+  "backedUpAt": "2026-06-05T11:33:30.387Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -628,7 +628,7 @@
       "email": "rimlonga@gmail.com",
       "password": "999999",
       "role": "user",
-      "balance": 7484,
+      "balance": 3104,
       "created_at": "2026-06-05T11:22:25.48+00:00"
     },
     {
