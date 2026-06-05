@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-05T11:26:45.851Z",
+  "backedUpAt": "2026-06-05T11:28:30.130Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -331,7 +331,7 @@
       "email": "salsanovember11@gmail.com",
       "password": "salsadila28",
       "role": "user",
-      "balance": 2390,
+      "balance": 4207,
       "created_at": "2026-05-19T15:17:30.159+00:00"
     },
     {
@@ -880,7 +880,7 @@
       "email": "rimlonga@gmail.com",
       "password": "999999",
       "role": "user",
-      "balance": 12800,
+      "balance": 9617,
       "created_at": "2026-06-05T11:22:25.48+00:00"
     }
   ],
