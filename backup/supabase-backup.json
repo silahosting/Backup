@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-05T20:58:32.219Z",
+  "backedUpAt": "2026-06-05T21:01:48.070Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -774,6 +774,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-06-04T06:05:01.195+00:00"
+    },
+    {
+      "id": "21d6bced-98ea-444a-a361-36dc3a9453d4",
+      "username": "Muhamad",
+      "email": "muhamadrezapadilah11@gmail.com",
+      "password": "Muhamadreza12",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-06-05T21:00:43.671+00:00"
     },
     {
       "id": "86146e2e-6b2e-4660-9511-a2dde1cffb51",
