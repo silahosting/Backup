@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-05T17:16:47.103Z",
+  "backedUpAt": "2026-06-05T17:18:31.450Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -747,6 +747,15 @@
       "role": "user",
       "balance": 5600,
       "created_at": "2026-06-01T07:59:50.019+00:00"
+    },
+    {
+      "id": "2f76eac2-2df0-439b-bd72-dc3c36581900",
+      "username": "udin",
+      "email": "udinsaepudin2980@gmail.com",
+      "password": "oauth_1780679898668_efuveamrv4s",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-06-05T17:18:19.185+00:00"
     },
     {
       "id": "c21d5162-e6e1-4aa6-8873-5cf82aa71093",
