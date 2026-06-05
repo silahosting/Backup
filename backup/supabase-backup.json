@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-05T04:46:45.199Z",
+  "backedUpAt": "2026-06-05T04:48:29.355Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -727,7 +727,7 @@
       "email": "mamaalisa0304@gmail.com",
       "password": "050922",
       "role": "user",
-      "balance": 5890,
+      "balance": 8200,
       "created_at": "2026-06-04T12:20:16.252+00:00"
     },
     {
