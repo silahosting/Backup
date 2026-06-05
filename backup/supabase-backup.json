@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-05T04:21:45.110Z",
+  "backedUpAt": "2026-06-05T04:23:29.269Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -650,15 +650,6 @@
       "created_at": "2026-05-30T03:40:34.436+00:00"
     },
     {
-      "id": "06b5e0e8-bf5d-4527-b6a9-dcd09b2fa910",
-      "username": "ALFINA FAUZIAH",
-      "email": "mamaalisa0304@gmail.com",
-      "password": "050922",
-      "role": "user",
-      "balance": 8200,
-      "created_at": "2026-06-04T12:20:16.252+00:00"
-    },
-    {
       "id": "9e669ef9-0147-4127-8155-764109ccd5ac",
       "username": "Oki",
       "email": "sergeser752@gmail.com",
@@ -702,6 +693,15 @@
       "role": "user",
       "balance": 480,
       "created_at": "2026-05-28T02:20:43.541+00:00"
+    },
+    {
+      "id": "06b5e0e8-bf5d-4527-b6a9-dcd09b2fa910",
+      "username": "ALFINA FAUZIAH",
+      "email": "mamaalisa0304@gmail.com",
+      "password": "050922",
+      "role": "user",
+      "balance": 6842,
+      "created_at": "2026-06-04T12:20:16.252+00:00"
     },
     {
       "id": "deaa756d-e886-46d9-b5cb-bb2555d5f436",
