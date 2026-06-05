@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-05T16:18:31.178Z",
+  "backedUpAt": "2026-06-05T16:21:46.874Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -614,15 +614,6 @@
       "created_at": "2026-06-03T14:35:32.955+00:00"
     },
     {
-      "id": "3154b04f-f792-4644-b3e7-eec8ff407867",
-      "username": "admin123",
-      "email": "djsjjejsjssj@gmail.com",
-      "password": "djjwjjw3jrjdbdbxu82hh777nnn87hb333j773bb",
-      "role": "admin",
-      "balance": 0,
-      "created_at": "2026-05-31T11:18:22.89+00:00"
-    },
-    {
       "id": "15e37d89-4e8a-4433-8976-8a7778e7a288",
       "username": "Satur Realme",
       "email": "saturealme1@gmail.com",
@@ -666,6 +657,15 @@
       "role": "user",
       "balance": 3100,
       "created_at": "2026-05-31T14:08:54.043+00:00"
+    },
+    {
+      "id": "3154b04f-f792-4644-b3e7-eec8ff407867",
+      "username": "admin123",
+      "email": "djsjjejsjssj@gmail.com",
+      "password": "djjwjjw3jrjdbdbxu82hh777nnn87hb333j773bb",
+      "role": "admin",
+      "balance": 48880,
+      "created_at": "2026-05-31T11:18:22.89+00:00"
     },
     {
       "id": "39c2cdc6-80e4-4e3e-97ef-1265e136fb0a",
