@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-05T08:23:29.943Z",
+  "backedUpAt": "2026-06-05T08:26:45.671Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -862,7 +862,7 @@
       "email": "resultboy99@gmail.com",
       "password": "apasaja",
       "role": "user",
-      "balance": 11129,
+      "balance": 20000,
       "created_at": "2026-06-05T08:01:45.834+00:00"
     }
   ],
