@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-05T09:53:30.080Z",
+  "backedUpAt": "2026-06-05T09:56:45.808Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -864,6 +864,15 @@
       "role": "user",
       "balance": 20000,
       "created_at": "2026-06-05T08:01:45.834+00:00"
+    },
+    {
+      "id": "4c94b41c-1c00-4216-a793-9baa5c425080",
+      "username": "Rafi Aja",
+      "email": "aja909614@gmail.com",
+      "password": "oauth_1780653265855_gqv3qn222da",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-06-05T09:54:26.361+00:00"
     }
   ],
   "transactions": [
