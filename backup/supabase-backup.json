@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-05T04:13:29.211Z",
+  "backedUpAt": "2026-06-05T04:16:45.222Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -632,15 +632,6 @@
       "created_at": "2026-05-31T14:13:35.484+00:00"
     },
     {
-      "id": "06b5e0e8-bf5d-4527-b6a9-dcd09b2fa910",
-      "username": "ALFINA FAUZIAH",
-      "email": "mamaalisa0304@gmail.com",
-      "password": "050922",
-      "role": "user",
-      "balance": 6659,
-      "created_at": "2026-06-04T12:20:16.252+00:00"
-    },
-    {
       "id": "d816b07a-c7bf-4779-a845-6dd155642be0",
       "username": "aditya putra utama",
       "email": "adityaputrau123@gmail.com",
@@ -648,6 +639,15 @@
       "role": "user",
       "balance": 3100,
       "created_at": "2026-05-31T14:08:54.043+00:00"
+    },
+    {
+      "id": "06b5e0e8-bf5d-4527-b6a9-dcd09b2fa910",
+      "username": "ALFINA FAUZIAH",
+      "email": "mamaalisa0304@gmail.com",
+      "password": "050922",
+      "role": "user",
+      "balance": 5891,
+      "created_at": "2026-06-04T12:20:16.252+00:00"
     },
     {
       "id": "39c2cdc6-80e4-4e3e-97ef-1265e136fb0a",
