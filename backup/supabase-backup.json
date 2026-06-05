@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-05T15:03:30.850Z",
+  "backedUpAt": "2026-06-05T15:06:46.457Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -648,6 +648,15 @@
       "role": "user",
       "balance": 7484,
       "created_at": "2026-06-05T11:22:25.48+00:00"
+    },
+    {
+      "id": "e9f310f0-1c55-4321-adbf-108cb8423fa7",
+      "username": "Trina",
+      "email": "trinurfitriaaulia3@gmail.com",
+      "password": "trinA170#",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-06-05T15:04:49.04+00:00"
     },
     {
       "id": "d816b07a-c7bf-4779-a845-6dd155642be0",
