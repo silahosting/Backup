@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-05T16:38:31.281Z",
+  "backedUpAt": "2026-06-05T16:41:46.980Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -659,15 +659,6 @@
       "created_at": "2026-05-31T14:08:54.043+00:00"
     },
     {
-      "id": "3154b04f-f792-4644-b3e7-eec8ff407867",
-      "username": "admin123",
-      "email": "djsjjejsjssj@gmail.com",
-      "password": "djjwjjw3jrjdbdbxu82hh777nnn87hb333j773bb",
-      "role": "admin",
-      "balance": 48880,
-      "created_at": "2026-05-31T11:18:22.89+00:00"
-    },
-    {
       "id": "39c2cdc6-80e4-4e3e-97ef-1265e136fb0a",
       "username": "Honda Spot",
       "email": "spothonda01@gmail.com",
@@ -729,6 +720,15 @@
       "role": "user",
       "balance": 480,
       "created_at": "2026-05-28T02:20:43.541+00:00"
+    },
+    {
+      "id": "3154b04f-f792-4644-b3e7-eec8ff407867",
+      "username": "admin123",
+      "email": "djsjjejsjssj@gmail.com",
+      "password": "djjwjjw3jrjdbdbxu82hh777nnn87hb333j773bb",
+      "role": "admin",
+      "balance": 50000,
+      "created_at": "2026-05-31T11:18:22.89+00:00"
     },
     {
       "id": "deaa756d-e886-46d9-b5cb-bb2555d5f436",
