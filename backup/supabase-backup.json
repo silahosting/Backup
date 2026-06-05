@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-05T07:13:29.767Z",
+  "backedUpAt": "2026-06-05T07:16:45.548Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -722,15 +722,6 @@
       "created_at": "2026-06-04T06:05:01.195+00:00"
     },
     {
-      "id": "06b5e0e8-bf5d-4527-b6a9-dcd09b2fa910",
-      "username": "ALFINA FAUZIAH",
-      "email": "mamaalisa0304@gmail.com",
-      "password": "050922",
-      "role": "user",
-      "balance": 2461,
-      "created_at": "2026-06-04T12:20:16.252+00:00"
-    },
-    {
       "id": "86146e2e-6b2e-4660-9511-a2dde1cffb51",
       "username": "allpublic20",
       "email": "sianying676@gmail.com",
@@ -765,6 +756,15 @@
       "role": "user",
       "balance": 5600,
       "created_at": "2026-06-01T07:59:50.019+00:00"
+    },
+    {
+      "id": "06b5e0e8-bf5d-4527-b6a9-dcd09b2fa910",
+      "username": "ALFINA FAUZIAH",
+      "email": "mamaalisa0304@gmail.com",
+      "password": "050922",
+      "role": "user",
+      "balance": 2223,
+      "created_at": "2026-06-04T12:20:16.252+00:00"
     },
     {
       "id": "633b0fbe-1b3f-48c8-a69f-e6ace89646cb",
