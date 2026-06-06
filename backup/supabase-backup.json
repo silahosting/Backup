@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-06T07:08:33.765Z",
+  "backedUpAt": "2026-06-06T17:50:05.573Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -821,6 +821,15 @@
       "created_at": "2026-06-05T07:11:20.042+00:00"
     },
     {
+      "id": "d1e192aa-678e-44a2-b68e-c94114111d60",
+      "username": "Jetz",
+      "email": "jetzofficial.id@gmail.com",
+      "password": "Jetz20#",
+      "role": "user",
+      "balance": 73710,
+      "created_at": "2026-04-20T12:03:21.147+00:00"
+    },
+    {
       "id": "6cdc7433-8e10-4beb-babd-ac5710a069a6",
       "username": "erfanuralim",
       "email": "erfanuralim@gmail.com",
@@ -837,6 +846,24 @@
       "role": "user",
       "balance": 100,
       "created_at": "2026-05-30T06:57:50.426+00:00"
+    },
+    {
+      "id": "5c7270ee-c808-4c08-b269-72b328f7908b",
+      "username": "Fahri",
+      "email": "fahrihosting3@gmail.com",
+      "password": "fahrihosting3",
+      "role": "user",
+      "balance": 919,
+      "created_at": "2026-04-20T13:54:09.92+00:00"
+    },
+    {
+      "id": "805c2310-9313-4f2d-b7c1-8757c8fbe103",
+      "username": "swkcorps",
+      "email": "swkcorps@gmail.com",
+      "password": "77282719",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-04-24T16:11:42.618+00:00"
     },
     {
       "id": "633b0fbe-1b3f-48c8-a69f-e6ace89646cb",
@@ -920,6 +947,33 @@
       "created_at": "2026-06-04T15:12:59.717+00:00"
     },
     {
+      "id": "4de72e06-4599-4bf8-9f46-6d4f1178c437",
+      "username": "arif",
+      "email": "arifbws@gmail.com",
+      "password": "wdppblhg",
+      "role": "user",
+      "balance": 37506,
+      "created_at": "2026-04-27T01:55:08.483+00:00"
+    },
+    {
+      "id": "66f27b08-bced-4f58-bfaa-2b7de21959c1",
+      "username": "shanrys",
+      "email": "shanrys0@gmail.com",
+      "password": "shanrys123",
+      "role": "user",
+      "balance": 16350,
+      "created_at": "2026-04-27T02:48:16.489+00:00"
+    },
+    {
+      "id": "bf267124-b96d-41d9-b1c1-9572c2ca6168",
+      "username": "rulevz",
+      "email": "muhamadheru0821@gmail.com",
+      "password": "kamu8799",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-04-27T03:18:22.817+00:00"
+    },
+    {
       "id": "facc9e7a-e556-494d-9296-0f5e435d0612",
       "username": "Ahmad Mik",
       "email": "ahmadmik917@gmail.com",
@@ -929,6 +983,15 @@
       "created_at": "2026-06-03T04:24:59.423+00:00"
     },
     {
+      "id": "1d74c90a-c593-43e9-907d-449108995dfd",
+      "username": "Ryan Ramdan",
+      "email": "ryanramdann@gmail.com",
+      "password": "Indomaret123",
+      "role": "user",
+      "balance": 4819,
+      "created_at": "2026-04-27T07:05:45.858+00:00"
+    },
+    {
       "id": "51e906df-f05f-422c-b736-a1580ff59938",
       "username": "Aghi Ss",
       "email": "aghisutama@gmail.com",
@@ -936,6 +999,51 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-06-03T07:20:17.749+00:00"
+    },
+    {
+      "id": "01816be0-9f28-4324-97d6-0e88fe17d79a",
+      "username": "Rafly ",
+      "email": "raflymhmd799@gmail.com",
+      "password": "Dorayaki",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-04-27T08:50:34.104+00:00"
+    },
+    {
+      "id": "73de094c-c3d6-4866-af80-4819ed9a8bdb",
+      "username": "jokonyawowi",
+      "email": "jokonyawowi@gmail.com",
+      "password": "Pertamax21",
+      "role": "user",
+      "balance": 1650,
+      "created_at": "2026-04-27T14:34:11.528+00:00"
+    },
+    {
+      "id": "d32ca0e4-28e7-4f49-b25d-8ba2f770c53f",
+      "username": "Hendra Ardiansyah",
+      "email": "myfrizqi@gmail.com",
+      "password": "12345678",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-04-27T16:10:02.797+00:00"
+    },
+    {
+      "id": "e5603d0d-8032-4d1d-aa4b-128f9ec4edb9",
+      "username": "Warno diyanto",
+      "email": "imahger06@gmail.com",
+      "password": "Iqmal23@",
+      "role": "user",
+      "balance": 650,
+      "created_at": "2026-04-27T18:31:50.216+00:00"
+    },
+    {
+      "id": "4d6215a9-ba9e-48b9-87d5-cff7dd827adb",
+      "username": "mas rey",
+      "email": "reytyas670@gmail.com",
+      "password": "masrey768635826",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-04-28T13:37:57.246+00:00"
     },
     {
       "id": "f86b995a-3bb9-4a58-bd36-9dd49e53f09e",
@@ -954,6 +1062,546 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-06-05T09:54:26.361+00:00"
+    },
+    {
+      "id": "30d7443f-7c69-43ad-9a21-8e37b262e71b",
+      "username": "mrsederhana",
+      "email": "cug232@gmail.com",
+      "password": "tselcug1tselcug1",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-04-29T10:50:20.758+00:00"
+    },
+    {
+      "id": "88887e3d-9b66-4cc2-b049-106e2f0bb242",
+      "username": "ana",
+      "email": "budopongo@gmail.com",
+      "password": "mamikudeh",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-04-30T13:41:06.156+00:00"
+    },
+    {
+      "id": "47089f20-ef47-4ffb-8f34-60c77442d6a6",
+      "username": "Ilham Sawalullael",
+      "email": "ilhamsawalullael@gmail.com",
+      "password": "Ilham729.",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-04-30T21:55:11.286+00:00"
+    },
+    {
+      "id": "2910876d-a78a-416e-be8e-f1b899f914c7",
+      "username": "Aceng",
+      "email": "acengbalwel@gmail.com",
+      "password": "Ressy200245",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-03T14:07:11.935+00:00"
+    },
+    {
+      "id": "99d90bf9-9f5b-4ddd-a8fc-2616122bd389",
+      "username": "King anop ",
+      "email": "buyeraot@gmail.com",
+      "password": "Anjing55",
+      "role": "user",
+      "balance": 2700,
+      "created_at": "2026-05-03T21:29:28.673+00:00"
+    },
+    {
+      "id": "55e8e3ae-4991-4486-8905-f8b1027299ab",
+      "username": "Jonidoy",
+      "email": "pebrikasep12@gmail.com",
+      "password": "Tajur43",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-06T15:45:46.557+00:00"
+    },
+    {
+      "id": "3029bcac-e1c3-4f21-99ce-fea1709ea40a",
+      "username": "Boyuh",
+      "email": "yaoy03101@gmail.com",
+      "password": "ivankdd1",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-09T01:59:31.884+00:00"
+    },
+    {
+      "id": "0ddd20af-4bbb-4fe6-8e22-5b30e0cfa5e5",
+      "username": "binnjie",
+      "email": "bintangneedcuan@gmail.com",
+      "password": "lapangan",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-09T03:54:28.536+00:00"
+    },
+    {
+      "id": "cdea5669-9c12-47ca-837a-2d4806396503",
+      "username": "ganyu",
+      "email": "ganyuppp@gmail.com",
+      "password": "Pais999@",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-09T14:28:10.982+00:00"
+    },
+    {
+      "id": "d77ef232-66c6-4411-b6d7-1b4f0f28927d",
+      "username": "Joni",
+      "email": "peterwuri600@gmail.com",
+      "password": "2007200g",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-10T00:47:27.785+00:00"
+    },
+    {
+      "id": "d2240d4c-03e2-4f5e-90a0-8f78cdeb8560",
+      "username": "Fath18 ",
+      "email": "yongmodoo2000@gmail.com",
+      "password": "@Davinci88",
+      "role": "user",
+      "balance": 437,
+      "created_at": "2026-05-10T01:08:56.283+00:00"
+    },
+    {
+      "id": "2604a2f6-6751-4a12-9229-33c547d872b9",
+      "username": "faqihkhece",
+      "email": "ggdilan096@gmail.com",
+      "password": "faqih0000",
+      "role": "user",
+      "balance": 13340,
+      "created_at": "2026-05-10T02:14:38.784+00:00"
+    },
+    {
+      "id": "98c86b31-7589-464a-b4bc-5799402e2c05",
+      "username": "denmas",
+      "email": "gprekm@gmail.com",
+      "password": "GudangGaram",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-10T09:52:26.09+00:00"
+    },
+    {
+      "id": "8ee67275-a0d2-41ba-a79a-ac986d6a4aaa",
+      "username": "Fahmi",
+      "email": "deadbustyt@gmail.com",
+      "password": "Qwerty123",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-10T10:24:10.446+00:00"
+    },
+    {
+      "id": "3a76f5e1-10e2-4347-a75c-88cf763d9fe3",
+      "username": "ilham",
+      "email": "ilhamnhd7@gmail.com",
+      "password": "ilham123",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-10T12:00:42.509+00:00"
+    },
+    {
+      "id": "f71bf22d-c864-4f3f-afa8-aac83b61b45d",
+      "username": "Hafidz",
+      "email": "hafidzrivaldi@gmail.com",
+      "password": "8284e3c4311b",
+      "role": "user",
+      "balance": 19696,
+      "created_at": "2026-05-10T13:20:32.774+00:00"
+    },
+    {
+      "id": "b0a20a98-708f-42e5-945f-9e9a6d445a7b",
+      "username": "Senn",
+      "email": "putuseniwahyuniak2@gmail.com",
+      "password": "135790",
+      "role": "user",
+      "balance": 9200,
+      "created_at": "2026-05-10T17:14:08.467+00:00"
+    },
+    {
+      "id": "16560ca7-2942-4aba-aa44-9fce78b1e689",
+      "username": "Muhammad Ruslih ",
+      "email": "frhanmaulana6@gmail.com",
+      "password": "Rusli122",
+      "role": "user",
+      "balance": 3001,
+      "created_at": "2026-05-10T20:21:10.379+00:00"
+    },
+    {
+      "id": "8bdd50c9-b624-49d4-bdac-f5d011ab56ed",
+      "username": "kholis",
+      "email": "kholisjepara11@gmail.com",
+      "password": "Iphone13",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-11T02:15:32.493+00:00"
+    },
+    {
+      "id": "0ad8f5f0-46c3-4d9a-b24a-a57d12807e76",
+      "username": "shtpost",
+      "email": "identityvakun008@gmail.com",
+      "password": "Qwerty123",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-11T02:28:36.179+00:00"
+    },
+    {
+      "id": "b6fc5161-6492-4b2b-b9c2-0acd951d134d",
+      "username": "Berak nibos ",
+      "email": "siberakcoy@gmail.com",
+      "password": "Pertamax21",
+      "role": "user",
+      "balance": 3208,
+      "created_at": "2026-05-11T05:14:32.393+00:00"
+    },
+    {
+      "id": "7c72827c-7cc7-4fe8-aef7-874321e42b01",
+      "username": "Faqih",
+      "email": "huzurihay@gmail.com",
+      "password": "123456789Faqih",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-11T09:00:10.154+00:00"
+    },
+    {
+      "id": "49fe53a3-a356-48f0-98db-c7c9d389bd11",
+      "username": "fadlihg",
+      "email": "fadlihg11@gmail.com",
+      "password": "Daisuke123",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-11T09:07:46.379+00:00"
+    },
+    {
+      "id": "89327893-fabe-4f88-b78b-4d99f45925ce",
+      "username": "Abqari Safaraz",
+      "email": "abqariavisenasafaraz@gmail.com",
+      "password": "Abqari_safaraz17081945",
+      "role": "user",
+      "balance": 747,
+      "created_at": "2026-05-11T11:22:04.742+00:00"
+    },
+    {
+      "id": "0e86b6af-ae25-41ee-b39e-521035849180",
+      "username": "Gopi Maulana",
+      "email": "sanjikun9912@gmail.com",
+      "password": "Tai123",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-11T16:53:26.34+00:00"
+    },
+    {
+      "id": "935b7cc4-3973-44b7-acbc-db8d31c38130",
+      "username": "Bagas",
+      "email": "ach.bagas58@gmail.com",
+      "password": "bismillahjp",
+      "role": "user",
+      "balance": 5000,
+      "created_at": "2026-05-11T20:41:42.373+00:00"
+    },
+    {
+      "id": "2cbac450-dff3-4405-9228-8b1ebb4b8c33",
+      "username": "Abi satria",
+      "email": "hanztampan356@gmail.com",
+      "password": "satria123",
+      "role": "user",
+      "balance": 1012,
+      "created_at": "2026-05-12T04:56:10.957+00:00"
+    },
+    {
+      "id": "c625d3f9-a72d-4552-afc4-757f451d0027",
+      "username": "Fadly",
+      "email": "fadlyhermawan011@gmail.com",
+      "password": "123580",
+      "role": "user",
+      "balance": 2264,
+      "created_at": "2026-05-12T08:45:17.549+00:00"
+    },
+    {
+      "id": "48607fcf-ceac-4a91-a974-80d8b72eaff9",
+      "username": "Ghon",
+      "email": "ghonheni@gmail.com",
+      "password": "01102020Agus.",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-12T10:40:17.242+00:00"
+    },
+    {
+      "id": "427451fd-4339-492c-b69a-f4c3c053a864",
+      "username": "Reddoorzz",
+      "email": "reddoorzsyariahjeparacity@gmail.com",
+      "password": "qwerty123",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-12T13:54:21.357+00:00"
+    },
+    {
+      "id": "7ae83e15-cb00-4321-8a01-e29585f5611c",
+      "username": "Qory ",
+      "email": "andri.febrian52@gmail.com",
+      "password": "Gadink123",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-14T00:40:45.423+00:00"
+    },
+    {
+      "id": "644ef394-ba7f-4a4a-86a6-49f6d571c123",
+      "username": "denn",
+      "email": "dh889290@gmail.com",
+      "password": "dened12366",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-14T12:41:08.931+00:00"
+    },
+    {
+      "id": "68f8336c-bba3-4ee6-8189-45e0a4ca1a59",
+      "username": "Bahr Official Store",
+      "email": "yanzzzpelor123@gmail.com",
+      "password": "@1311Akun2811",
+      "role": "user",
+      "balance": 111,
+      "created_at": "2026-05-15T10:29:01.557+00:00"
+    },
+    {
+      "id": "a3ee67e2-5c5f-4cea-94ef-8f791fab3ff3",
+      "username": "veroni",
+      "email": "uguragang@gmail.com",
+      "password": "veroninik0",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-15T11:32:53.093+00:00"
+    },
+    {
+      "id": "95a20b0c-4103-445c-ae8d-b1a457a58b09",
+      "username": "Zoldyck",
+      "email": "risqiramadhan001@gmail.com",
+      "password": "Rama123321",
+      "role": "user",
+      "balance": 28095,
+      "created_at": "2026-05-15T11:46:01.818+00:00"
+    },
+    {
+      "id": "6699d7bc-e095-4940-b751-b6c1974c027a",
+      "username": "Bogel3232",
+      "email": "rizkimaulanabogel48@gmail.com",
+      "password": "rehan3232",
+      "role": "user",
+      "balance": 1712,
+      "created_at": "2026-05-15T14:09:59.149+00:00"
+    },
+    {
+      "id": "6e0a8f22-1f8f-4369-b895-d7fdcb5413df",
+      "username": "Judin",
+      "email": "toyeflas@gmail.com",
+      "password": "10Brother@",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-15T14:23:13.819+00:00"
+    },
+    {
+      "id": "a50549bb-0e52-4b6f-9837-0862de65cf28",
+      "username": "Vexel",
+      "email": "bakmurmantap@gmail.com",
+      "password": "malili123",
+      "role": "user",
+      "balance": 1078,
+      "created_at": "2026-05-15T15:19:33.104+00:00"
+    },
+    {
+      "id": "1fdd3b11-b655-449b-a28a-f73ac88532aa",
+      "username": "Rizky",
+      "email": "rizkywahyupratama28@gmail.com",
+      "password": "rizky123",
+      "role": "user",
+      "balance": 14,
+      "created_at": "2026-05-16T00:12:12.79+00:00"
+    },
+    {
+      "id": "69102893-7b29-45d9-a2f3-c9692e219010",
+      "username": "Gacorree",
+      "email": "mobilemuksin332@gmail.com",
+      "password": "gacor9999",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-16T11:50:54.771+00:00"
+    },
+    {
+      "id": "27158f5c-8a6f-4776-8196-f00133cff857",
+      "username": "Asuwueh",
+      "email": "aljaprant12@gmail.com",
+      "password": "mamakkau",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-16T12:17:05.916+00:00"
+    },
+    {
+      "id": "33d2893c-dc26-452b-8a19-5a7010354f85",
+      "username": "san",
+      "email": "zhaskcoc21@gmail.com",
+      "password": "201249",
+      "role": "user",
+      "balance": 23,
+      "created_at": "2026-05-16T12:20:49.761+00:00"
+    },
+    {
+      "id": "4140edae-235a-4af3-aa1d-a8392a10e5d7",
+      "username": "Jamal",
+      "email": "jamalnurcahya9@gmail.com",
+      "password": "jamal2006",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-16T14:40:54.424+00:00"
+    },
+    {
+      "id": "ee81a6b3-48a3-42ce-bce6-0bab53591635",
+      "username": "Rizki saputra",
+      "email": "jancokjeck4@gmail.com",
+      "password": "Gendon13*",
+      "role": "user",
+      "balance": 1402,
+      "created_at": "2026-05-17T02:38:06.445+00:00"
+    },
+    {
+      "id": "6f16aca6-8681-408c-99ad-09bb7ea7f4af",
+      "username": "Karu Rap",
+      "email": "r3944003@gmail.com",
+      "password": "IBARATRAP123",
+      "role": "user",
+      "balance": 131,
+      "created_at": "2026-05-17T04:23:41.737+00:00"
+    },
+    {
+      "id": "51f0279f-896d-4850-b888-52d072c51892",
+      "username": "Emem",
+      "email": "amimsakhrul@gmail.com",
+      "password": "newsandi",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-17T06:16:52.295+00:00"
+    },
+    {
+      "id": "d750a251-1772-4f20-9bf5-85003c6e8e07",
+      "username": "Alek",
+      "email": "jakofeloo@gmail.com",
+      "password": "Kontol1212",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-17T16:01:31.808+00:00"
+    },
+    {
+      "id": "93c215e5-c51c-4c7c-a926-0f80f1cc60cf",
+      "username": "John De",
+      "email": "saripmubarok1000@gmail.com",
+      "password": "Hiphop6868",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-17T18:04:35.033+00:00"
+    },
+    {
+      "id": "12595bde-6ce0-45c9-a2d1-2e551a125039",
+      "username": "Fahtur Ffff",
+      "email": "fahturffff@gmail.com",
+      "password": "oauth_1779054862084_w9z65v4czyl",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-17T21:54:22.355+00:00"
+    },
+    {
+      "id": "20d90d4b-ddfc-42b0-a245-42d7ef95d671",
+      "username": "ipank",
+      "email": "ipankzero02@gmail.com",
+      "password": "@Ipank140303",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-17T22:19:32.383+00:00"
+    },
+    {
+      "id": "5c8d8dc4-9dc0-493b-939a-656e79bd8f37",
+      "username": "Rediansyah Arta sena",
+      "email": "rediansyahartasena@gmail.com",
+      "password": "oauth_1779059024179_83qm0p6fonm",
+      "role": "user",
+      "balance": 5000,
+      "created_at": "2026-05-17T23:03:44.451+00:00"
+    },
+    {
+      "id": "6081e772-5b3e-4092-9115-6b0ba4517d70",
+      "username": "yualis syah",
+      "email": "yualissyah@gmail.com",
+      "password": "oauth_1779065361533_hikdzqn5k4i",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-18T00:49:21.743+00:00"
+    },
+    {
+      "id": "a1a913e9-5a2c-4efc-9c11-10b6dc63ad70",
+      "username": "Galan",
+      "email": "Galanrafinda20@gmail.com",
+      "password": "galan102030",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-18T05:32:17.4+00:00"
+    },
+    {
+      "id": "ee6bbdea-7be0-4e20-9d31-8d8ec0f6ebec",
+      "username": "Galan RC",
+      "email": "galanrafinda20@gmail.com",
+      "password": "oauth_1779082407859_c3nz41pwo9n",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-18T05:33:28.098+00:00"
+    },
+    {
+      "id": "6373276c-fa97-4ddd-bf7a-e514e459b151",
+      "username": "Rull",
+      "email": "letiso1930@redtion.com",
+      "password": "123123",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-18T08:03:55.833+00:00"
+    },
+    {
+      "id": "1d1dda24-9f7d-436c-a2d6-5cd89f96bd3f",
+      "username": "Farhan Putra",
+      "email": "fp1244571@gmail.com",
+      "password": "oauth_1779097051027_4vxzb5ibs6i",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-18T09:37:31.323+00:00"
+    },
+    {
+      "id": "9876e56f-0d9e-47ed-96e7-a71c382269ac",
+      "username": "Polik",
+      "email": "mopjawcow@goatmail.uk",
+      "password": "popo7890",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-18T09:54:37.527+00:00"
+    },
+    {
+      "id": "4b409546-8553-4a5c-ba2f-7ae8401174d9",
+      "username": "Winkit",
+      "email": "wingkitbot@gmail.com",
+      "password": "oauth_1779112430362_h1x9wthza3d",
+      "role": "user",
+      "balance": 1000,
+      "created_at": "2026-05-18T13:53:50.618+00:00"
+    },
+    {
+      "id": "8720440a-c390-425f-a72c-2775e94f14e9",
+      "username": "Ainul",
+      "email": "ainul13yaqin@gmail.com",
+      "password": "sepatusayabaru",
+      "role": "user",
+      "balance": 14900,
+      "created_at": "2026-05-18T14:13:26.581+00:00"
+    },
+    {
+      "id": "a9195316-4e20-4f64-80ed-2306fabadd4a",
+      "username": "Mada",
+      "email": "fhjh7435@gmail.com",
+      "password": "fahrihosting3",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-05-18T19:49:16.958+00:00"
     }
   ],
   "transactions": [
