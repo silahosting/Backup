@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-06T03:56:49.102Z",
+  "backedUpAt": "2026-06-06T03:58:32.689Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -290,6 +290,15 @@
       "created_at": "2026-05-23T09:09:36.519+00:00"
     },
     {
+      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
+      "username": "Alien",
+      "email": "sgvxuffg@gmail.com",
+      "password": "fahrihosting3",
+      "role": "user",
+      "balance": 34823,
+      "created_at": "2026-05-26T20:37:37.803+00:00"
+    },
+    {
       "id": "99c8c6c6-66f6-4340-bce9-74a4aac06b4c",
       "username": "karyanto",
       "email": "karyanto6@gmail.com",
@@ -351,15 +360,6 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-27T00:41:07.8+00:00"
-    },
-    {
-      "id": "159293e9-81ee-4d36-b70d-2c5da69ed91f",
-      "username": "Alien",
-      "email": "sgvxuffg@gmail.com",
-      "password": "fahrihosting3",
-      "role": "user",
-      "balance": 33823,
-      "created_at": "2026-05-26T20:37:37.803+00:00"
     },
     {
       "id": "ec662b69-52cf-4853-b497-0eb345f26772",
@@ -26953,15 +26953,15 @@
   "maintenance": [
     {
       "id": 1,
-      "is_active": true,
+      "is_active": false,
       "is_recurring": false,
       "daily_start_time": null,
       "daily_end_time": null,
-      "start_time": "2026-06-06T03:18:00+00:00",
-      "end_time": "2026-06-07T03:18:00+00:00",
-      "reason": "Maintenance sistem",
-      "created_by": "djsjjejsjssj@gmail.com",
-      "updated_at": "2026-06-06T03:19:03.618+00:00"
+      "start_time": null,
+      "end_time": null,
+      "reason": "",
+      "created_by": "System",
+      "updated_at": "2026-06-06T03:57:07.956+00:00"
     }
   ]
 }
