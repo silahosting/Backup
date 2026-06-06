@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-06T04:53:33.039Z",
+  "backedUpAt": "2026-06-06T04:56:49.157Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -801,6 +801,15 @@
       "role": "user",
       "balance": 4868,
       "created_at": "2026-06-01T07:59:50.019+00:00"
+    },
+    {
+      "id": "a08cbfa8-e176-404b-bd12-8c1e9140e36a",
+      "username": "Azizah Siska",
+      "email": "azizahsiska94@gmail.com",
+      "password": "oauth_1780721727188_murai68ctkd",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-06-06T04:55:27.703+00:00"
     },
     {
       "id": "86146e2e-6b2e-4660-9511-a2dde1cffb51",
