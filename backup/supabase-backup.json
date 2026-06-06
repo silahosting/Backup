@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-06T03:18:32.679Z",
+  "backedUpAt": "2026-06-06T03:21:49.212Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -731,15 +731,6 @@
       "created_at": "2026-05-28T02:20:43.541+00:00"
     },
     {
-      "id": "3154b04f-f792-4644-b3e7-eec8ff407867",
-      "username": "admin123",
-      "email": "djsjjejsjssj@gmail.com",
-      "password": "djjwjjw3jrjdbdbxu82hh777nnn87hb333j773bb",
-      "role": "admin",
-      "balance": 49380,
-      "created_at": "2026-05-31T11:18:22.89+00:00"
-    },
-    {
       "id": "deaa756d-e886-46d9-b5cb-bb2555d5f436",
       "username": "MARAT Safana",
       "email": "maratsafana27@gmail.com",
@@ -756,6 +747,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-05-31T15:47:16.132+00:00"
+    },
+    {
+      "id": "3154b04f-f792-4644-b3e7-eec8ff407867",
+      "username": "admin123",
+      "email": "djsjjejsjssj@gmail.com",
+      "password": "djjwjjw3jrjdbdbxu82hh777nnn87hb333j773bb",
+      "role": "admin",
+      "balance": 50000,
+      "created_at": "2026-05-31T11:18:22.89+00:00"
     },
     {
       "id": "2f76eac2-2df0-439b-bd72-dc3c36581900",
@@ -26953,15 +26953,15 @@
   "maintenance": [
     {
       "id": 1,
-      "is_active": false,
+      "is_active": true,
       "is_recurring": false,
       "daily_start_time": null,
       "daily_end_time": null,
-      "start_time": null,
-      "end_time": null,
-      "reason": "",
-      "created_by": "System",
-      "updated_at": "2026-06-06T03:18:18.456+00:00"
+      "start_time": "2026-06-06T03:18:00+00:00",
+      "end_time": "2026-06-07T03:18:00+00:00",
+      "reason": "Maintenance sistem",
+      "created_by": "djsjjejsjssj@gmail.com",
+      "updated_at": "2026-06-06T03:19:03.618+00:00"
     }
   ]
 }
