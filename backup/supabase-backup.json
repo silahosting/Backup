@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-06T03:16:49.054Z",
+  "backedUpAt": "2026-06-06T03:18:32.679Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -668,15 +668,6 @@
       "created_at": "2026-05-31T14:08:54.043+00:00"
     },
     {
-      "id": "3154b04f-f792-4644-b3e7-eec8ff407867",
-      "username": "admin123",
-      "email": "djsjjejsjssj@gmail.com",
-      "password": "djjwjjw3jrjdbdbxu82hh777nnn87hb333j773bb",
-      "role": "admin",
-      "balance": 48230,
-      "created_at": "2026-05-31T11:18:22.89+00:00"
-    },
-    {
       "id": "39c2cdc6-80e4-4e3e-97ef-1265e136fb0a",
       "username": "Honda Spot",
       "email": "spothonda01@gmail.com",
@@ -684,6 +675,15 @@
       "role": "user",
       "balance": 2750,
       "created_at": "2026-05-30T03:40:34.436+00:00"
+    },
+    {
+      "id": "ecdd51a3-eb81-4b6e-93fd-4f4b4a34805b",
+      "username": "1QRAM 98",
+      "email": "iqrammadrid88@gmail.com",
+      "password": "oauth_1780715845631_1a6d2s042k3",
+      "role": "user",
+      "balance": 0,
+      "created_at": "2026-06-06T03:17:26.156+00:00"
     },
     {
       "id": "9e669ef9-0147-4127-8155-764109ccd5ac",
@@ -729,6 +729,15 @@
       "role": "user",
       "balance": 480,
       "created_at": "2026-05-28T02:20:43.541+00:00"
+    },
+    {
+      "id": "3154b04f-f792-4644-b3e7-eec8ff407867",
+      "username": "admin123",
+      "email": "djsjjejsjssj@gmail.com",
+      "password": "djjwjjw3jrjdbdbxu82hh777nnn87hb333j773bb",
+      "role": "admin",
+      "balance": 49380,
+      "created_at": "2026-05-31T11:18:22.89+00:00"
     },
     {
       "id": "deaa756d-e886-46d9-b5cb-bb2555d5f436",
@@ -26944,15 +26953,15 @@
   "maintenance": [
     {
       "id": 1,
-      "is_active": true,
+      "is_active": false,
       "is_recurring": false,
       "daily_start_time": null,
       "daily_end_time": null,
-      "start_time": "2026-06-06T02:41:00+00:00",
-      "end_time": "2026-06-07T02:41:00+00:00",
-      "reason": "Maintenance sistem",
-      "created_by": "djsjjejsjssj@gmail.com",
-      "updated_at": "2026-06-06T02:41:55.366+00:00"
+      "start_time": null,
+      "end_time": null,
+      "reason": "",
+      "created_by": "System",
+      "updated_at": "2026-06-06T03:18:18.456+00:00"
     }
   ]
 }
