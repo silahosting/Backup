@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-06T02:18:32.681Z",
+  "backedUpAt": "2026-06-06T02:21:48.922Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -884,15 +884,6 @@
       "created_at": "2026-06-04T15:12:59.717+00:00"
     },
     {
-      "id": "c874ee8d-b6f4-4b36-9470-4bbb002c1a3d",
-      "username": "Sotong ajah",
-      "email": "rimlonga@gmail.com",
-      "password": "999999",
-      "role": "user",
-      "balance": 10364,
-      "created_at": "2026-06-05T11:22:25.48+00:00"
-    },
-    {
       "id": "facc9e7a-e556-494d-9296-0f5e435d0612",
       "username": "Ahmad Mik",
       "email": "ahmadmik917@gmail.com",
@@ -909,6 +900,15 @@
       "role": "user",
       "balance": 0,
       "created_at": "2026-06-03T07:20:17.749+00:00"
+    },
+    {
+      "id": "c874ee8d-b6f4-4b36-9470-4bbb002c1a3d",
+      "username": "Sotong ajah",
+      "email": "rimlonga@gmail.com",
+      "password": "999999",
+      "role": "user",
+      "balance": 3056,
+      "created_at": "2026-06-05T11:22:25.48+00:00"
     },
     {
       "id": "f86b995a-3bb9-4a58-bd36-9dd49e53f09e",
