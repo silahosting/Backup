@@ -1,5 +1,5 @@
 {
-  "backedUpAt": "2026-06-08T08:30:41.285Z",
+  "backedUpAt": "2026-06-08T08:33:43.759Z",
   "users": [
     {
       "id": "40f7fb02-8bef-4ac6-885d-e40b5ceee793",
@@ -27614,11 +27614,11 @@
       "is_recurring": false,
       "daily_start_time": null,
       "daily_end_time": null,
-      "start_time": "2026-06-08T06:57:00+00:00",
-      "end_time": "2026-06-09T06:57:00+00:00",
+      "start_time": "2026-06-08T08:31:00+00:00",
+      "end_time": "2026-06-08T09:01:00+00:00",
       "reason": "Maintenance sistem",
       "created_by": "djsjjejsjssj@gmail.com",
-      "updated_at": "2026-06-08T06:57:10.192+00:00"
+      "updated_at": "2026-06-08T08:31:51.659+00:00"
     }
   ]
 }
