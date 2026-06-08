@@ -138,7 +138,6 @@ id,username,email,password,role,balance,created_at
 "d2240d4c-03e2-4f5e-90a0-8f78cdeb8560","Fath18 ","yongmodoo2000@gmail.com","@Davinci88","user","437","2026-05-10T01:08:56.283+00:00"
 "4de72e06-4599-4bf8-9f46-6d4f1178c437","arif","arifbws@gmail.com","wdppblhg","user","37506","2026-04-27T01:55:08.483+00:00"
 "99c8c6c6-66f6-4340-bce9-74a4aac06b4c","karyanto","karyanto6@gmail.com","selatan99","user","19308","2026-05-21T02:48:34.884+00:00"
-"ec662b69-52cf-4853-b497-0eb345f26772","Ricis Lubis","lubisricis04@gmail.com","oauth_1779703353803_fla4ijw20qn","user","109630","2026-05-25T10:02:34.349+00:00"
 "66f27b08-bced-4f58-bfaa-2b7de21959c1","shanrys","shanrys0@gmail.com","shanrys123","user","51283","2026-04-27T02:48:16.489+00:00"
 "b0a20a98-708f-42e5-945f-9e9a6d445a7b","Senn","putuseniwahyuniak2@gmail.com","135790","user","12418","2026-05-10T17:14:08.467+00:00"
 "c488d256-0c44-409b-ad70-3ae3a31ff994","Dek Qu","qudek40@gmail.com","oauth_1780344582110_r8tacm5svio","user","3000","2026-06-01T20:09:43.127+00:00"
@@ -177,3 +176,4 @@ id,username,email,password,role,balance,created_at
 "f86b995a-3bb9-4a58-bd36-9dd49e53f09e","result","resultboy99@gmail.com","apasaja","user","20000","2026-06-05T08:01:45.834+00:00"
 "c7dac824-a449-44d9-9a79-5a76c8a9f75d","test mazon2","testmazon2@gmail.com","oauth_1779833438214_04dj9yyzdh53","user","1428","2026-05-26T22:10:38.749+00:00"
 "99d90bf9-9f5b-4ddd-a8fc-2616122bd389","King anop ","buyeraot@gmail.com","Anjing55","user","2700","2026-05-03T21:29:28.673+00:00"
+"ec662b69-52cf-4853-b497-0eb345f26772","Ricis Lubis","lubisricis04@gmail.com","oauth_1779703353803_fla4ijw20qn","user","3717","2026-05-25T10:02:34.349+00:00"
