@@ -1,7 +1,6 @@
 session_id,user_id,device_name,phone_model,browser,browser_version,os,os_version,device_type,ip,ip_masked,login_at,last_active_at
 "sess_1780796773751_jbkvz8ckc0a","djsjjejsjssj@gmail.com","Samsung Galaxy A15","Samsung Galaxy A15","Chrome","107","Android","16","mobile","103.172.25.42","103.172.xxx.xxx","2026-06-07T01:46:13.751+00:00","2026-06-07T01:46:13.751+00:00"
 "sess_1780800675278_3odcupdgrtg","salsanovember11@gmail.com","Android Phone","Android Phone","Chrome","148","Android","10","mobile","182.8.65.141","182.8.xxx.xxx","2026-06-07T02:51:15.278+00:00","2026-06-07T02:51:15.278+00:00"
-"sess_1780801325103_rtkrai8oixb","djsjjejsjssj@gmail.com","Android Phone","Android Phone","Chrome","148","Android","10","mobile","112.215.146.240","112.215.xxx.xxx","2026-06-07T03:02:05.103+00:00","2026-06-07T03:02:05.103+00:00"
 "sess_1780817244996_zckuapj7v9","mamaalisa0304@gmail.com","Android Phone","Android Phone","Chrome","148","Android","10","mobile","140.213.66.235","140.213.xxx.xxx","2026-06-07T07:27:24.996+00:00","2026-06-07T07:27:24.996+00:00"
 "sess_1780828957071_29q1v583khc","rindapresmana@gmail.com","Android Phone","Android Phone","Chrome","149","Android","10","mobile","114.10.39.84","114.10.xxx.xxx","2026-06-07T10:42:37.071+00:00","2026-06-07T10:42:37.071+00:00"
 "sess_1780850946756_ohtv3auf6r","bayuprygii11@gmail.com","iPhone","iPhone","Safari","26","macOS","","mobile","182.253.242.116","182.253.xxx.xxx","2026-06-07T16:49:06.756+00:00","2026-06-07T16:49:06.756+00:00"
@@ -19,3 +18,4 @@ session_id,user_id,device_name,phone_model,browser,browser_version,os,os_version
 "sess_1780919382751_ij4u70p43jr","rimlonga@gmail.com","Android Phone","Android Phone","Chrome","149","Android","10","mobile","114.5.218.202","114.5.xxx.xxx","2026-06-08T11:49:42.751+00:00","2026-06-08T11:49:42.751+00:00"
 "sess_1780919787682_zus73bep7c","sgvxuffg@gmail.com","Android Phone","Android Phone","Chrome","146","Android","10","mobile","103.172.25.42","103.172.xxx.xxx","2026-06-08T11:56:27.682+00:00","2026-06-08T11:56:27.682+00:00"
 "sess_1780934134053_0kn23hx63vi","djsjjejsjssj@gmail.com","Android Phone","Android Phone","Chrome","146","Android","10","mobile","103.172.25.42","103.172.xxx.xxx","2026-06-08T15:55:34.053+00:00","2026-06-08T15:55:34.053+00:00"
+"sess_1780967263823_hwj9m25gra6","djsjjejsjssj@gmail.com","Android Phone","Android Phone","Chrome","148","Android","10","mobile","140.213.139.82","140.213.xxx.xxx","2026-06-09T01:07:43.823+00:00","2026-06-09T01:07:43.823+00:00"
