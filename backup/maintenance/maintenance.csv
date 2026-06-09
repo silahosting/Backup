@@ -1,2 +1,2 @@
 id,is_active,is_recurring,daily_start_time,daily_end_time,start_time,end_time,reason,created_by,updated_at
-"1","false","false",,,"2026-06-09T04:14:00+00:00","2026-06-10T04:14:00+00:00","Maintenance sistem","djsjjejsjssj@gmail.com","2026-06-09T04:14:45.716+00:00"
+"1","true","false",,,"2026-06-09T07:55:00+00:00","2026-06-10T07:55:00+00:00","Maintenance sistem","djsjjejsjssj@gmail.com","2026-06-09T07:55:47.836+00:00"
