@@ -1,2 +1,2 @@
 id,is_active,is_recurring,daily_start_time,daily_end_time,start_time,end_time,reason,created_by,updated_at
-"1","false","false",,,,,"Maintenance sistem","djsjjejsjssj@gmail.com","2026-06-09T02:44:44.274+00:00"
+"1","false","false",,,,,"Emergency disable","emergency","2026-06-09T03:56:46.761+00:00"
