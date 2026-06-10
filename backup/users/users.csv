@@ -141,7 +141,6 @@ id,username,email,password,role,balance,created_at
 "d2240d4c-03e2-4f5e-90a0-8f78cdeb8560","Fath18 ","yongmodoo2000@gmail.com","@Davinci88","user","437","2026-05-10T01:08:56.283+00:00"
 "4de72e06-4599-4bf8-9f46-6d4f1178c437","arif","arifbws@gmail.com","wdppblhg","user","37506","2026-04-27T01:55:08.483+00:00"
 "c488d256-0c44-409b-ad70-3ae3a31ff994","Dek Qu","qudek40@gmail.com","oauth_1780344582110_r8tacm5svio","user","3000","2026-06-01T20:09:43.127+00:00"
-"5c7270ee-c808-4c08-b269-72b328f7908b","Fahri","fahrihosting3@gmail.com","fahrihosting3","user","278044","2026-04-20T13:54:09.92+00:00"
 "3922c71f-260a-4849-9cdd-a2cbdd1281d0","asu123","gullitauba@gmail.com","Memek123","user","100","2026-05-30T06:57:50.426+00:00"
 "e1fd0bd9-887f-4dff-be5d-03cfa2d90ec7","anindya","beybaboo@gmail.com","oauth_1780322813993_8sddkpffnst","user","3681","2026-06-01T14:06:54.643+00:00"
 "c625d3f9-a72d-4552-afc4-757f451d0027","Fadly","fadlyhermawan011@gmail.com","123580","user","2264","2026-05-12T08:45:17.549+00:00"
@@ -180,3 +179,4 @@ id,username,email,password,role,balance,created_at
 "edc98d8e-4f15-4607-9bab-126ed8ed7ed3","OFI HOME","ofihome.co@gmail.com","oauth_1779882046695_kh510ab7qd","user","4021","2026-05-27T11:40:47.323+00:00"
 "c874ee8d-b6f4-4b36-9470-4bbb002c1a3d","Sotong ajah","rimlonga@gmail.com","999999","user","334","2026-06-05T11:22:25.48+00:00"
 "d1e192aa-678e-44a2-b68e-c94114111d60","Jetz","jetzofficial.id@gmail.com","Jetz20#","user","269993","2026-04-20T12:03:21.147+00:00"
+"5c7270ee-c808-4c08-b269-72b328f7908b","Fahri","fahrihosting3@gmail.com","fahrihosting3","user","277464","2026-04-20T13:54:09.92+00:00"
