@@ -163,7 +163,6 @@ id,username,email,password,role,balance,created_at
 "ec662b69-52cf-4853-b497-0eb345f26772","Ricis Lubis","lubisricis04@gmail.com","oauth_1779703353803_fla4ijw20qn","user","3717","2026-05-25T10:02:34.349+00:00"
 "2e134436-0843-4e14-b78c-4a8147d5094d","Kingza","kingzax666@gmail.com","82Z5qeYyqyue7R4","user","4868","2026-06-01T07:59:50.019+00:00"
 "66f27b08-bced-4f58-bfaa-2b7de21959c1","shanrys","shanrys0@gmail.com","shanrys123","user","16350","2026-04-27T02:48:16.489+00:00"
-"d941513e-59e5-458b-b7b4-397b3465b02a","Bayu Prayogi","bayuprygii11@gmail.com","Brayan01@","user","24950","2026-05-28T01:02:55.712+00:00"
 "8a64ce3e-d84a-4bb0-9e7e-29585f4693f3","Gilang Raja","gilang611456@gmail.com","oauth_1780137846243_vu7rzyycep","user","20000","2026-05-30T10:44:06.692+00:00"
 "99c8c6c6-66f6-4340-bce9-74a4aac06b4c","karyanto","karyanto6@gmail.com","selatan99","user","333","2026-05-21T02:48:34.884+00:00"
 "9a601a12-8cdb-4c6b-9e0b-0d8d008485da","test mazon3","testmazon3@gmail.com","oauth_1779848693503_keqpnoxddf","user","1223","2026-05-27T02:24:54.057+00:00"
@@ -180,3 +179,4 @@ id,username,email,password,role,balance,created_at
 "c874ee8d-b6f4-4b36-9470-4bbb002c1a3d","Sotong ajah","rimlonga@gmail.com","999999","user","334","2026-06-05T11:22:25.48+00:00"
 "d1e192aa-678e-44a2-b68e-c94114111d60","Jetz","jetzofficial.id@gmail.com","Jetz20#","user","269993","2026-04-20T12:03:21.147+00:00"
 "5c7270ee-c808-4c08-b269-72b328f7908b","Fahri","fahrihosting3@gmail.com","fahrihosting3","user","278044","2026-04-20T13:54:09.92+00:00"
+"d941513e-59e5-458b-b7b4-397b3465b02a","Bayu Prayogi","bayuprygii11@gmail.com","Brayan01@","user","2930","2026-05-28T01:02:55.712+00:00"
