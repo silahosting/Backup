@@ -19,7 +19,6 @@ id,username,email,password,role,balance,created_at,updated_at,telegram_id
 "41af8892-0355-410a-8bd8-d9e4cd06ad44","CsAriq Media","ariqzuhchanel@gmail.com","oauth_1779181227786_qynflyc8rqc","user","0","2026-05-19T09:00:28.369+00:00","2026-06-11T00:29:09.576396+00:00",
 "76280a65-cd59-4684-b917-ce250b0dd908","B2fbot","adelpoke7@gmail.com","fahrihosting3","user","0","2026-05-19T10:33:20.595+00:00","2026-06-11T00:29:09.576396+00:00",
 "5298e991-2b18-4283-9012-71d9a3d63187","dola","mrbnwl404040@gmail.com","Gelo123","user","5000","2026-05-19T11:25:59.086+00:00","2026-06-11T00:29:09.576396+00:00",
-"2fce7375-f76a-4a30-bea5-9f4a7c2a69ab","Fahri","7983128433","-","user","560214","2026-06-12T05:58:10.058+00:00","2026-06-12T05:58:10.058+00:00",
 "96180367-dcaf-43ab-932b-6fb466616669","KANEKES","kanekes26@gmail.com","oauth_1779406499442_np3l0izy0r","user","0","2026-05-21T23:35:00.396+00:00","2026-06-11T00:29:09.576396+00:00",
 "db2545ff-a920-4a6b-af22-3c604b60f7f4","SITI NURMALA SARI","nurmalasari0400@gmail.com","malasr30","user","0","2026-05-22T08:19:42.624+00:00","2026-06-11T00:29:09.576396+00:00",
 "85ba1e8a-0f65-4a23-8077-deb52b6803a9","siti nurasiah","stinurasiah22@gmail.com","ai1989","user","0","2026-05-22T08:29:49.919+00:00","2026-06-11T00:29:09.576396+00:00",
@@ -186,7 +185,7 @@ id,username,email,password,role,balance,created_at,updated_at,telegram_id
 "b6fc5161-6492-4b2b-b9c2-0acd951d134d","Berak nibos ","siberakcoy@gmail.com","Pertamax21","user","4933","2026-05-11T05:14:32.393+00:00","2026-06-12T01:51:04.694+00:00",
 "f5745b10-1493-4867-855e-ed6da1eb544a","OTPCepet","6906449577","-","user","9965171","2026-06-11T21:50:45.676+00:00","2026-06-12T01:51:06.047+00:00",
 "d5e60d0d-2df0-48da-93ea-26ddaed88bd5",,"6885537759","-","user","5000","2026-06-12T04:44:18.886+00:00","2026-06-12T04:44:18.886+00:00",
-"5c7270ee-c808-4c08-b269-72b328f7908b","Fahri","fahrihosting3@gmail.com","fahrihosting3","user","0","2026-04-20T13:54:09.92+00:00","2026-06-12T05:58:09.801+00:00",
+"5c7270ee-c808-4c08-b269-72b328f7908b","Fahri","fahrihosting3@gmail.com","fahrihosting3","user","560214","2026-04-20T13:54:09.92+00:00","2026-06-12T05:58:41.437+00:00","7983128433"
 "d1e192aa-678e-44a2-b68e-c94114111d60","Jetz","jetzofficial.id@gmail.com","Jetz20#","user","269993","2026-04-20T12:03:21.147+00:00","2026-06-11T00:29:09.576396+00:00",
 "c874ee8d-b6f4-4b36-9470-4bbb002c1a3d","Sotong ajah","rimlonga@gmail.com","999999","user","1102","2026-06-05T11:22:25.48+00:00","2026-06-11T00:29:09.576396+00:00",
 "d941513e-59e5-458b-b7b4-397b3465b02a","Bayu Prayogi","bayuprygii11@gmail.com","Brayan01@","user","24950","2026-05-28T01:02:55.712+00:00","2026-06-11T00:29:09.576396+00:00",
