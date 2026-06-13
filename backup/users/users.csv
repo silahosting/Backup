@@ -20,6 +20,7 @@ id,username,email,password,role,balance,created_at,updated_at,telegram_id
 "76280a65-cd59-4684-b917-ce250b0dd908","B2fbot","adelpoke7@gmail.com","fahrihosting3","user","0","2026-05-19T10:33:20.595+00:00","2026-06-11T00:29:09.576396+00:00",
 "5298e991-2b18-4283-9012-71d9a3d63187","dola","mrbnwl404040@gmail.com","Gelo123","user","5000","2026-05-19T11:25:59.086+00:00","2026-06-11T00:29:09.576396+00:00",
 "96180367-dcaf-43ab-932b-6fb466616669","KANEKES","kanekes26@gmail.com","oauth_1779406499442_np3l0izy0r","user","0","2026-05-21T23:35:00.396+00:00","2026-06-11T00:29:09.576396+00:00",
+"a452c6d1-3dc9-4890-984c-1e30063432d4",,"8168678521","-","user","0","2026-06-13T16:25:23.53+00:00","2026-06-13T16:25:23.53+00:00",
 "db2545ff-a920-4a6b-af22-3c604b60f7f4","SITI NURMALA SARI","nurmalasari0400@gmail.com","malasr30","user","0","2026-05-22T08:19:42.624+00:00","2026-06-11T00:29:09.576396+00:00",
 "85ba1e8a-0f65-4a23-8077-deb52b6803a9","siti nurasiah","stinurasiah22@gmail.com","ai1989","user","0","2026-05-22T08:29:49.919+00:00","2026-06-11T00:29:09.576396+00:00",
 "630d6a01-3b29-493b-a1fb-aa166a52b327","ifaaggwp","rifaistokyt@gmail.com","110500","user","0","2026-05-19T14:04:58.501+00:00","2026-06-11T00:29:09.576396+00:00",
@@ -47,6 +48,7 @@ id,username,email,password,role,balance,created_at,updated_at,telegram_id
 "05cf1030-fac4-48f9-a3ef-e5ff9adc0b6a","Bentar juandi","bentartatto@gmail.com","alena28","user","0","2026-06-03T11:02:36.577+00:00","2026-06-11T00:29:09.576396+00:00",
 "a8527846-ff17-4314-a621-ca048824b375","Dio Andi maulana","dioandimaulana47@gmail.com","oauth_1780497120910_j8cg1cvfeu","user","0","2026-06-03T14:32:01.483+00:00","2026-06-11T00:29:09.576396+00:00",
 "944cad47-4ce1-4e54-a9fc-544ac0b02d68","Zum","zumrotulkaromah2002@gmail.com","220202","user","0","2026-06-03T14:35:32.955+00:00","2026-06-11T00:29:09.576396+00:00",
+"c3037854-8841-4948-94d5-76f64137b3ee",,"6293463296","-","user","0","2026-06-13T16:27:13.353+00:00","2026-06-13T16:27:13.353+00:00",
 "ababbe4f-a24c-4dab-a704-b7e2ae4ab836","Hamba Hamba","hambah042@gmail.com","oauth_1780715275960_438i9opy0ou","user","0","2026-06-06T03:07:56.471+00:00","2026-06-11T00:29:09.576396+00:00",
 "15e37d89-4e8a-4433-8976-8a7778e7a288","Satur Realme","saturealme1@gmail.com","oauth_1780659311537_etqt0w4q4l6","user","0","2026-06-05T11:35:12.024+00:00","2026-06-11T00:29:09.576396+00:00",
 "59306f06-c75b-499c-9ee2-433f5c1dcb04","Gibran","note50.x6858@gmail.com","K3m4y0r4n","user","0","2026-05-31T14:13:35.484+00:00","2026-06-11T00:29:09.576396+00:00",
@@ -149,6 +151,7 @@ id,username,email,password,role,balance,created_at,updated_at,telegram_id
 "eaa6c9ac-b90f-42c5-9215-c0cd5fbdfe1f","Sila Aulia","silaauliaaa6@gmail.com","oauth_1781239129643_5scxjtb5add","user","0","2026-06-12T04:38:49.745+00:00","2026-06-12T04:41:09.484+00:00","7019487697"
 "d2240d4c-03e2-4f5e-90a0-8f78cdeb8560","Fath18 ","yongmodoo2000@gmail.com","@Davinci88","user","437","2026-05-10T01:08:56.283+00:00","2026-06-11T00:29:09.576396+00:00",
 "5f4eafa3-d75d-4e04-ae6b-2ff2637ee879","Geros","gerosop55@gmail.com","oauth_1781340960091_4538xgj7gqv","user","0","2026-06-13T08:56:00.189+00:00","2026-06-13T08:56:00.208188+00:00",
+"027f7755-eb5a-4557-9dda-a5df482e8f34",,"464273386","-","user","0","2026-06-13T16:27:46.037+00:00","2026-06-13T16:27:46.037+00:00",
 "c488d256-0c44-409b-ad70-3ae3a31ff994","Dek Qu","qudek40@gmail.com","oauth_1780344582110_r8tacm5svio","user","3000","2026-06-01T20:09:43.127+00:00","2026-06-11T00:29:09.576396+00:00",
 "3922c71f-260a-4849-9cdd-a2cbdd1281d0","asu123","gullitauba@gmail.com","Memek123","user","100","2026-05-30T06:57:50.426+00:00","2026-06-11T00:29:09.576396+00:00",
 "e1fd0bd9-887f-4dff-be5d-03cfa2d90ec7","anindya","beybaboo@gmail.com","oauth_1780322813993_8sddkpffnst","user","3681","2026-06-01T14:06:54.643+00:00","2026-06-11T00:29:09.576396+00:00",
