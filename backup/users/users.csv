@@ -145,6 +145,7 @@ id,username,email,password,role,balance,created_at,updated_at,telegram_id
 "43450dc6-7af0-4dc6-8e09-98548446092c","Falz Gnz","falzgnz07@gmail.com","oauth_1781082256645_g4k0jhrer77","user","0","2026-06-10T09:04:16.761+00:00","2026-06-11T00:29:09.576396+00:00",
 "9537c929-3d9c-4fa2-ab76-24ad59754434","Astr Yna","ynaastr@gmail.com","oauth_1781196148723_e7wabjs71fl","user","0","2026-06-11T16:42:28.823+00:00","2026-06-11T16:42:28.850188+00:00",
 "c94189dc-f697-4bcf-a616-217f5a774abe","SRI WAHYUNI ","sriw4335@gmail.com","Sriwhy123","user","35056","2026-05-26T05:37:50.4+00:00","2026-06-12T01:50:57.574+00:00",
+"f71bf22d-c864-4f3f-afa8-aac83b61b45d","Hafidzrivaldii","hafidzrivaldi@gmail.com","8284e3c4311b","user","9774","2026-05-10T13:20:32.774+00:00","2026-06-15T05:16:01.849+00:00","532156236"
 "62d098ec-4111-4add-8d8f-56d7bd19820c","Sandi","payshope52@gmail.com","qwe12345","user","2807","2026-05-20T13:41:58.639+00:00","2026-06-11T00:29:09.576396+00:00",
 "4de72e06-4599-4bf8-9f46-6d4f1178c437","arif","arifbws@gmail.com","wdppblhg","user","49842","2026-04-27T01:55:08.483+00:00","2026-06-12T01:50:52.852+00:00",
 "a5b860c2-a97b-455a-884e-641aee7b9817","MA m Nam","nam.rey000188@gmail.com","oauth_1779934843015_mruidvjex0c","user","480","2026-05-28T02:20:43.541+00:00","2026-06-11T00:29:09.576396+00:00",
@@ -156,7 +157,6 @@ id,username,email,password,role,balance,created_at,updated_at,telegram_id
 "3f1a620d-92c7-404c-a9bc-4b7dd51e4781","rulevz77","5941574286","-","user","132042","2026-06-14T00:46:04.73+00:00","2026-06-14T01:22:07.898+00:00",
 "027f7755-eb5a-4557-9dda-a5df482e8f34",,"464273386","-","user","0","2026-06-13T16:27:46.037+00:00","2026-06-13T16:27:46.037+00:00",
 "caed60b8-46eb-4c07-805d-acd91848714b","etslayy","salsanovember11@gmail.com","salsadila28","user","10813","2026-05-19T15:17:30.159+00:00","2026-06-14T01:07:42.446+00:00","8734757752"
-"f71bf22d-c864-4f3f-afa8-aac83b61b45d","Hafidzrivaldii","hafidzrivaldi@gmail.com","8284e3c4311b","user","6672","2026-05-10T13:20:32.774+00:00","2026-06-15T05:13:56.815+00:00","532156236"
 "c488d256-0c44-409b-ad70-3ae3a31ff994","Dek Qu","qudek40@gmail.com","oauth_1780344582110_r8tacm5svio","user","3000","2026-06-01T20:09:43.127+00:00","2026-06-11T00:29:09.576396+00:00",
 "3922c71f-260a-4849-9cdd-a2cbdd1281d0","asu123","gullitauba@gmail.com","Memek123","user","100","2026-05-30T06:57:50.426+00:00","2026-06-11T00:29:09.576396+00:00",
 "e1fd0bd9-887f-4dff-be5d-03cfa2d90ec7","anindya","beybaboo@gmail.com","oauth_1780322813993_8sddkpffnst","user","3681","2026-06-01T14:06:54.643+00:00","2026-06-11T00:29:09.576396+00:00",
