@@ -119,6 +119,7 @@ id,username,email,password,role,balance,created_at,updated_at,telegram_id
 "644ef394-ba7f-4a4a-86a6-49f6d571c123","denn","dh889290@gmail.com","dened12366","user","0","2026-05-14T12:41:08.931+00:00","2026-06-11T00:29:09.576396+00:00",
 "1b023df2-9b9a-466e-bdde-700d22efaf3a","Aryabaskara ","aryaakun015@gmail.com","Arya2009","user","460","2026-05-31T15:25:40.643+00:00","2026-06-11T00:29:09.576396+00:00",
 "a3ee67e2-5c5f-4cea-94ef-8f791fab3ff3","veroni","uguragang@gmail.com","veroninik0","user","0","2026-05-15T11:32:53.093+00:00","2026-06-11T00:29:09.576396+00:00",
+"f71bf22d-c864-4f3f-afa8-aac83b61b45d","Hafidzrivaldii","hafidzrivaldi@gmail.com","8284e3c4311b","user","12876","2026-05-10T13:20:32.774+00:00","2026-06-15T04:51:30.876+00:00","532156236"
 "6e0a8f22-1f8f-4369-b895-d7fdcb5413df","Judin","toyeflas@gmail.com","10Brother@","user","0","2026-05-15T14:23:13.819+00:00","2026-06-11T00:29:09.576396+00:00",
 "251b9684-130e-4ad4-8a8b-0bc1d51d4f7d","Rija Rifai","rizabujel57@gmail.com","oauth_1779164044827_972occo5vjt","user","133","2026-05-19T04:14:05.313+00:00","2026-06-11T00:29:09.576396+00:00",
 "69102893-7b29-45d9-a2f3-c9692e219010","Gacorree","mobilemuksin332@gmail.com","gacor9999","user","0","2026-05-16T11:50:54.771+00:00","2026-06-11T00:29:09.576396+00:00",
@@ -145,7 +146,6 @@ id,username,email,password,role,balance,created_at,updated_at,telegram_id
 "43450dc6-7af0-4dc6-8e09-98548446092c","Falz Gnz","falzgnz07@gmail.com","oauth_1781082256645_g4k0jhrer77","user","0","2026-06-10T09:04:16.761+00:00","2026-06-11T00:29:09.576396+00:00",
 "9537c929-3d9c-4fa2-ab76-24ad59754434","Astr Yna","ynaastr@gmail.com","oauth_1781196148723_e7wabjs71fl","user","0","2026-06-11T16:42:28.823+00:00","2026-06-11T16:42:28.850188+00:00",
 "c94189dc-f697-4bcf-a616-217f5a774abe","SRI WAHYUNI ","sriw4335@gmail.com","Sriwhy123","user","35056","2026-05-26T05:37:50.4+00:00","2026-06-12T01:50:57.574+00:00",
-"f71bf22d-c864-4f3f-afa8-aac83b61b45d","Hafidzrivaldii","hafidzrivaldi@gmail.com","8284e3c4311b","user","15997","2026-05-10T13:20:32.774+00:00","2026-06-15T04:50:37.492+00:00","532156236"
 "62d098ec-4111-4add-8d8f-56d7bd19820c","Sandi","payshope52@gmail.com","qwe12345","user","2807","2026-05-20T13:41:58.639+00:00","2026-06-11T00:29:09.576396+00:00",
 "4de72e06-4599-4bf8-9f46-6d4f1178c437","arif","arifbws@gmail.com","wdppblhg","user","49842","2026-04-27T01:55:08.483+00:00","2026-06-12T01:50:52.852+00:00",
 "a5b860c2-a97b-455a-884e-641aee7b9817","MA m Nam","nam.rey000188@gmail.com","oauth_1779934843015_mruidvjex0c","user","480","2026-05-28T02:20:43.541+00:00","2026-06-11T00:29:09.576396+00:00",
@@ -171,6 +171,7 @@ id,username,email,password,role,balance,created_at,updated_at,telegram_id
 "06b5e0e8-bf5d-4527-b6a9-dcd09b2fa910","ALFINA FAUZIAH","mamaalisa0304@gmail.com","050922","user","846","2026-06-04T12:20:16.252+00:00","2026-06-11T00:29:09.576396+00:00",
 "6699d7bc-e095-4940-b751-b6c1974c027a","Bogel3232","rizkimaulanabogel48@gmail.com","rehan3232","user","1712","2026-05-15T14:09:59.149+00:00","2026-06-11T00:29:09.576396+00:00",
 "ee81a6b3-48a3-42ce-bce6-0bab53591635","Rizki saputra","jancokjeck4@gmail.com","Gendon13*","user","1402","2026-05-17T02:38:06.445+00:00","2026-06-11T00:29:09.576396+00:00",
+"0a92ad52-1c56-43ec-aaa0-4c061d7aa08b","Amar","8711889352","-","user","7074","2026-06-14T06:49:41.495+00:00","2026-06-15T04:54:21.241+00:00",
 "f86b995a-3bb9-4a58-bd36-9dd49e53f09e","result","resultboy99@gmail.com","apasaja","user","20000","2026-06-05T08:01:45.834+00:00","2026-06-11T00:29:09.576396+00:00",
 "c7dac824-a449-44d9-9a79-5a76c8a9f75d","test mazon2","testmazon2@gmail.com","oauth_1779833438214_04dj9yyzdh53","user","1428","2026-05-26T22:10:38.749+00:00","2026-06-11T00:29:09.576396+00:00",
 "99d90bf9-9f5b-4ddd-a8fc-2616122bd389","King anop ","buyeraot@gmail.com","Anjing55","user","2700","2026-05-03T21:29:28.673+00:00","2026-06-11T00:29:09.576396+00:00",
@@ -206,4 +207,3 @@ id,username,email,password,role,balance,created_at,updated_at,telegram_id
 "8b1bc967-1217-4f1a-9e94-861c12200229",,"6297081926","-","user","0","2026-06-13T16:30:22.551+00:00","2026-06-13T16:30:22.551+00:00",
 "5be292ed-da6d-4767-aecb-5ff8be9901a8",,"8506440558","-","user","0","2026-06-13T16:30:37.938+00:00","2026-06-13T16:30:37.938+00:00",
 "f5745b10-1493-4867-855e-ed6da1eb544a","OTPCepet","6906449577","-","user","9966595","2026-06-11T21:50:45.676+00:00","2026-06-14T06:17:39.48+00:00",
-"0a92ad52-1c56-43ec-aaa0-4c061d7aa08b","Amar","8711889352","-","user","7074","2026-06-14T06:49:41.495+00:00","2026-06-15T04:40:53.798+00:00",
