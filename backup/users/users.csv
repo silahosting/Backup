@@ -199,7 +199,6 @@ id,username,email,password,role,balance,created_at,updated_at,telegram_id
 "8a64ce3e-d84a-4bb0-9e7e-29585f4693f3","Gilang Raja","gilang611456@gmail.com","oauth_1780137846243_vu7rzyycep","user","20000","2026-05-30T10:44:06.692+00:00","2026-06-11T00:29:09.576396+00:00",
 "99c8c6c6-66f6-4340-bce9-74a4aac06b4c","karyanto","karyanto6@gmail.com","selatan99","user","333","2026-05-21T02:48:34.884+00:00","2026-06-11T00:29:09.576396+00:00",
 "9a601a12-8cdb-4c6b-9e0b-0d8d008485da","test mazon3","testmazon3@gmail.com","oauth_1779848693503_keqpnoxddf","user","1223","2026-05-27T02:24:54.057+00:00","2026-06-11T00:29:09.576396+00:00",
-"5c7270ee-c808-4c08-b269-72b328f7908b","Lilillfh","fahrihosting3@gmail.com","fahrihosting3","user","550817","2026-04-20T13:54:09.92+00:00","2026-06-21T01:06:33.858+00:00","7983128433"
 "1fdd3b11-b655-449b-a28a-f73ac88532aa","Rizky","rizkywahyupratama28@gmail.com","rizky123","user","14","2026-05-16T00:12:12.79+00:00","2026-06-11T00:29:09.576396+00:00",
 "935b7cc4-3973-44b7-acbc-db8d31c38130","Bagas","ach.bagas58@gmail.com","bismillahjp","user","5000","2026-05-11T20:41:42.373+00:00","2026-06-11T00:29:09.576396+00:00",
 "fdd74a0b-0ee9-4822-a8fa-dd9e8eb3f5b8","Ishana Athari","shana22.athari@gmail.com","oauth_1780151315490_28bntg6iam8","user","8862","2026-05-30T14:28:36.416+00:00","2026-06-11T00:29:09.576396+00:00",
@@ -218,6 +217,7 @@ id,username,email,password,role,balance,created_at,updated_at,telegram_id
 "d5e60d0d-2df0-48da-93ea-26ddaed88bd5",,"6885537759","-","user","5000","2026-06-12T04:44:18.886+00:00","2026-06-12T04:44:18.886+00:00",
 "d1e192aa-678e-44a2-b68e-c94114111d60","Jetz","jetzofficial.id@gmail.com","Jetz20#","user","269993","2026-04-20T12:03:21.147+00:00","2026-06-11T00:29:09.576396+00:00",
 "0ff0e9e1-d7f3-42fa-85fa-b4106b899252","putryaureliya","8753817035","-","user","3000","2026-06-19T05:54:48.778+00:00","2026-06-19T06:44:58.332+00:00",
+"5c7270ee-c808-4c08-b269-72b328f7908b","Lilillfh","fahrihosting3@gmail.com","fahrihosting3","user","552080","2026-04-20T13:54:09.92+00:00","2026-06-21T01:11:23.339+00:00","7983128433"
 "0a92ad52-1c56-43ec-aaa0-4c061d7aa08b","Amar","8711889352","-","user","8824","2026-06-14T06:49:41.495+00:00","2026-06-16T12:51:13.504+00:00",
 "a5086cb7-de83-4db2-a19e-117c1f1e94c2","Kim","7548956352","-","user","5000","2026-06-18T17:51:04.494+00:00","2026-06-18T18:16:26.074+00:00",
 "0207e6eb-cdff-418f-b7f4-fdbddead2692","Bexzzyeetz","8427788355","-","user","0","2026-06-20T18:21:30.375+00:00","2026-06-20T20:09:04.464+00:00",
