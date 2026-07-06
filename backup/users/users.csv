@@ -241,6 +241,7 @@ id,username,email,password,role,balance,created_at,updated_at,telegram_id
 "78a4b347-d8d4-4caa-84ab-e305169c4dd0","biyan","iyanexsee@gmail.com","Kandangan0210","user","897","2026-05-19T09:16:51.732+00:00","2026-06-11T00:29:09.576396+00:00",
 "edc98d8e-4f15-4607-9bab-126ed8ed7ed3","OFI HOME","ofihome.co@gmail.com","oauth_1779882046695_kh510ab7qd","user","4021","2026-05-27T11:40:47.323+00:00","2026-06-11T00:29:09.576396+00:00",
 "17092db6-7c5c-4c39-a3bd-86150c727f1f","sLclutchcc","7900192599","-","user","3400","2026-06-19T12:30:11.165+00:00","2026-06-19T12:37:00.825+00:00",
+"0ff0e9e1-d7f3-42fa-85fa-b4106b899252","putryaureliya","8753817035","-","user","5050","2026-06-19T05:54:48.778+00:00","2026-07-06T09:28:11.152+00:00",
 "306764e6-19ad-4c85-8de5-29a5b1601e3e","abdul aziz","meniahhajani@gmail.com","abdula87","user","3400","2026-05-26T00:04:41.23+00:00","2026-06-12T01:50:58.737+00:00",
 "16560ca7-2942-4aba-aa44-9fce78b1e689","Muhammad Ruslih ","frhanmaulana6@gmail.com","Rusli122","user","6297","2026-05-10T20:21:10.379+00:00","2026-06-12T01:51:03.535+00:00",
 "b6fc5161-6492-4b2b-b9c2-0acd951d134d","Berak nibos ","siberakcoy@gmail.com","Pertamax21","user","4933","2026-05-11T05:14:32.393+00:00","2026-06-12T01:51:04.694+00:00",
@@ -270,4 +271,3 @@ id,username,email,password,role,balance,created_at,updated_at,telegram_id
 "0a92ad52-1c56-43ec-aaa0-4c061d7aa08b","Amar","8711889352","-","user","20110","2026-06-14T06:49:41.495+00:00","2026-07-05T14:17:04.713+00:00",
 "ded23dc8-2c9c-4fea-bfbc-074ec2f4836c","Tegar satrio","tegarsatrio1221@gmail.com","oauth_1783006924070_6p98nxjaawd","user","0","2026-07-02T15:42:04.177+00:00","2026-07-02T15:42:04.205046+00:00",
 "c7dac824-a449-44d9-9a79-5a76c8a9f75d","WEZZZY66","testmazon2@gmail.com","oauth_1779833438214_04dj9yyzdh53","user","2371","2026-05-26T22:10:38.749+00:00","2026-06-30T04:47:19.292+00:00","5973917113"
-"0ff0e9e1-d7f3-42fa-85fa-b4106b899252","putryaureliya","8753817035","-","user","10050","2026-06-19T05:54:48.778+00:00","2026-07-06T09:25:51.372+00:00",
